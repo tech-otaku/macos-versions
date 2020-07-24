@@ -1,0 +1,85 @@
+extends layout.pug
+
+block layout-content
+
+    div.description
+        p
+            | This is a simple Node.js that displays the contents of a file containing JSON-encoded data on the left and 
+            | the result of parsing that file using a Python script on the right. The latter is executed by the Node.js 
+            | application as a spawned child process. 
+
+        p   
+            | The GitHub repository for this Node.js application can be found at 
+            a(href="https://github.com/tech-otaku/macos-versions", target="_blank") macos-versions
+            |.
+
+        p
+            | The information on macOS (Mac OS X) releases contained in the file 
+            span.code macos.json
+            | &nbsp;is for demonstration purposes. While every attempt has been made to ensure this data is correct, 
+            | its accuracy is not guaranteed.
+        
+    div.row
+        div.column.text
+            h3 JSON File
+            p The contents of the file 
+                a.navigation(href="https://raw.githubusercontent.com/tech-otaku/macos-versions/master/json/macos.json", target="_blank") macos.json 
+            pre#copy.json #{prettyprint}
+        div.column.text
+            h3 Parsed JSON
+            p The result of the file 
+                a.navigation(href="https://raw.githubusercontent.com/tech-otaku/macos-versions/master/json/macos.json", target="_blank") macos.json
+                span &nbsp;parsed by the Python script 
+                a.navigation(href="https://raw.githubusercontent.com/tech-otaku/macos-versions/master/python/parse-json.py", target="_blank") parse-json.py
+            pre.json #{parsed}
+    div.row
+        div.column
+            p Sources:
+            ul.sources 
+                li 
+                    a(href="https://en.wikipedia.org/wiki/List_of_macOS_components", target="_blank") List of macOS components
+                li
+                    a(href="https://robservatory.com/a-full-history-of-macos-os-x-release-dates-and-rates/", target="_blank") A full history of macOS (OS X) release dates and rates
+                li
+                    a(href="https://en.wikipedia.org/wiki/MacOS#Hardware_compatibility", target="_blank") macOS Hardware Compatibility
+                li
+                    a(href="https://en.wikipedia.org/wiki/MacOS_version_history#Releases", target="_blank") macOS Version History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_10.0#Release_history", target="_blank") Mac OS X 10.0 Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_10.1#Release_history", target="_blank") Mac OS X 10.1 Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_Jaguar#Release_history", target="_blank") Mac OS X Jaguar Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_Panther#Release_history", target="_blank") Mac OS X Panther Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_Tiger#Release_history", target="_blank") Mac OS X Tiger Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_Leopard#Release_history", target="_blank") Mac OS X Leopard Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard#Release_history", target="_blank") Mac OS X Snow Leopard Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_Lion#Release_history", target="_blank") Mac OS X Lion Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/Mac_OS_X_Mountain_Lion#Release_history", target="_blank") Mac OS X Mountain Lion Release History
+        div.column
+            p Sources (continued):
+            ul.sources
+                li
+                    a(href="https://en.wikipedia.org/wiki/OS_X_Mavericks#Release_history", target="_blank") Mac OS X Mavericks Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/OS_X_Yosemite#Release_history", target="_blank") Mac OS X Yosemite Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/OS_X_El_Capitan#Release_history", target="_blank") Mac OS X El Capitan Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/MacOS_Sierra#Release_history", target="_blank") macOS Sierra Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/MacOS_High_Sierra#Release_history", target="_blank") macOS High Sierra Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/MacOS_Mojave#Release_history", target="_blank") macOS Mojave Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/MacOS_Catalina#Release_history", target="_blank") macOS Catalina Release History
+                li
+                    a(href="https://en.wikipedia.org/wiki/MacOS_Big_Sur#Release_history", target="_blank") macOS Big Sur Release History
+                li
+                    a(href="https://apps.apple.com/us/app/mactracker/id430255202?mt=12", target="_blank") Mactracker

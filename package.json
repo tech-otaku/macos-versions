@@ -1,0 +1,29 @@
+{
+    "name": "macos-releases",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon ./index.js",
+        "ui": "browser-sync start --proxy=localhost:5000 --files='**/*.css, **/*.pug, **/*.js, **/*.json, **/*.py' --ignore=node_modules --reload-delay 10 --no-notify"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tech-otaku/macos-releases.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tech-otaku/macos-releases/issues"
+    },
+    "homepage": "https://github.com/tech-otaku/macos-releases#readme",
+    "devDependencies": {
+        "browser-sync": "^2.26.7",
+        "nodemon": "^2.0.4"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "pug": "^3.0.0"
+    }
+}

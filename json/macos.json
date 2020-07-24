@@ -1,0 +1,1050 @@
+{
+    "updated": "2020-07-22",
+    "versions": [
+        {
+            "family": "Mac OS X",
+            "version": "Public Beta",
+            "codename": "Kodiak",
+            "announced":"2000-05-15",
+            "released": "2000-09-13",
+            "requirements": [
+                "PowerPC G3 (original PowerBook G3 not supported)",
+                "128 MB of RAM",
+                "1.5 GB of avaialable disk space"
+            ],
+            "releases": [
+                {
+                    "version": "US",
+                    "build": "1H39",
+                    "darwin": "1.2.1",
+                    "released": "2000-09-13"
+                },
+                {
+                    "version": "Int.",
+                    "build": "2E14",
+                    "darwin": "1.2.1",
+                    "released": "2000-09-13"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.0",
+            "codename": "Cheetah",
+            "announced":"2001-01-09",
+            "released": "2001-03-24",
+            "requirements": [
+                "PowerPC G3 (original PowerBook G3 not supported)",
+                "128 MB of RAM",
+                "1.5 GB of avaialable disk space"
+            ],
+            "releases": [
+                {
+                    "version": "10.0",
+                    "build": "4K78",
+                    "darwin": "1.3.1",
+                    "released": "2001-03-24"
+                },
+                {
+                    "version": "10.0.1",
+                    "build": "4L13",
+                    "darwin": "1.3.1",
+                    "released": "2001-04-14"
+                },
+                {
+                    "version": "10.0.2",
+                    "build": "4P12",
+                    "darwin": "1.3.1",
+                    "released": "2001-05-01"
+                },
+                {
+                    "version": "10.0.3",
+                    "build": "4P13",
+                    "darwin": "1.3.1",
+                    "released": "2001-05-09"
+                },
+                {
+                    "version": "10.0.4",
+                    "build": "4Q12",
+                    "darwin": "1.3.1",
+                    "released": "2001-06-21"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.1",
+            "codename": "Puma",
+            "announced":"2001-07-18",
+            "released": "2001-09-25",
+            "requirements": [
+                "PowerPC G3 (original PowerBook G3 not supported)",
+                "128 MB of RAM",
+                "1.5 GB of avaialable disk space"
+            ],
+            "releases": [
+                {
+                    "version": "10.1",
+                    "build": "5G64",
+                    "darwin": "1.4.1",
+                    "released": "2001-09-25"
+                },
+                {
+                    "version": "10.1.1",
+                    "build": "5M28",
+                    "darwin": "5.1.0",
+                    "released": "2001-11-12"
+                },
+                {
+                    "version": "10.1.2",
+                    "build": "5P48",
+                    "darwin": "5.2.0",
+                    "released": "2001-12-21"
+                },
+                {
+                    "version": "10.1.3",
+                    "build": "5Q45",
+                    "darwin": "5.3.0",
+                    "released": "2002-02-19"
+                },
+                {
+                    "version": "10.1.4",
+                    "build": "5Q125",
+                    "darwin": "5.4.0",
+                    "released": "2002-04-17"
+                },
+                {
+                    "version": "10.1.5",
+                    "build": "5S60",
+                    "darwin": "5.5.0",
+                    "released": "2002-06-05"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.2",
+            "codename": "Jaguar",
+            "announced":"2002-05-06",
+            "released": "2002-08-24",
+            "requirements": [
+                "PowerPC G3 (original PowerBook G3 not supported)",
+                "128 MB of RAM",
+                "3 GB of avaialable disk space"
+            ],
+            "releases": [
+                {
+                    "version": "10.2",
+                    "build": "6C115",
+                    "darwin": "6.0.0",
+                    "released": "2002-08-24"
+                },
+                {
+                    "version": "10.2.1",
+                    "build": "6D52",
+                    "darwin": "6.1.0",
+                    "released": "2002-09-18"
+                },
+                {
+                    "version": "10.2.2",
+                    "build": "6F21",
+                    "darwin": "6.2.0",
+                    "released": "2002-11-11"
+                },
+                {
+                    "version": "10.2.3",
+                    "build": "6G30",
+                    "darwin": "6.3.0",
+                    "released": "2002-12-19"
+                },
+                {
+                    "version": "10.2.4",
+                    "build": "6I32",
+                    "darwin": "6.4.0",
+                    "released": "2003-02-13"
+                },
+                {
+                    "version": "10.2.5",
+                    "build": "6L29",
+                    "darwin": "6.5.0",
+                    "released": "2003-04-10"
+                },
+                {
+                    "version": "10.2.6",
+                    "build": "6L60",
+                    "darwin": "6.6.0",
+                    "released": "2003-05-06"
+                },
+                {
+                    "version": "10.2.7",
+                    "build": "6R65",
+                    "darwin": "6.7.0",
+                    "released": "2003-09-22"
+                },
+                {
+                    "version": "10.2.8",
+                    "build": "6R73",
+                    "darwin": "6.8.0",
+                    "released": "2003-10-03"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.3",
+            "codename": "Panther",
+            "announced":"2003-06-23",
+            "released": "2003-10-24",
+            "requirements": [
+                "PowerPC G3 or later",
+                "Built-in USB",
+                "128 MB of RAM",
+                "3 GB of avaialable disk space"
+            ],
+            "releases": [
+                {
+                    "version": "10.3",
+                    "build": "7B85",
+                    "darwin": "7.0.0",
+                    "released": "2003-10-24"
+                },
+                {
+                    "version": "10.3.1",
+                    "build": "7C107",
+                    "darwin": "7.1.0",
+                    "released": "2003-11-10"
+                },
+                {
+                    "version": "10.3.2",
+                    "build": "7D24",
+                    "darwin": "7.2.0",
+                    "released": "2003-12-17"
+                },
+                {
+                    "version": "10.3.3",
+                    "build": "7F44",
+                    "darwin": "7.3.0",
+                    "released": "2004-03-15"
+                },
+                {
+                    "version": "10.3.4",
+                    "build": "7H63",
+                    "darwin": "7.4.0",
+                    "released": "2004-05-26"
+                },
+                {
+                    "version": "10.3.5",
+                    "build": "7M34",
+                    "darwin": "7.5.0",
+                    "released": "2004-08-09"
+                },
+                {
+                    "version": "10.3.6",
+                    "build": "7R28",
+                    "darwin": "7.6.0",
+                    "released": "2004-11-05"
+                },
+                {
+                    "version": "10.3.7",
+                    "build": "7S215",
+                    "darwin": "7.7.0",
+                    "released": "2004-12-15"
+                },
+                {
+                    "version": "10.3.8",
+                    "build": "7U16",
+                    "darwin": "7.8.0",
+                    "released": "2005-02-09"
+                },
+                {
+                    "version": "10.3.9",
+                    "build": "7W98",
+                    "darwin": "7.9.0",
+                    "released": "2005-04-15"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.4",
+            "codename": "Tiger",
+            "announced":"2004-05-04",
+            "released": "2005-04-29",
+            "requirements": [
+                "PowerPC G3 or later",
+                "Built-in FireWire",
+                "256 MB of RAM",
+                "3 GB of avaialable disk space"
+            ],
+            "releases": [
+                {
+                    "version": "10.4",
+                    "build": "8A428",
+                    "darwin": "8.0.0",
+                    "released": "2005-04-29"
+                },
+                {
+                    "version": "10.4.1",
+                    "build": "8B15",
+                    "darwin": "8.1.0",
+                    "released": "2005-05-16"
+                },
+                {
+                    "version": "10.4.2",
+                    "build": "8C46",
+                    "darwin": "8.2.0",
+                    "released": "2005-07-12"
+                },
+                {
+                    "version": "10.4.3",
+                    "build": "8F46",
+                    "darwin": "8.3.0",
+                    "released": "2005-10-31"
+                },
+                {
+                    "version": "10.4.4",
+                    "build": "8G32",
+                    "darwin": "8.4.0",
+                    "released": "2006-01-10"
+                },
+                {
+                    "version": "10.4.5",
+                    "build": "8H14",
+                    "darwin": "8.5.0",
+                    "released": "2006-02-14"
+                },
+                {
+                    "version": "10.4.6",
+                    "build": "8I127",
+                    "darwin": "8.6.0",
+                    "released": "2006-04-03"
+                },
+                {
+                    "version": "10.4.7",
+                    "build": "8J135",
+                    "darwin": "8.7.0",
+                    "released": "2006-06-27"
+                },
+                {
+                    "version": "10.4.8",
+                    "build": "8L127",
+                    "darwin": "8.8.0",
+                    "released": "2006-09-29"
+                },
+                {
+                    "version": "10.4.9",
+                    "build": "8P135",
+                    "darwin": "8.9.0",
+                    "released": "2007-03-13"
+                },
+                {
+                    "version": "10.4.10",
+                    "build": "8R218",
+                    "darwin": "8.10.0",
+                    "released": "2007-06-20"
+                },
+                {
+                    "version": "10.4.11",
+                    "build": "8S165",
+                    "darwin": "8.11.0",
+                    "released": "2007-11-14"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.5",
+            "codename": "Leopard",
+            "announced":"2006-06-26",
+            "released": "2007-10-26",
+            "requirements": [
+                "Intel, PowerPC G5, or PowerPC G4 (867 MHz or faster) processor",
+                "512 MB of RAM",
+                "9 GB of avaialable disk space"
+            ],
+            "releases": [
+                {
+                    "version": "10.5",
+                    "build": "9A581",
+                    "darwin": "9.0.0",
+                    "released": "2007-10-26"
+                },
+                {
+                    "version": "10.5.1",
+                    "build": "9B18",
+                    "darwin": "9.1.0",
+                    "released": "2007-11-15"
+                },
+                {
+                    "version": "10.5.2",
+                    "build": "9C31",
+                    "darwin": "9.2.0",
+                    "released": "2008-02-11"
+                },
+                {
+                    "version": "10.5.3",
+                    "build": "9D34",
+                    "darwin": "9.3.0",
+                    "released": "2008-05-28"
+                },
+
+                {
+                    "version": "10.5.4",
+                    "build": "9E17",
+                    "darwin": "9.4.0",
+                    "released": "2008-06-30"
+                },
+
+                {
+                    "version": "10.5.5",
+                    "build": "9F33",
+                    "darwin": "9.5.0",
+                    "released": "2008-09-15"
+                },
+
+                {
+                    "version": "10.5.6",
+                    "build": "9G55",
+                    "darwin": "9.6.0",
+                    "released": "2008-12-15"
+                },
+                {
+                    "version": "10.5.7",
+                    "build": "9J61",
+                    "darwin": "9.7.0",
+                    "released": "2009-05-12"
+                },
+                {
+                    "version": "10.5.8",
+                    "build": "9L30",
+                    "darwin": "9.8.0",
+                    "released": "2009-08-05"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.6",
+            "codename": "Snow Leopard",
+            "announced":"2008-06-09",
+            "released": "2009-08-28",
+            "requirements": [
+                "Intel processor",
+                "1 GB of RAM",
+                "5 GB of avaialable disk space"
+            ],
+            "releases": [
+                {
+                    "version": "10.6",
+                    "build": "10A432",
+                    "darwin": "10.0.0",
+                    "released": "2009-08-28"
+                },
+                {
+                    "version": "10.6.1",
+                    "build": "10B504",
+                    "darwin": "10.1.0",
+                    "released": "2009-09-10"
+                },
+                {
+                    "version": "10.6.2",
+                    "build": "10C540",
+                    "darwin": "10.2.0",
+                    "released": "2009-11-09"
+                },
+                {
+                    "version": "10.6.3",
+                    "build": "10D573",
+                    "darwin": "10.3.0",
+                    "released": "2010-03-29"
+                },
+                {
+                    "version": "10.6.4",
+                    "build": "10F569",
+                    "darwin": "10.4.0",
+                    "released": "2010-06-15"
+                },
+                {
+                    "version": "10.6.5",
+                    "build": "10H574",
+                    "darwin": "10.5.0",
+                    "released": "2010-11-10"
+                },
+                {
+                    "version": "10.6.6",
+                    "build": "10J567",
+                    "darwin": "10.6.0",
+                    "released": "2011-01-06"
+                },
+                {
+                    "version": "10.6.7",
+                    "build": "10J869",
+                    "darwin": "10.7.0",
+                    "released": "2011-03-21"
+                },
+                {
+                    "version": "10.6.8",
+                    "build": "10K540",
+                    "darwin": "10.8.0",
+                    "released": "2011-06-23"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.7",
+            "codename": "Lion",
+            "announced":"2010-10-20",
+            "released": "2011-07-20",
+            "requirements": [
+                "Intel Core 2 Duo, Core i3, Core i5, Core i7 or Xeon processor",
+                "2 GB of RAM",
+                "7 GB of avaialable disk space",
+                "Mac OS X v10.6.6 or later (v10.6.8 recommended)"
+            ],
+            "releases": [
+                {
+                    "version": "10.7",
+                    "build": "11A511",
+                    "darwin": "11.0.0",
+                    "released": "2011-07-20"
+                },
+                {
+                    "version": "10.7.1",
+                    "build": "11B26",
+                    "darwin": "11.1.0",
+                    "released": "2011-08-16"
+                },
+                {
+                    "version": "10.7.2",
+                    "build": "11C74",
+                    "darwin": "11.2.0",
+                    "released": "2011-10-12"
+                },
+                {
+                    "version": "10.7.3",
+                    "build": "11D50",
+                    "darwin": "11.3.0",
+                    "released": "2012-02-01"
+                },
+                {
+                    "version": "10.7.4",
+                    "build": "11E53",
+                    "darwin": "11.4.0",
+                    "released": "2012-05-09"
+                },
+                {
+                    "version": "10.7.5",
+                    "build": "11G56",
+                    "darwin": "11.4.2",
+                    "released": "2012-09-19"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.8",
+            "codename": "Mountain Lion",
+            "announced":"2012-02-16",
+            "released": "2012-07-25",
+            "requirements": [
+                "iMac (Mid 2007 or newer)",
+                "Mac Mini (Early 2009 or newer)",
+                "Mac Pro (Early 2008 or newer)",
+                "MacBook (Late 2008 Aluminum, or Early 2009 or newer)",
+                "MacBook Air (Late 2008 or newer)",
+                "MacBook Pro (Mid/Late 2007 or newer)",
+                "Xserve (Early 2009)",
+                "2 GB of memory",
+                "8 GB of available disk space",
+                "OS X v10.6.8 or later"
+            ],
+            "releases": [
+                {
+                    "version": "10.8",
+                    "build": "12A269",
+                    "darwin": "12.0.0",
+                    "released": "2012-07-25"
+                },
+                {
+                    "version": "10.8.1",
+                    "build": "12B19",
+                    "darwin": "12.1.0",
+                    "released": "2012-08-23"
+                },
+                {
+                    "version": "10.8.2",
+                    "build": "12C54",
+                    "darwin": "12.2.0",
+                    "released": "2012-09-19"
+                },
+                {
+                    "version": "10.8.3",
+                    "build": "12D78",
+                    "darwin": "12.3.0",
+                    "released": "2013-03-14"
+                },
+                {
+                    "version": "10.8.4",
+                    "build": "12E55",
+                    "darwin": "12.4.0",
+                    "released": "2013-06-04"
+                },
+                {
+                    "version": "10.8.5",
+                    "build": "12F37",
+                    "darwin": "12.5.0",
+                    "released": "2013-09-12"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.9",
+            "codename": "Mavericks",
+            "announced":"2013-06-10",
+            "released": "2013-10-22",
+            "requirements": [
+                "iMac (Mid 2007 or newer)",
+                "Mac Mini (Early 2009 or newer)",
+                "Mac Pro (Early 2008 or newer)",
+                "MacBook (Late 2008 Aluminum, or Early 2009 or newer)",
+                "MacBook Air (Late 2008 or newer)",
+                "MacBook Pro (Mid/Late 2007 or newer)",
+                "Xserve (Early 2009)",
+                "2 GB of memory",
+                "8 GB of available disk space",
+                "OS X v10.6.8 or later"
+            ],
+            "releases": [
+                {
+                    "version": "10.9",
+                    "build": "13A603",
+                    "darwin": "13.0.0",
+                    "released": "2013-10-22"
+                },
+                {
+                    "version": "10.9.1",
+                    "build": "13B42",
+                    "darwin": "13.0.0",
+                    "released": "2013-12-16"
+                },
+                {
+                    "version": "10.9.2",
+                    "build": "13C64",
+                    "darwin": "13.1.0",
+                    "released": "2014-02-25"
+                },
+                {
+                    "version": "10.9.3",
+                    "build": "13D65",
+                    "darwin": "13.2.0",
+                    "released": "2014-05-15"
+                },
+                {
+                    "version": "10.9.4",
+                    "build": "13E28",
+                    "darwin": "13.3.0",
+                    "released": "2014-06-30"
+                }
+
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.10",
+            "codename": "Yosemite",
+            "announced":"2014-06-02",
+            "released": "2014-10-16",
+            "requirements": [
+                "Mac (Mid 2007 or newer)",
+                "Mac Mini (Early 2009 or newer)",
+                "Mac Pro (Early 2008 or newer)",
+                "MacBook (Late 2008 Aluminum, or Early 2009 or newer)",
+                "MacBook Air (Late 2008 or newer)",
+                "MacBook Pro (Mid/Late 2007 or newer)",
+                "Xserve (Early 2009)",
+                "2 GB of memory",
+                "8 GB of available disk space",
+                "OS X v10.6.8 or later"
+            ],
+            "releases": [
+                {
+                    "version": "10.10",
+                    "build": "14A389",
+                    "darwin": "14.0.0",
+                    "released": "2014-10-16"
+                },
+                {
+                    "version": "10.10.1",
+                    "build": "14B25",
+                    "darwin": "14.0.0",
+                    "released": "2014-11-17"
+                },
+                {
+                    "version": "10.10.2",
+                    "build": "14C109",
+                    "darwin": "14.1.0",
+                    "released": "2015-01-27"
+                },
+                {
+                    "version": "10.10.3",
+                    "build": "14D131",
+                    "darwin": "14.3.0",
+                    "released": "2015-04-08"
+                },
+                {
+                    "version": "10.10.4",
+                    "build": "14E46",
+                    "darwin": "14.4.0",
+                    "released": "2015-06-30"
+                },
+                {
+                    "version": "10.10.5",
+                    "build": "14F27",
+                    "darwin": "14.5.0",
+                    "released": "2015-08-13"
+                }
+            ]
+        },
+        {
+            "family": "Mac OS X",
+            "version": "10.11",
+            "codename": "El Capitan",
+            "announced":"2015-06-08",
+            "released": "2015-09-30",
+            "requirements": [
+                "iMac (Mid 2007 or newer)",
+                "Mac Mini (Early 2009 or newer)",
+                "Mac Pro (Early 2008 or newer)",
+                "MacBook (Late 2008 Aluminum, or Early 2009 or newer)",
+                "MacBook Air (Late 2008 or newer)",
+                "MacBook Pro (Mid/Late 2007 or newer)",
+                "Xserve (Early 2009)",
+                "2 GB of memory",
+                "8.8 GB of available disk space",
+                "OS X v10.6.8 or later"
+            ],
+            "releases": [
+                {
+                    "version": "10.11",
+                    "build": "15A284",
+                    "darwin": "15.0.0",
+                    "released": "2015-09-30"
+                },
+                {
+                    "version": "10.11.1",
+                    "build": "15B42",
+                    "darwin": "15.0.0",
+                    "released": "2015-10-21"
+                },
+                {
+                    "version": "10.11.2",
+                    "build": "15C50",
+                    "darwin": "15.2.0",
+                    "released": "2015-12-08"
+                },
+                {
+                    "version": "10.11.3",
+                    "build": "15D21",
+                    "darwin": "15.3.0",
+                    "released": "2016-01-19"
+                },
+                {
+                    "version": "10.11.4",
+                    "build": "15E65",
+                    "darwin": "15.4.0",
+                    "released": "2016-03-21"
+                },
+                {
+                    "version": "10.11.5",
+                    "build": "15F34",
+                    "darwin": "15.5.0",
+                    "released": "2016-05-16"
+                },
+                {
+                    "version": "10.11.6",
+                    "build": "15G31",
+                    "darwin": "15.6.0",
+                    "released": "2016-07-18"
+                }
+            ]
+        },
+        {
+            "family": "macOS",
+            "version": "10.12",
+            "codename": "Sierra",
+            "announced":"2016-06-13",
+            "released": "2016-09-20",
+            "requirements": [
+                "iMac (Late 2009 or newer)",
+                "Mac Mini (Mid 2010 or newer)",
+                "Mac Pro (Mid 2010 or newer)",
+                "MacBook (Late 2009 or newer)",
+                "MacBook Air (Late 2010 or newer)",
+                "MacBook Pro (Mid 2010 or newer)",
+                "2 GB of memory",
+                "8.8 GB of available disk space",
+                "OS X v10.7.5 or later"
+            ],
+            "releases": [
+                {
+                    "version": "10.12",
+                    "build": "16A323",
+                    "darwin": "16.0.0",
+                    "released": "2016-09-20"
+                },
+                {
+                    "version": "10.12.1",
+                    "build": "16B2555",
+                    "darwin": "16.1.0",
+                    "released": "2016-10-24"
+                },
+                {
+                    "version": "10.12.2",
+                    "build": "16C67",
+                    "darwin": "16.3.0",
+                    "released": "2016-12-13"
+                },
+                {
+                    "version": "10.12.3",
+                    "build": "16D32",
+                    "darwin": "16.4.0",
+                    "released": "2017-01-23"
+                },
+                {
+                    "version": "10.12.4",
+                    "build": "16E195",
+                    "darwin": "16.5.0",
+                    "released": "2017-03-27"
+                },
+                {
+                    "version": "10.12.5",
+                    "build": "16F73",
+                    "darwin": "16.6.0",
+                    "released": "2017-05-15"
+                },
+                {
+                    "version": "10.12.6",
+                    "build": "16G29",
+                    "darwin": "16.7.0",
+                    "released": "2017-07-19"
+                }
+            ]
+        },
+        {
+            "family": "macOS",
+            "version": "10.13",
+            "codename": "High Sierra",
+            "announced":"2017-06-05",
+            "released": "2017-09-25",
+            "requirements": [
+                "iMac (Late 2009 or newer)",
+                "Mac Mini (Mid 2010 or newer)",
+                "Mac Pro (Mid 2010 or newer)",
+                "MacBook (Late 2009 or newer)",
+                "MacBook Air (Late 2010 or newer)",
+                "MacBook Pro (Mid 2010 or newer)",
+                "2 GB of memory",
+                "14.3 GB of available disk space",
+                "OS X v10.8 or later"
+            ],
+            "releases": [
+                {
+                    "version": "10.13",
+                    "build": "17A365",
+                    "darwin": "17.0.0",
+                    "released": "2017-09-25"
+                },
+                {
+                    "version": "10.13.1",
+                    "build": "17B48",
+                    "darwin": "17.2.0",
+                    "released": "2017-10-31"
+                },
+                {
+                    "version": "10.13.2",
+                    "build": "17C88",
+                    "darwin": "17.3.0",
+                    "released": "2017-12-06"
+                },
+                {
+                    "version": "10.13.3",
+                    "build": "17D47",
+                    "darwin": "17.4.0",
+                    "released": "2018-01-23"
+                },
+                {
+                    "version": "10.13.4",
+                    "build": "17E199",
+                    "darwin": "17.5.0",
+                    "released": "2018-03-29"
+                },
+                {
+                    "version": "10.13.5",
+                    "build": "17F77",
+                    "darwin": "17.6.0",
+                    "released": "2018-06-01"
+                },
+                {
+                    "version": "10.13.6",
+                    "build": "17G65",
+                    "darwin": "17.7.0",
+                    "released": "2018-07-09"
+                }
+            ]
+        },
+        {
+            "family": "macOS",
+            "version": "10.14",
+            "codename": "Mojave",
+            "announced":"2018-06-04",
+            "released": "2018-09-24",
+            "requirements": [
+                "iMac (Late 2012 or newer)",
+                "iMac Pro (2017)",
+                "Mac Mini (Late 2012 or newer)",
+                "Mac Pro (Late 2013; Mid 2010 and Mid 2012 models with recommended Metal-capable graphics cards)",
+                "MacBook (Early 2015 or newer)",
+                "MacBook Air (Mid 2012 or newer)",
+                "MacBook Pro (Mid 2012 or newer)",
+                "2 GB of memory",
+                "12.5 - 18.5 GB of available avaialable disk space",
+                "OS X 10.8 or later"
+            ],
+            "releases": [
+                {
+                    "version": "10.14",
+                    "build": "18A391",
+                    "darwin": "18.0.0",
+                    "released": "2018-09-24"
+                },
+                {
+                    "version": "10.14.1",
+                    "build": "18B75",
+                    "darwin": "18.2.0",
+                    "released": "2018-10-30"
+                },
+                {
+                    "version": "10.14.2",
+                    "build": "18C54",
+                    "darwin": "18.2.0",
+                    "released": "2018-12-05"
+                },
+                {
+                    "version": "10.14.3",
+                    "build": "18D42",
+                    "darwin": "18.2.0",
+                    "released": "2019-01-22"
+                },
+                {
+                    "version": "10.14.4",
+                    "build": "18E226",
+                    "darwin": "18.5.0",
+                    "released": "2019-03-25"
+                },
+                {
+                    "version": "10.14.5",
+                    "build": "18F132",
+                    "darwin": "18.6.0",
+                    "released": "2019-05-13"
+                },
+                {
+                    "version": "10.14.6",
+                    "build": "18G84",
+                    "darwin": "18.7.0",
+                    "released": "2019-07-22"
+                }
+            ]
+        },
+        {
+            "family": "macOS",
+            "version": "10.15",
+            "codename": "Catalina",
+            "announced":"2019-06-03",
+            "released": "2019-10-07",
+            "requirements": [
+                "iMac (Late 2012 or newer)",
+                "iMac Pro (2017)",
+                "Mac Mini (Late 2012 or newer)",
+                "Mac Pro (Late 2013)",
+                "MacBook (Early 2015 or newer)",
+                "MacBook Air (Mid 2012 or newer)",
+                "MacBook Pro (Mid 2012 or newer)",
+                "4 GB of memory",
+                "12.5 GB of available avaialable disk space",
+                "OS X 10.11.5 or later"
+            ],
+            "releases": [
+                {
+                    "version": "10.15",
+                    "build": "19A583",
+                    "darwin": "19.0.0",
+                    "released": "2019-10-07"
+                },
+                {
+                    "version": "10.15.1",
+                    "build": "19B88",
+                    "darwin": "19.0.0",
+                    "released": "2019-10-29"
+                },
+                {
+                    "version": "10.15.2",
+                    "build": "19C57",
+                    "darwin": "19.2.0",
+                    "released": "2019-12-10"
+                },
+                {
+                    "version": "10.15.3",
+                    "build": "19D76",
+                    "darwin": "19.3.0",
+                    "released": "2020-01-28"
+                },
+                {
+                    "version": "10.15.4",
+                    "build": "19E266",
+                    "darwin": "19.4.0",
+                    "released": "2020-03-24"
+                },
+                {
+                    "version": "10.15.5",
+                    "build": "19F96",
+                    "darwin": "19.5.0",
+                    "released": "2020-05-26"
+                },
+                {
+                    "version": "10.15.6",
+                    "build": "19G73",
+                    "darwin": "19.6.0",
+                    "released": "2020-07-15"
+                }
+
+            ]
+        },
+        {
+            "family": "macOS",
+            "version": "10.16",
+            "codename": "Big Sur",
+            "announced":"2020-06-22",
+            "released": "TBA",
+            "requirements": [
+                "iMac (2014 or newer)",
+                "iMac Pro (2017)",
+                "Mac Mini (2014 or newer)",
+                "Mac Pro (2013 or newer)",
+                "MacBook (2015 or newer)",
+                "MacBook Air (2013 or newer)",
+                "MacBook Pro (Late 2013 or newer)",
+                "4 GB of memory"
+            ],
+            "releases": [
+                {
+                    "version": "TBA",
+                    "build": "TBA",
+                    "darwin": "TBA",
+                    "released": "TBA"
+                }
+            ]
+        }
+    ]
+}

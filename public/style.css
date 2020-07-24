@@ -1,0 +1,52 @@
+/* public/style.css */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans';
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul a {
+    font-size: .9em;
+}
+
+.code {
+    color: #999;
+}
+
+.json {
+    font-size: .9em;
+    color: #708090;
+}
+
+.code, .json {
+    font-family: 'Source Code Pro';
+}
+
+.row {
+    display: flex;
+}
+  
+.column {
+    flex: 33%;
+    margin: 5px;
+    padding: 10px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.text, .description {
+    margin: 5px;
+    padding: 10px;
+    background-color: #fcfcfc;
+    border: 1px solid #D6DBDF;
+}
