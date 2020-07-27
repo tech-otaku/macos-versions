@@ -6,7 +6,12 @@ html
         meta(name="viewport", content="width=device-width, initial-scale=1, shrink-to-fit=no")
         meta(name="theme-color", content="#000000")
         link(rel="stylesheet" href="/style.css")
-        //script(src='/copy-json.js')
+        script(async='', src='https://www.googletagmanager.com/gtag/js?id=UA-173637223-1')
+        script.
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-173637223-1');
         title macOS | #{title}
     body
         
