@@ -1,1 +1,1 @@
-# macos-releases
+# macos-versions
