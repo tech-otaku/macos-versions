@@ -1,5 +1,5 @@
 {
-    "updated": "2020-09-24",
+    "updated": "2020-11-13",
     "versions": [
         {
             "family": "Mac OS X",
@@ -1029,31 +1029,38 @@
                     "build": "19H2",
                     "darwin": "19.6.0",
                     "released": "2020-09-24"
+                },
+                {
+                    "version": "10.15.7",
+                    "build": "19H15",
+                    "darwin": "19.6.0",
+                    "released": "2020-11-05"
                 }
             ]
         },
         {
             "family": "macOS",
-            "version": "10.16",
+            "version": "11.0.1",
             "codename": "Big Sur",
             "announced":"2020-06-22",
-            "released": "TBA",
+            "released": "2020-11-12",
             "requirements": [
-                "iMac (2014 or newer)",
+                "iMac (Mid 2014 or newer)",
                 "iMac Pro (2017)",
-                "Mac Mini (2014 or newer)",
-                "Mac Pro (2013 or newer)",
-                "MacBook (2015 or newer)",
-                "MacBook Air (2013 or newer)",
+                "Mac Mini (Late 2014 or newer)",
+                "Mac Pro (Late 2013 or newer)",
+                "MacBook (Early 2015 or newer)",
+                "MacBook Air (Mid 2013 or newer)",
                 "MacBook Pro (Late 2013 or newer)",
+                "Developer Transition Kit (2020)",
                 "4 GB of memory"
             ],
             "releases": [
                 {
-                    "version": "TBA",
-                    "build": "TBA",
-                    "darwin": "TBA",
-                    "released": "TBA"
+                    "version": "11.0.1",
+                    "build": "20B29",
+                    "darwin": "20.1.0",
+                    "released": "2020-11-12"
                 }
             ]
         }
