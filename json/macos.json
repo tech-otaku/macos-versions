@@ -1040,7 +1040,7 @@
         },
         {
             "family": "macOS",
-            "version": "11.0",
+            "version": "11",
             "codename": "Big Sur",
             "announced":"2020-06-22",
             "released": "2020-11-12",
@@ -1114,7 +1114,7 @@
         },
         {
             "family": "macOS",
-            "version": "12.0",
+            "version": "12",
             "codename": "Monterey",
             "announced":"2021-06-07",
             "released": "TBA",
