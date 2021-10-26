@@ -1,5 +1,5 @@
 {
-    "updated": "2021-09-18",
+    "updated": "2021-10-26",
     "versions": [
         {
             "family": "Mac OS X",
@@ -1133,6 +1133,12 @@
                     "build": "20G165",
                     "darwin": "20.6.0",
                     "released": "2021-09-13"
+                },
+                {
+                    "version": "11.6.1",
+                    "build": "20G224",
+                    "darwin": "20.6.0",
+                    "released": "2021-10-25"
                 }
             ]
         },
