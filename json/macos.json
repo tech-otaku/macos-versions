@@ -1141,7 +1141,7 @@
             "version": "12",
             "codename": "Monterey",
             "announced":"2021-06-07",
-            "released": "TBA",
+            "released": "2021-10-25",
             "requirements": [
                 "iMac (Late 2015 and newer)",
                 "iMac Pro (Late 2017)",
@@ -1153,10 +1153,10 @@
             ],
             "releases": [
                 {
-                    "version": "TBA",
-                    "build": "TBA",
-                    "darwin": "TBA",
-                    "released": "TBA"
+                    "version": "12.0.1",
+                    "build": "21A559",
+                    "darwin": "21.1.0",
+                    "released": "2021-10-25"
                 }
             ]
         }
