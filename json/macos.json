@@ -1,5 +1,5 @@
 {
-    "updated": "2022-02-17",
+    "updated": "2022-03-14",
     "versions": [
         {
             "family": "Mac OS X",
@@ -17,12 +17,14 @@
                     "version": "US",
                     "build": "1H39",
                     "darwin": "1.2.1",
+                    "kernel": "???",
                     "released": "2000-09-13"
                 },
                 {
                     "version": "Int.",
                     "build": "2E14",
                     "darwin": "1.2.1",
+                    "kernel": "???",
                     "released": "2000-09-13"
                 }
             ]
@@ -43,30 +45,35 @@
                     "version": "10.0",
                     "build": "4K78",
                     "darwin": "1.3.1",
+                    "kernel": "???",
                     "released": "2001-03-24"
                 },
                 {
                     "version": "10.0.1",
                     "build": "4L13",
                     "darwin": "1.3.1",
+                    "kernel": "???",
                     "released": "2001-04-14"
                 },
                 {
                     "version": "10.0.2",
                     "build": "4P12",
                     "darwin": "1.3.1",
+                    "kernel": "???",
                     "released": "2001-05-01"
                 },
                 {
                     "version": "10.0.3",
                     "build": "4P13",
                     "darwin": "1.3.1",
+                    "kernel": "???",
                     "released": "2001-05-09"
                 },
                 {
                     "version": "10.0.4",
                     "build": "4Q12",
                     "darwin": "1.3.1",
+                    "kernel": "???",
                     "released": "2001-06-21"
                 }
             ]
@@ -87,36 +94,42 @@
                     "version": "10.1",
                     "build": "5G64",
                     "darwin": "1.4.1",
+                    "kernel": "???",
                     "released": "2001-09-25"
                 },
                 {
                     "version": "10.1.1",
                     "build": "5M28",
                     "darwin": "5.1.0",
+                    "kernel": "???",
                     "released": "2001-11-12"
                 },
                 {
                     "version": "10.1.2",
                     "build": "5P48",
                     "darwin": "5.2.0",
+                    "kernel": "???",
                     "released": "2001-12-21"
                 },
                 {
                     "version": "10.1.3",
                     "build": "5Q45",
                     "darwin": "5.3.0",
+                    "kernel": "???",
                     "released": "2002-02-19"
                 },
                 {
                     "version": "10.1.4",
                     "build": "5Q125",
                     "darwin": "5.4.0",
+                    "kernel": "???",
                     "released": "2002-04-17"
                 },
                 {
                     "version": "10.1.5",
                     "build": "5S60",
                     "darwin": "5.5.0",
+                    "kernel": "???",
                     "released": "2002-06-05"
                 }
             ]
@@ -137,54 +150,63 @@
                     "version": "10.2",
                     "build": "6C115",
                     "darwin": "6.0.0",
+                    "kernel": "???",
                     "released": "2002-08-24"
                 },
                 {
                     "version": "10.2.1",
                     "build": "6D52",
                     "darwin": "6.1.0",
+                    "kernel": "???",
                     "released": "2002-09-18"
                 },
                 {
                     "version": "10.2.2",
                     "build": "6F21",
                     "darwin": "6.2.0",
+                    "kernel": "???",
                     "released": "2002-11-11"
                 },
                 {
                     "version": "10.2.3",
                     "build": "6G30",
                     "darwin": "6.3.0",
+                    "kernel": "???",
                     "released": "2002-12-19"
                 },
                 {
                     "version": "10.2.4",
                     "build": "6I32",
                     "darwin": "6.4.0",
+                    "kernel": "???",
                     "released": "2003-02-13"
                 },
                 {
                     "version": "10.2.5",
                     "build": "6L29",
                     "darwin": "6.5.0",
+                    "kernel": "???",
                     "released": "2003-04-10"
                 },
                 {
                     "version": "10.2.6",
                     "build": "6L60",
                     "darwin": "6.6.0",
+                    "kernel": "???",
                     "released": "2003-05-06"
                 },
                 {
                     "version": "10.2.7",
                     "build": "6R65",
                     "darwin": "6.7.0",
+                    "kernel": "???",
                     "released": "2003-09-22"
                 },
                 {
                     "version": "10.2.8",
                     "build": "6R73",
                     "darwin": "6.8.0",
+                    "kernel": "???",
                     "released": "2003-10-03"
                 }
             ]
@@ -206,60 +228,70 @@
                     "version": "10.3",
                     "build": "7B85",
                     "darwin": "7.0.0",
+                    "kernel": "???",
                     "released": "2003-10-24"
                 },
                 {
                     "version": "10.3.1",
                     "build": "7C107",
                     "darwin": "7.1.0",
+                    "kernel": "???",
                     "released": "2003-11-10"
                 },
                 {
                     "version": "10.3.2",
                     "build": "7D24",
                     "darwin": "7.2.0",
+                    "kernel": "???",
                     "released": "2003-12-17"
                 },
                 {
                     "version": "10.3.3",
                     "build": "7F44",
                     "darwin": "7.3.0",
+                    "kernel": "???",
                     "released": "2004-03-15"
                 },
                 {
                     "version": "10.3.4",
                     "build": "7H63",
                     "darwin": "7.4.0",
+                    "kernel": "???",
                     "released": "2004-05-26"
                 },
                 {
                     "version": "10.3.5",
                     "build": "7M34",
                     "darwin": "7.5.0",
+                    "kernel": "???",
                     "released": "2004-08-09"
                 },
                 {
                     "version": "10.3.6",
                     "build": "7R28",
                     "darwin": "7.6.0",
+                    "kernel": "???",
                     "released": "2004-11-05"
                 },
                 {
                     "version": "10.3.7",
                     "build": "7S215",
                     "darwin": "7.7.0",
+                    "kernel": "???",
                     "released": "2004-12-15"
                 },
                 {
                     "version": "10.3.8",
                     "build": "7U16",
                     "darwin": "7.8.0",
+                    "kernel": "???",
                     "released": "2005-02-09"
                 },
                 {
                     "version": "10.3.9",
                     "build": "7W98",
                     "darwin": "7.9.0",
+                    "kernel": "???",
                     "released": "2005-04-15"
                 }
             ]
@@ -281,72 +313,84 @@
                     "version": "10.4",
                     "build": "8A428",
                     "darwin": "8.0.0",
+                    "kernel": "???",
                     "released": "2005-04-29"
                 },
                 {
                     "version": "10.4.1",
                     "build": "8B15",
                     "darwin": "8.1.0",
+                    "kernel": "???",
                     "released": "2005-05-16"
                 },
                 {
                     "version": "10.4.2",
                     "build": "8C46",
                     "darwin": "8.2.0",
+                    "kernel": "???",
                     "released": "2005-07-12"
                 },
                 {
                     "version": "10.4.3",
                     "build": "8F46",
                     "darwin": "8.3.0",
+                    "kernel": "???",
                     "released": "2005-10-31"
                 },
                 {
                     "version": "10.4.4",
                     "build": "8G32",
                     "darwin": "8.4.0",
+                    "kernel": "???",
                     "released": "2006-01-10"
                 },
                 {
                     "version": "10.4.5",
                     "build": "8H14",
                     "darwin": "8.5.0",
+                    "kernel": "???",
                     "released": "2006-02-14"
                 },
                 {
                     "version": "10.4.6",
                     "build": "8I127",
                     "darwin": "8.6.0",
+                    "kernel": "???",
                     "released": "2006-04-03"
                 },
                 {
                     "version": "10.4.7",
                     "build": "8J135",
                     "darwin": "8.7.0",
+                    "kernel": "???",
                     "released": "2006-06-27"
                 },
                 {
                     "version": "10.4.8",
                     "build": "8L127",
                     "darwin": "8.8.0",
+                    "kernel": "???",
                     "released": "2006-09-29"
                 },
                 {
                     "version": "10.4.9",
                     "build": "8P135",
                     "darwin": "8.9.0",
+                    "kernel": "???",
                     "released": "2007-03-13"
                 },
                 {
                     "version": "10.4.10",
                     "build": "8R218",
                     "darwin": "8.10.0",
+                    "kernel": "???",
                     "released": "2007-06-20"
                 },
                 {
                     "version": "10.4.11",
                     "build": "8S165",
                     "darwin": "8.11.0",
+                    "kernel": "???",
                     "released": "2007-11-14"
                 }
             ]
@@ -367,24 +411,28 @@
                     "version": "10.5",
                     "build": "9A581",
                     "darwin": "9.0.0",
+                    "kernel": "xnu-1228",
                     "released": "2007-10-26"
                 },
                 {
                     "version": "10.5.1",
                     "build": "9B18",
                     "darwin": "9.1.0",
+                    "kernel": "xnu-1228.0.2",
                     "released": "2007-11-15"
                 },
                 {
                     "version": "10.5.2",
                     "build": "9C31",
                     "darwin": "9.2.0",
+                    "kernel": "xnu-1228.3.13",
                     "released": "2008-02-11"
                 },
                 {
                     "version": "10.5.3",
                     "build": "9D34",
                     "darwin": "9.3.0",
+                    "kernel": "xnu-1228.5.18",
                     "released": "2008-05-28"
                 },
 
@@ -392,6 +440,7 @@
                     "version": "10.5.4",
                     "build": "9E17",
                     "darwin": "9.4.0",
+                    "kernel": "xnu-1228.5.20",
                     "released": "2008-06-30"
                 },
 
@@ -399,25 +448,28 @@
                     "version": "10.5.5",
                     "build": "9F33",
                     "darwin": "9.5.0",
+                    "kernel": "xnu-1228.7.58",
                     "released": "2008-09-15"
                 },
-
                 {
                     "version": "10.5.6",
                     "build": "9G55",
                     "darwin": "9.6.0",
+                    "kernel": "xnu-1228.9.59",
                     "released": "2008-12-15"
                 },
                 {
                     "version": "10.5.7",
                     "build": "9J61",
                     "darwin": "9.7.0",
+                    "kernel": "xnu-1228.12.14",
                     "released": "2009-05-12"
                 },
                 {
                     "version": "10.5.8",
                     "build": "9L30",
                     "darwin": "9.8.0",
+                    "kernel": "xnu-1228.15.4",
                     "released": "2009-08-05"
                 }
             ]
@@ -438,54 +490,63 @@
                     "version": "10.6",
                     "build": "10A432",
                     "darwin": "10.0.0",
+                    "kernel": "xnu-1456.1.26",
                     "released": "2009-08-28"
                 },
                 {
                     "version": "10.6.1",
                     "build": "10B504",
                     "darwin": "10.1.0",
+                    "kernel": "xnu-1456.1.26",
                     "released": "2009-09-10"
                 },
                 {
                     "version": "10.6.2",
                     "build": "10C540",
                     "darwin": "10.2.0",
+                    "kernel": "xnu-1486.2.11",
                     "released": "2009-11-09"
                 },
                 {
                     "version": "10.6.3",
                     "build": "10D573",
                     "darwin": "10.3.0",
+                    "kernel": "xnu-1504.3.12",
                     "released": "2010-03-29"
                 },
                 {
                     "version": "10.6.4",
                     "build": "10F569",
                     "darwin": "10.4.0",
+                    "kernel": "xnu-1504.7.4",
                     "released": "2010-06-15"
                 },
                 {
                     "version": "10.6.5",
                     "build": "10H574",
                     "darwin": "10.5.0",
+                    "kernel": "xnu-1504.9.17",
                     "released": "2010-11-10"
                 },
                 {
                     "version": "10.6.6",
                     "build": "10J567",
                     "darwin": "10.6.0",
+                    "kernel": "xnu-1504.9.26",
                     "released": "2011-01-06"
                 },
                 {
                     "version": "10.6.7",
                     "build": "10J869",
                     "darwin": "10.7.0",
+                    "kernel": "xnu-1504.9.37",
                     "released": "2011-03-21"
                 },
                 {
                     "version": "10.6.8",
                     "build": "10K540",
                     "darwin": "10.8.0",
+                    "kernel": "xnu-1504.15.3",
                     "released": "2011-06-23"
                 }
             ]
@@ -507,36 +568,42 @@
                     "version": "10.7",
                     "build": "11A511",
                     "darwin": "11.0.0",
+                    "kernel": "xnu-1699.22.73",
                     "released": "2011-07-20"
                 },
                 {
                     "version": "10.7.1",
                     "build": "11B26",
                     "darwin": "11.1.0",
+                    "kernel": "xnu-1699.22.81",
                     "released": "2011-08-16"
                 },
                 {
                     "version": "10.7.2",
                     "build": "11C74",
                     "darwin": "11.2.0",
+                    "kernel": "xnu-1699.24.8",
                     "released": "2011-10-12"
                 },
                 {
                     "version": "10.7.3",
                     "build": "11D50",
                     "darwin": "11.3.0",
+                    "kernel": "xnu-1699.24.23",
                     "released": "2012-02-01"
                 },
                 {
                     "version": "10.7.4",
                     "build": "11E53",
                     "darwin": "11.4.0",
+                    "kernel": "xnu-1699.26.8",
                     "released": "2012-05-09"
                 },
                 {
                     "version": "10.7.5",
                     "build": "11G56",
                     "darwin": "11.4.2",
+                    "kernel": "xnu-1699.32.7",
                     "released": "2012-09-19"
                 }
             ]
@@ -564,36 +631,42 @@
                     "version": "10.8",
                     "build": "12A269",
                     "darwin": "12.0.0",
+                    "kernel": "xnu-2050.7.9",
                     "released": "2012-07-25"
                 },
                 {
                     "version": "10.8.1",
                     "build": "12B19",
                     "darwin": "12.1.0",
+                    "kernel": "xnu-2050.9.2",
                     "released": "2012-08-23"
                 },
                 {
                     "version": "10.8.2",
                     "build": "12C54",
                     "darwin": "12.2.0",
+                    "kernel": "xnu-2050.18.24",
                     "released": "2012-09-19"
                 },
                 {
                     "version": "10.8.3",
                     "build": "12D78",
                     "darwin": "12.3.0",
+                    "kernel": "xnu-2050.22.13",
                     "released": "2013-03-14"
                 },
                 {
                     "version": "10.8.4",
                     "build": "12E55",
                     "darwin": "12.4.0",
+                    "kernel": "xnu-2050.24.15",
                     "released": "2013-06-04"
                 },
                 {
                     "version": "10.8.5",
                     "build": "12F37",
                     "darwin": "12.5.0",
+                    "kernel": "xnu-2050.48.11",
                     "released": "2013-09-12"
                 }
             ]
@@ -621,33 +694,44 @@
                     "version": "10.9",
                     "build": "13A603",
                     "darwin": "13.0.0",
+                    "kernel": "xnu-2422.1.72",
                     "released": "2013-10-22"
                 },
                 {
                     "version": "10.9.1",
                     "build": "13B42",
                     "darwin": "13.0.0",
+                    "kernel": "xnu-2422.1.72",
                     "released": "2013-12-16"
                 },
                 {
                     "version": "10.9.2",
                     "build": "13C64",
                     "darwin": "13.1.0",
+                    "kernel": "xnu-2422.90.20",
                     "released": "2014-02-25"
                 },
                 {
                     "version": "10.9.3",
                     "build": "13D65",
                     "darwin": "13.2.0",
+                    "kernel": "xnu-2422.100.13",
                     "released": "2014-05-15"
                 },
                 {
                     "version": "10.9.4",
                     "build": "13E28",
                     "darwin": "13.3.0",
+                    "kernel": "xnu-2422.110.17",
                     "released": "2014-06-30"
+                },
+                {
+                    "version": "10.9.5",
+                    "build": "13F34",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-2422.115.4",
+                    "released": "2014-09-17"
                 }
-
             ]
         },
         {
@@ -673,36 +757,42 @@
                     "version": "10.10",
                     "build": "14A389",
                     "darwin": "14.0.0",
+                    "kernel": "xnu-2782.1.97",
                     "released": "2014-10-16"
                 },
                 {
                     "version": "10.10.1",
                     "build": "14B25",
                     "darwin": "14.0.0",
+                    "kernel": "xnu-2782.1.97",
                     "released": "2014-11-17"
                 },
                 {
                     "version": "10.10.2",
                     "build": "14C109",
                     "darwin": "14.1.0",
+                    "kernel": "xnu-2782.10.72",
                     "released": "2015-01-27"
                 },
                 {
                     "version": "10.10.3",
                     "build": "14D131",
                     "darwin": "14.3.0",
+                    "kernel": "xnu-2782.20.48",
                     "released": "2015-04-08"
                 },
                 {
                     "version": "10.10.4",
                     "build": "14E46",
                     "darwin": "14.4.0",
+                    "kernel": "xnu-2782.30.5",
                     "released": "2015-06-30"
                 },
                 {
                     "version": "10.10.5",
                     "build": "14F27",
                     "darwin": "14.5.0",
+                    "kernel": "xnu-2782.40.9",
                     "released": "2015-08-13"
                 }
             ]
@@ -730,42 +820,49 @@
                     "version": "10.11",
                     "build": "15A284",
                     "darwin": "15.0.0",
+                    "kernel": "xnu-3247.1.106",
                     "released": "2015-09-30"
                 },
                 {
                     "version": "10.11.1",
                     "build": "15B42",
                     "darwin": "15.0.0",
+                    "kernel": "xnu-3247.10.11",
                     "released": "2015-10-21"
                 },
                 {
                     "version": "10.11.2",
                     "build": "15C50",
                     "darwin": "15.2.0",
+                    "kernel": "xnu-3248.20.55",
                     "released": "2015-12-08"
                 },
                 {
                     "version": "10.11.3",
                     "build": "15D21",
                     "darwin": "15.3.0",
+                    "kernel": "xnu-3248.30.4",
                     "released": "2016-01-19"
                 },
                 {
                     "version": "10.11.4",
                     "build": "15E65",
                     "darwin": "15.4.0",
+                    "kernel": "xnu-3248.40.184",
                     "released": "2016-03-21"
                 },
                 {
                     "version": "10.11.5",
                     "build": "15F34",
                     "darwin": "15.5.0",
+                    "kernel": "xnu-3248.50.21",
                     "released": "2016-05-16"
                 },
                 {
                     "version": "10.11.6",
                     "build": "15G31",
                     "darwin": "15.6.0",
+                    "kernel": "xnu-3248.60.10",
                     "released": "2016-07-18"
                 }
             ]
@@ -792,42 +889,49 @@
                     "version": "10.12",
                     "build": "16A323",
                     "darwin": "16.0.0",
+                    "kernel": "xnu-3789.1.32",
                     "released": "2016-09-20"
                 },
                 {
                     "version": "10.12.1",
                     "build": "16B2555",
                     "darwin": "16.1.0",
+                    "kernel": "xnu-3789.21.4",
                     "released": "2016-10-24"
                 },
                 {
                     "version": "10.12.2",
                     "build": "16C67",
                     "darwin": "16.3.0",
+                    "kernel": "xnu-3789.31.2",
                     "released": "2016-12-13"
                 },
                 {
                     "version": "10.12.3",
                     "build": "16D32",
                     "darwin": "16.4.0",
+                    "kernel": "xnu-3789.41.3",
                     "released": "2017-01-23"
                 },
                 {
                     "version": "10.12.4",
                     "build": "16E195",
                     "darwin": "16.5.0",
+                    "kernel": "xnu-3789.51.2",
                     "released": "2017-03-27"
                 },
                 {
                     "version": "10.12.5",
                     "build": "16F73",
                     "darwin": "16.6.0",
+                    "kernel": "xnu-3789.60.24",
                     "released": "2017-05-15"
                 },
                 {
                     "version": "10.12.6",
                     "build": "16G29",
                     "darwin": "16.7.0",
+                    "kernel": "xnu-3789.70.16",
                     "released": "2017-07-19"
                 }
             ]
@@ -854,42 +958,49 @@
                     "version": "10.13",
                     "build": "17A365",
                     "darwin": "17.0.0",
+                    "kernel": "xnu-4570.1.46",
                     "released": "2017-09-25"
                 },
                 {
                     "version": "10.13.1",
                     "build": "17B48",
                     "darwin": "17.2.0",
+                    "kernel": "xnu-4570.20.62",
                     "released": "2017-10-31"
                 },
                 {
                     "version": "10.13.2",
                     "build": "17C88",
                     "darwin": "17.3.0",
+                    "kernel": "xnu-4570.31.3",
                     "released": "2017-12-06"
                 },
                 {
                     "version": "10.13.3",
                     "build": "17D47",
                     "darwin": "17.4.0",
+                    "kernel": "xnu-4570.41.2",
                     "released": "2018-01-23"
                 },
                 {
                     "version": "10.13.4",
                     "build": "17E199",
                     "darwin": "17.5.0",
+                    "kernel": "xnu-4570.51.1",
                     "released": "2018-03-29"
                 },
                 {
                     "version": "10.13.5",
                     "build": "17F77",
                     "darwin": "17.6.0",
+                    "kernel": "xnu-4570.61.1",
                     "released": "2018-06-01"
                 },
                 {
                     "version": "10.13.6",
                     "build": "17G65",
                     "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.2",
                     "released": "2018-07-09"
                 }
             ]
@@ -917,42 +1028,49 @@
                     "version": "10.14",
                     "build": "18A391",
                     "darwin": "18.0.0",
+                    "kernel": "???",
                     "released": "2018-09-24"
                 },
                 {
                     "version": "10.14.1",
                     "build": "18B75",
                     "darwin": "18.2.0",
+                    "kernel": "xnu-4903.221.2",
                     "released": "2018-10-30"
                 },
                 {
                     "version": "10.14.2",
                     "build": "18C54",
                     "darwin": "18.2.0",
+                    "kernel": "xnu-4903.231.4",
                     "released": "2018-12-05"
                 },
                 {
                     "version": "10.14.3",
                     "build": "18D42",
                     "darwin": "18.2.0",
+                    "kernel": "xnu-4903.241.1",
                     "released": "2019-01-22"
                 },
                 {
                     "version": "10.14.4",
                     "build": "18E226",
                     "darwin": "18.5.0",
+                    "kernel": "???",
                     "released": "2019-03-25"
                 },
                 {
                     "version": "10.14.5",
                     "build": "18F132",
                     "darwin": "18.6.0",
+                    "kernel": "???",
                     "released": "2019-05-13"
                 },
                 {
                     "version": "10.14.6",
                     "build": "18G84",
                     "darwin": "18.7.0",
+                    "kernel": "xnu-4903.270.47",
                     "released": "2019-07-22"
                 }
             ]
@@ -980,60 +1098,70 @@
                     "version": "10.15",
                     "build": "19A583",
                     "darwin": "19.0.0",
+                    "kernel": "xnu-6153.11.26",
                     "released": "2019-10-07"
                 },
                 {
                     "version": "10.15.1",
                     "build": "19B88",
                     "darwin": "19.0.0",
+                    "kernel": "xnu-6153.41.3",
                     "released": "2019-10-29"
                 },
                 {
                     "version": "10.15.2",
                     "build": "19C57",
                     "darwin": "19.2.0",
+                    "kernel": "xnu-6153.61.1",
                     "released": "2019-12-10"
                 },
                 {
                     "version": "10.15.3",
                     "build": "19D76",
                     "darwin": "19.3.0",
+                    "kernel": "xnu-6153.81.5",
                     "released": "2020-01-28"
                 },
                 {
                     "version": "10.15.4",
                     "build": "19E266",
                     "darwin": "19.4.0",
+                    "kernel": "xnu-6153.101.6",
                     "released": "2020-03-24"
                 },
                 {
                     "version": "10.15.5",
                     "build": "19F96",
                     "darwin": "19.5.0",
+                    "kernel": "xnu-6153.121.1",
                     "released": "2020-05-26"
                 },
                 {
                     "version": "10.15.6",
                     "build": "19G73",
                     "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.1",
                     "released": "2020-07-15"
                 },
                 {
                     "version": "10.15.6",
                     "build": "19G2021",
                     "darwin": "19.6.0",
+                    "kernel": "???",
                     "released": "2020-08-12"
                 },
                 {
                     "version": "10.15.7",
                     "build": "19H2",
                     "darwin": "19.6.0",
+                    "kernel": "???",
                     "released": "2020-09-24"
                 },
                 {
                     "version": "10.15.7",
                     "build": "19H15",
                     "darwin": "19.6.0",
+                    "kernel": "???",
                     "released": "2020-11-05"
                 }
             ]
@@ -1060,103 +1188,127 @@
                     "version": "11.0.1",
                     "build": "20B29",
                     "darwin": "20.1.0",
+                    "kernel": "xnu-7195.50.7.100.1",
                     "released": "2020-11-12"
                 },
                 {
                     "version": "11.1",
                     "build": "20C69",
                     "darwin": "20.2.0",
+                    "kernel": "xnu-7195.60.75",
                     "released": "2020-12-14"
                 },
                 {
                     "version": "11.2",
                     "build": "20D64",
                     "darwin": "20.3.0",
+                    "kernel": "xnu-7195.81.3",
                     "released": "2021-02-01"
                 },
                 {
                     "version": "11.2.1",
                     "build": "20D74",
                     "darwin": "20.3.0",
+                    "kernel": "???",
                     "released": "2021-02-09"
                 },
                 {
                     "version": "11.2.2",
                     "build": "20D80",
                     "darwin": "20.3.0",
+                    "kernel": "???",
                     "released": "2021-02-25"
                 },
                 {
                     "version": "11.2.3",
                     "build": "20D91",
                     "darwin": "20.3.0",
+                    "kernel": "???",
                     "released": "2021-03-08"
                 },
                 {
                     "version": "11.3",
                     "build": "20E232",
                     "darwin": "20.4.0",
+                    "kernel": "xnu-7195.101.1",
                     "released": "2021-04-26"
                 },
                 {
                     "version": "11.3.1",
                     "build": "20E241",
                     "darwin": "20.4.0",
+                    "kernel": "???",
                     "released": "2021-05-03"
                 },
                 {
                     "version": "11.4",
                     "build": "20F71",
                     "darwin": "20.5.0",
+                    "kernel": "xnu-7195.121.3",
                     "released": "2021-05-24"
                 },
                 {
                     "version": "11.5",
                     "build": "20G71",
                     "darwin": "20.6.0",
+                    "kernel": "xnu-7195.141.2",
                     "released": "2021-07-21"
                 },
                 {
                     "version": "11.5.1",
                     "build": "20G80",
                     "darwin": "20.6.0",
+                    "kernel": "???",
                     "released": "2021-07-26"
                 },
                 {
                     "version": "11.5.2",
                     "build": "20G95",
                     "darwin": "20.6.0",
+                    "kernel": "???",
                     "released": "2021-08-11"
                 },
                 {
                     "version": "11.6",
                     "build": "20G165",
                     "darwin": "20.6.0",
+                    "kernel": "???",
                     "released": "2021-09-13"
                 },
                 {
                     "version": "11.6.1",
                     "build": "20G224",
                     "darwin": "20.6.0",
+                    "kernel": "???",
                     "released": "2021-10-25"
                 },
                 {
                     "version": "11.6.2",
                     "build": "20G314",
                     "darwin": "20.6.0",
+                    "kernel": "???",
                     "released": "2021-12-13"
                 },
                 {
                     "version": "11.6.3",
                     "build": "20G415",
                     "darwin": "20.6.0",
+                    "kernel": "???",
                     "released": "2022-01-26"
                 },
                 {
                     "version": "11.6.4",
                     "build": "20G417",
                     "darwin": "20.6.0",
+                    "kernel": "???",
                     "released": "2022-02-14"
+                },
+                {
+                    "version": "11.6.5",
+                    "build": "20G527",
+                    "darwin": "20.6.0",
+                    "kernel": "xnu-7195.141.26~1",
+                    "released": "2022-03-14"
                 }
             ]
         },
@@ -1180,25 +1332,36 @@
                     "version": "12.0.1",
                     "build": "21A559",
                     "darwin": "21.1.0",
+                    "kernel": "xnu-8019.41.5",
                     "released": "2021-10-25"
                 },
                 {
                     "version": "12.1",
                     "build": "21C52",
                     "darwin": "21.2.0",
+                    "kernel": "xnu-8019.61.5",
                     "released": "2021-12-13"
                 },
                 {
                     "version": "12.2",
                     "build": "21D49",
                     "darwin": "21.3.0",
+                    "kernel": "???",
                     "released": "2022-01-26"
                 },
                 {
                     "version": "12.2.1",
                     "build": "21D62",
                     "darwin": "21.3.0",
+                    "kernel": "???",
                     "released": "2022-02-10"
+                },
+                {
+                    "version": "12.3",
+                    "build": "21E230",
+                    "darwin": "21.4.0",
+                    "kernel": "xnu-8020.101.4~2",
+                    "released": "2022-03-14"
                 }
             ]
         }
