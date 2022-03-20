@@ -9,6 +9,29 @@
 
 body {
     font-family: 'Open Sans';
+    background-color: #000;
+    color: #C9D1D9;
+}
+
+/* unvisited link */
+a:link {
+    /* color: #EBCB8B; */
+    color: #58A6FF;
+}
+  
+/* visited link */
+a:visited {
+    color: #BF616A;
+}
+
+/* mouse over link */
+a:hover {
+    color: #D08770;
+}
+
+/* selected link */
+a:active {
+    color: #A3BE8C;
 }
 
 ul {
@@ -25,7 +48,7 @@ ul a {
 
 .json {
     font-size: .9em;
-    color: #708090;
+    /* color: #ECEFF4; */
 }
 
 .code, .json {
@@ -47,6 +70,6 @@ ul a {
 .text, .description {
     margin: 5px;
     padding: 10px;
-    background-color: #fcfcfc;
-    border: 1px solid #D6DBDF;
+    background-color: #0D1117;
+    border: 1px solid #30363D;
 }
