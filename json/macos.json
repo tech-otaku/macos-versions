@@ -1,9 +1,15 @@
 {
     "updated": "2022-03-14",
+    "key": [
+        "? = No data available / unable to confirm"
+    ],
     "versions": [
         {
             "family": "Mac OS X",
             "version": "Public Beta",
+            "platforms": [
+                "PowerPC"
+            ],
             "codename": "Kodiak",
             "announced":"2000-05-15",
             "released": "2000-09-13",
@@ -15,16 +21,18 @@
             "releases": [
                 {
                     "version": "US",
+                    "platform": "PowerPC",
                     "build": "1H39",
                     "darwin": "1.2.1",
-                    "kernel": "???",
+                    "kernel": "xnu-?",
                     "released": "2000-09-13"
                 },
                 {
                     "version": "Int.",
+                    "platform": "PowerPC",
                     "build": "2E14",
                     "darwin": "1.2.1",
-                    "kernel": "???",
+                    "kernel": "xnu-?",
                     "released": "2000-09-13"
                 }
             ]
@@ -32,6 +40,9 @@
         {
             "family": "Mac OS X",
             "version": "10.0",
+            "platforms": [
+                "PowerPC"
+            ],
             "codename": "Cheetah",
             "announced":"2001-01-09",
             "released": "2001-03-24",
@@ -43,37 +54,50 @@
             "releases": [
                 {
                     "version": "10.0",
+                    "platform": "PowerPC",
                     "build": "4K78",
                     "darwin": "1.3.1",
-                    "kernel": "???",
+                    "kernel": "xnu-123.5",
                     "released": "2001-03-24"
                 },
                 {
                     "version": "10.0.1",
+                    "platform": "PowerPC",
                     "build": "4L13",
                     "darwin": "1.3.1",
-                    "kernel": "???",
+                    "kernel": "xnu-124.1",
                     "released": "2001-04-14"
                 },
                 {
                     "version": "10.0.2",
+                    "platform": "PowerPC",
                     "build": "4P12",
                     "darwin": "1.3.1",
-                    "kernel": "???",
+                    "kernel": "xnu-124.7",
                     "released": "2001-05-01"
                 },
                 {
                     "version": "10.0.3",
+                    "platform": "PowerPC",
                     "build": "4P13",
                     "darwin": "1.3.1",
-                    "kernel": "???",
+                    "kernel": "xnu-124.?",
                     "released": "2001-05-09"
                 },
                 {
                     "version": "10.0.4",
+                    "platform": "PowerPC",
                     "build": "4Q12",
                     "darwin": "1.3.1",
-                    "kernel": "???",
+                    "kernel": "xnu-124.13",
+                    "released": "2001-06-21"
+                },
+                {
+                    "version": "10.0.4",
+                    "platform": "PowerPC",
+                    "build": "4S10",
+                    "darwin": "1.3.1",
+                    "kernel": "xnu-124.13",
                     "released": "2001-06-21"
                 }
             ]
@@ -81,6 +105,9 @@
         {
             "family": "Mac OS X",
             "version": "10.1",
+            "platforms": [
+                "PowerPC"
+            ],
             "codename": "Puma",
             "announced":"2001-07-18",
             "released": "2001-09-25",
@@ -92,44 +119,50 @@
             "releases": [
                 {
                     "version": "10.1",
+                    "platform": "PowerPC",
                     "build": "5G64",
                     "darwin": "1.4.1",
-                    "kernel": "???",
+                    "kernel": "xnu-201",
                     "released": "2001-09-25"
                 },
                 {
                     "version": "10.1.1",
+                    "platform": "PowerPC",
                     "build": "5M28",
                     "darwin": "5.1.0",
-                    "kernel": "???",
+                    "kernel": "xnu-201.5",
                     "released": "2001-11-12"
                 },
                 {
                     "version": "10.1.2",
+                    "platform": "PowerPC",
                     "build": "5P48",
                     "darwin": "5.2.0",
-                    "kernel": "???",
+                    "kernel": "xnu-201.14",
                     "released": "2001-12-21"
                 },
                 {
                     "version": "10.1.3",
+                    "platform": "PowerPC",
                     "build": "5Q45",
                     "darwin": "5.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-201.19",
                     "released": "2002-02-19"
                 },
                 {
                     "version": "10.1.4",
+                    "platform": "PowerPC",
                     "build": "5Q125",
                     "darwin": "5.4.0",
-                    "kernel": "???",
+                    "kernel": "xnu-201.19.3",
                     "released": "2002-04-17"
                 },
                 {
                     "version": "10.1.5",
+                    "platform": "PowerPC",
                     "build": "5S60",
                     "darwin": "5.5.0",
-                    "kernel": "???",
+                    "kernel": "xnu-201.42.3",
                     "released": "2002-06-05"
                 }
             ]
@@ -137,6 +170,9 @@
         {
             "family": "Mac OS X",
             "version": "10.2",
+            "platforms": [
+                "PowerPC"
+            ],
             "codename": "Jaguar",
             "announced":"2002-05-06",
             "released": "2002-08-24",
@@ -148,65 +184,106 @@
             "releases": [
                 {
                     "version": "10.2",
+                    "platform": "PowerPC",
                     "build": "6C115",
                     "darwin": "6.0.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344",
+                    "released": "2002-08-24"
+                },
+                {
+                    "version": "10.2",
+                    "platform": "PowerPC",
+                    "build": "6C115a",
+                    "darwin": "6.0.0",
+                    "kernel": "xnu-344.?",
                     "released": "2002-08-24"
                 },
                 {
                     "version": "10.2.1",
+                    "platform": "PowerPC",
                     "build": "6D52",
                     "darwin": "6.1.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344.2",
                     "released": "2002-09-18"
                 },
                 {
                     "version": "10.2.2",
+                    "platform": "PowerPC",
                     "build": "6F21",
                     "darwin": "6.2.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344.12.2",
                     "released": "2002-11-11"
                 },
                 {
                     "version": "10.2.3",
+                    "platform": "PowerPC",
                     "build": "6G30",
                     "darwin": "6.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344.23",
+                    "released": "2002-12-19"
+                },
+                {
+                    "version": "10.2.3",
+                    "platform": "PowerPC",
+                    "build": "6G37",
+                    "darwin": "6.3.0",
+                    "kernel": "xnu-344.?",
+                    "released": "2002-12-19"
+                },
+                {
+                    "version": "10.2.3",
+                    "platform": "PowerPC",
+                    "build": "6G50",
+                    "darwin": "6.3.0",
+                    "kernel": "xnu-344.?",
                     "released": "2002-12-19"
                 },
                 {
                     "version": "10.2.4",
+                    "platform": "PowerPC",
                     "build": "6I32",
                     "darwin": "6.4.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344.26",
                     "released": "2003-02-13"
                 },
                 {
                     "version": "10.2.5",
+                    "platform": "PowerPC",
                     "build": "6L29",
                     "darwin": "6.5.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344.32",
                     "released": "2003-04-10"
                 },
                 {
                     "version": "10.2.6",
+                    "platform": "PowerPC",
                     "build": "6L60",
                     "darwin": "6.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344.34",
                     "released": "2003-05-06"
                 },
                 {
                     "version": "10.2.7",
+                    "platform": "PowerPC",
                     "build": "6R65",
                     "darwin": "6.7.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344.21.73",
                     "released": "2003-09-22"
                 },
                 {
                     "version": "10.2.8",
+                    "platform": "PowerPC",
                     "build": "6R73",
                     "darwin": "6.8.0",
-                    "kernel": "???",
+                    "kernel": "xnu-344.49",
+                    "released": "2003-10-03"
+                },
+                {
+                    "version": "10.2.8",
+                    "platform": "PowerPC",
+                    "build": "6S90",
+                    "darwin": "6.8.0",
+                    "kernel": "xnu-344.?",
                     "released": "2003-10-03"
                 }
             ]
@@ -214,6 +291,9 @@
         {
             "family": "Mac OS X",
             "version": "10.3",
+            "platforms": [
+                "PowerPC"
+            ],
             "codename": "Panther",
             "announced":"2003-06-23",
             "released": "2003-10-24",
@@ -226,72 +306,98 @@
             "releases": [
                 {
                     "version": "10.3",
+                    "platform": "PowerPC",
                     "build": "7B85",
                     "darwin": "7.0.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517",
+                    "released": "2003-10-24"
+                },
+                {
+                    "version": "10.3",
+                    "platform": "PowerPC",
+                    "build": "7B86",
+                    "darwin": "7.0.0",
+                    "kernel": "xnu-517.?",
                     "released": "2003-10-24"
                 },
                 {
                     "version": "10.3.1",
+                    "platform": "PowerPC",
                     "build": "7C107",
                     "darwin": "7.1.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.?",
                     "released": "2003-11-10"
                 },
                 {
                     "version": "10.3.2",
+                    "platform": "PowerPC",
                     "build": "7D24",
                     "darwin": "7.2.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.3.7",
+                    "released": "2003-12-17"
+                },
+                {
+                    "version": "10.3.2",
+                    "platform": "PowerPC",
+                    "build": "7D28",
+                    "darwin": "7.2.0",
+                    "kernel": "xnu-517.3.?",
                     "released": "2003-12-17"
                 },
                 {
                     "version": "10.3.3",
+                    "platform": "PowerPC",
                     "build": "7F44",
                     "darwin": "7.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.3.15",
                     "released": "2004-03-15"
                 },
                 {
                     "version": "10.3.4",
+                    "platform": "PowerPC",
                     "build": "7H63",
                     "darwin": "7.4.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.7.7",
                     "released": "2004-05-26"
                 },
                 {
                     "version": "10.3.5",
+                    "platform": "PowerPC",
                     "build": "7M34",
                     "darwin": "7.5.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.7.21",
                     "released": "2004-08-09"
                 },
                 {
                     "version": "10.3.6",
+                    "platform": "PowerPC",
                     "build": "7R28",
                     "darwin": "7.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.9.4",
                     "released": "2004-11-05"
                 },
                 {
                     "version": "10.3.7",
+                    "platform": "PowerPC",
                     "build": "7S215",
                     "darwin": "7.7.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.9.5",
                     "released": "2004-12-15"
                 },
                 {
                     "version": "10.3.8",
+                    "platform": "PowerPC",
                     "build": "7U16",
                     "darwin": "7.8.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.11.1",
                     "released": "2005-02-09"
                 },
                 {
                     "version": "10.3.9",
+                    "platform": "PowerPC",
                     "build": "7W98",
                     "darwin": "7.9.0",
-                    "kernel": "???",
+                    "kernel": "xnu-517.12.7",
                     "released": "2005-04-15"
                 }
             ]
@@ -299,6 +405,11 @@
         {
             "family": "Mac OS X",
             "version": "10.4",
+            "platforms": [
+                "PowerPC",
+                "i386",
+                "x86-64"
+            ],
             "codename": "Tiger",
             "announced":"2004-05-04",
             "released": "2005-04-29",
@@ -311,86 +422,234 @@
             "releases": [
                 {
                     "version": "10.4",
+                    "platform": "PowerPC",
                     "build": "8A428",
                     "darwin": "8.0.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792",
+                    "released": "2005-04-29"
+                },
+                {
+                    "version": "10.4",
+                    "platform": "PowerPC",
+                    "build": "8A432",
+                    "darwin": "8.0.0",
+                    "kernel": "xnu-792.?",
                     "released": "2005-04-29"
                 },
                 {
                     "version": "10.4.1",
+                    "platform": "PowerPC",
                     "build": "8B15",
                     "darwin": "8.1.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.1.5",
                     "released": "2005-05-16"
                 },
                 {
+                    "version": "10.4.1",
+                    "platform": "PowerPC",
+                    "build": "8B17",
+                    "darwin": "8.1.0",
+                    "kernel": "xnu-792.?",
+                    "released": "2005-05-19"
+                },
+                {
                     "version": "10.4.2",
+                    "platform": "PowerPC",
                     "build": "8C46",
                     "darwin": "8.2.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.2.4",
                     "released": "2005-07-12"
                 },
                 {
+                    "version": "10.4.2",
+                    "platform": "PowerPC",
+                    "build": "8C47",
+                    "darwin": "8.2.0",
+                    "kernel": "xnu-792.?",
+                    "released": "2005-07-12"
+                },
+                {
+                    "version": "10.4.2",
+                    "platform": "PowerPC",
+                    "build": "8E102",
+                    "darwin": "8.2.0",
+                    "kernel": "xnu-792.?",
+                    "released": "2005-10-12"
+                },
+                {
+                    "version": "10.4.2",
+                    "platform": "PowerPC",
+                    "build": "8E45",
+                    "darwin": "8.2.0",
+                    "kernel": "xnu-792.?",
+                    "released": "2005-10-19"
+                },
+                {
+                    "version": "10.4.2",
+                    "platform": "PowerPC",
+                    "build": "8E90",
+                    "darwin": "8.2.0",
+                    "kernel": "xnu-792.?",
+                    "released": "2005-10-19"
+                },
+                {
                     "version": "10.4.3",
+                    "platform": "PowerPC",
                     "build": "8F46",
                     "darwin": "8.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.6.22",
                     "released": "2005-10-31"
                 },
                 {
                     "version": "10.4.4",
+                    "platform": "PowerPC",
                     "build": "8G32",
                     "darwin": "8.4.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.6.56",
+                    "released": "2006-01-10"
+                },
+                {
+                    "version": "10.4.4*",
+                    "platform": "Intel",
+                    "build": "8G1165",
+                    "darwin": "8.4.0",
+                    "kernel": "xnu-792.?",
                     "released": "2006-01-10"
                 },
                 {
                     "version": "10.4.5",
+                    "platform": "PowerPC",
                     "build": "8H14",
                     "darwin": "8.5.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.6.61",
+                    "released": "2006-02-14"
+                },
+                {
+                    "version": "10.4.5*",
+                    "platform": "Intel",
+                    "build": "8G1454",
+                    "darwin": "8.5.0",
+                    "kernel": "xnu-792.?",
                     "released": "2006-02-14"
                 },
                 {
                     "version": "10.4.6",
+                    "platform": "PowerPC",
                     "build": "8I127",
                     "darwin": "8.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.6.70",
+                    "released": "2006-04-03"
+                },
+                {
+                    "version": "10.4.6*",
+                    "platform": "Intel",
+                    "build": "8I1119",
+                    "darwin": "8.6.0",
+                    "kernel": "xnu-792.?",
                     "released": "2006-04-03"
                 },
                 {
                     "version": "10.4.7",
+                    "platform": "PowerPC",
                     "build": "8J135",
                     "darwin": "8.7.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.6.76",
                     "released": "2006-06-27"
                 },
                 {
+                    "version": "10.4.7*",
+                    "platform": "Intel",
+                    "build": "8J2135a",
+                    "darwin": "8.7.0",
+                    "kernel": "xnu-792.?",
+                    "released": "2006-06-27"
+                },
+                {
+                    "version": "10.4.7",
+                    "platform": "PowerPC",
+                    "build": "8K1079",
+                    "darwin": "8.7.0",
+                    "kernel": "xnu-792.?",
+                    "released": "2006-08-07"
+                },
+                {
+                    "version": "10.4.7",
+                    "platform": "PowerPC",
+                    "build": "8N5107",
+                    "darwin": "8.7.0",
+                    "kernel": "xnu-792.?",
+                    "released": "2006-08-07"
+                },
+                {
                     "version": "10.4.8",
+                    "platform": "PowerPC",
                     "build": "8L127",
                     "darwin": "8.8.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.12.6",
+                    "released": "2006-09-29"
+                },
+                {
+                    "version": "10.4.8*",
+                    "platform": "Intel",
+                    "build": "8L2127",
+                    "darwin": "8.8.0",
+                    "kernel": "xnu-792.13.8",
                     "released": "2006-09-29"
                 },
                 {
                     "version": "10.4.9",
+                    "platform": "PowerPC",
                     "build": "8P135",
                     "darwin": "8.9.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.17.14",
+                    "released": "2007-03-13"
+                },
+                {
+                    "version": "10.4.9*",
+                    "platform": "Intel",
+                    "build": "8P2137",
+                    "darwin": "8.9.0",
+                    "kernel": "xnu-792.18.15",
                     "released": "2007-03-13"
                 },
                 {
                     "version": "10.4.10",
+                    "platform": "PowerPC",
                     "build": "8R218",
                     "darwin": "8.10.0",
-                    "kernel": "???",
+                    "kernel": "xnu-792.21.3",
+                    "released": "2007-06-20"
+                },
+                {
+                    "version": "10.4.10*",
+                    "platform": "Intel",
+                    "build": "8R2218",
+                    "darwin": "8.10.0",
+                    "kernel": "xnu-792.22.5",
+                    "released": "2007-06-20"
+                },
+                {
+                    "version": "10.4.10*",
+                    "platform": "Intel",
+                    "build": "8R2232",
+                    "darwin": "8.10.0",
+                    "kernel": "xnu-792.?",
                     "released": "2007-06-20"
                 },
                 {
                     "version": "10.4.11",
+                    "platform": "PowerPC",
                     "build": "8S165",
                     "darwin": "8.11.0",
-                    "kernel": "???",
+                    "kernel": "xnu-?",
+                    "released": "2007-11-14"
+                },
+                {
+                    "version": "10.4.11",
+                    "platform": "Intel",
+                    "build": "8S2167",
+                    "darwin": "8.11.0",
+                    "kernel": "xnu-?",
                     "released": "2007-11-14"
                 }
             ]
@@ -398,6 +657,11 @@
         {
             "family": "Mac OS X",
             "version": "10.5",
+            "platforms": [
+                "PowerPC",
+                "i386",
+                "x86-64"
+            ],
             "codename": "Leopard",
             "announced":"2006-06-26",
             "released": "2007-10-26",
@@ -409,74 +673,125 @@
             "releases": [
                 {
                     "version": "10.5",
+                    "platform": "Universal",
                     "build": "9A581",
                     "darwin": "9.0.0",
-                    "kernel": "xnu-1228",
+                    "kernel": "xnu-1228~1",
                     "released": "2007-10-26"
                 },
                 {
                     "version": "10.5.1",
+                    "platform": "Universal",
                     "build": "9B18",
                     "darwin": "9.1.0",
-                    "kernel": "xnu-1228.0.2",
+                    "kernel": "xnu-1228.0.2~1",
                     "released": "2007-11-15"
                 },
                 {
+                    "version": "10.5.1",
+                    "platform": "Universal",
+                    "build": "9B2117",
+                    "darwin": "9.1.1",
+                    "kernel": "xnu-1228.?",
+                    "released": "2007-12-14"
+                },
+                {
                     "version": "10.5.2",
+                    "platform": "Universal",
                     "build": "9C31",
                     "darwin": "9.2.0",
-                    "kernel": "xnu-1228.3.13",
+                    "kernel": "xnu-1228.3.13~1",
+                    "released": "2008-02-11"
+                },
+                {
+                    "version": "10.5.2",
+                    "platform": "Universal",
+                    "build": "9C7010",
+                    "darwin": "9.2.0",
+                    "kernel": "xnu-1228.?",
                     "released": "2008-02-11"
                 },
                 {
                     "version": "10.5.3",
+                    "platform": "Universal",
                     "build": "9D34",
                     "darwin": "9.3.0",
-                    "kernel": "xnu-1228.5.18",
+                    "kernel": "xnu-1228.5.18~1",
                     "released": "2008-05-28"
                 },
-
                 {
                     "version": "10.5.4",
+                    "platform": "Universal",
                     "build": "9E17",
                     "darwin": "9.4.0",
-                    "kernel": "xnu-1228.5.20",
+                    "kernel": "xnu-1228.5.20~1",
                     "released": "2008-06-30"
                 },
-
                 {
                     "version": "10.5.5",
+                    "platform": "Universal",
                     "build": "9F33",
                     "darwin": "9.5.0",
-                    "kernel": "xnu-1228.7.58",
+                    "kernel": "xnu-1228.7.58~1",
                     "released": "2008-09-15"
                 },
                 {
                     "version": "10.5.6",
+                    "platform": "Universal",
                     "build": "9G55",
                     "darwin": "9.6.0",
                     "kernel": "xnu-1228.9.59",
                     "released": "2008-12-15"
                 },
                 {
+                    "version": "10.5.6",
+                    "platform": "Universal",
+                    "build": "9G66",
+                    "darwin": "9.6.0",
+                    "kernel": "xnu-1228.9.?",
+                    "released": "2009-01-06"
+                },
+                {
+                    "version": "10.5.6",
+                    "platform": "Universal",
+                    "build": "9G71",
+                    "darwin": "9.6.0",
+                    "kernel": "xnu-1228.9.59~1",
+                    "released": "N/A"
+                },
+                {
                     "version": "10.5.7",
+                    "platform": "Universal",
                     "build": "9J61",
                     "darwin": "9.7.0",
-                    "kernel": "xnu-1228.12.14",
+                    "kernel": "xnu-1228.12.14~1",
                     "released": "2009-05-12"
                 },
                 {
                     "version": "10.5.8",
+                    "platform": "Universal",
                     "build": "9L30",
                     "darwin": "9.8.0",
-                    "kernel": "xnu-1228.15.4",
+                    "kernel": "xnu-1228.15.4~1",
                     "released": "2009-08-05"
+                },
+                {
+                    "version": "10.5.8",
+                    "platform": "Universal",
+                    "build": "9L34",
+                    "darwin": "9.8.0",
+                    "kernel": "xnu-?",
+                    "released": "2009-08-31"
                 }
             ]
         },
         {
             "family": "Mac OS X",
             "version": "10.6",
+            "platforms": [
+                "i386",
+                "x86-64"
+            ],
             "codename": "Snow Leopard",
             "announced":"2008-06-09",
             "released": "2009-08-28",
@@ -488,13 +803,23 @@
             "releases": [
                 {
                     "version": "10.6",
+                    "platform": "Intel",
                     "build": "10A432",
                     "darwin": "10.0.0",
                     "kernel": "xnu-1456.1.26",
                     "released": "2009-08-28"
                 },
                 {
+                    "version": "10.6",
+                    "platform": "Intel",
+                    "build": "10A433",
+                    "darwin": "10.0.0",
+                    "kernel": "xnu-1456.1.26.?",
+                    "released": "2009-08-28"
+                },
+                {
                     "version": "10.6.1",
+                    "platform": "Intel",
                     "build": "10B504",
                     "darwin": "10.1.0",
                     "kernel": "xnu-1456.1.26",
@@ -502,6 +827,7 @@
                 },
                 {
                     "version": "10.6.2",
+                    "platform": "Intel",
                     "build": "10C540",
                     "darwin": "10.2.0",
                     "kernel": "xnu-1486.2.11",
@@ -509,13 +835,31 @@
                 },
                 {
                     "version": "10.6.3",
+                    "platform": "Intel",
                     "build": "10D573",
                     "darwin": "10.3.0",
                     "kernel": "xnu-1504.3.12",
                     "released": "2010-03-29"
                 },
                 {
+                    "version": "10.6.3",
+                    "platform": "Intel",
+                    "build": "10D575",
+                    "darwin": "10.3.0",
+                    "kernel": "xnu-1504.?",
+                    "released": "2010-04-01"
+                },
+                {
+                    "version": "10.6.3",
+                    "platform": "Intel",
+                    "build": "10D578",
+                    "darwin": "10.3.0",
+                    "kernel": "xnu-1504.?",
+                    "released": "2010-04-13"
+                },
+                {
                     "version": "10.6.4",
+                    "platform": "Intel",
                     "build": "10F569",
                     "darwin": "10.4.0",
                     "kernel": "xnu-1504.7.4",
@@ -523,6 +867,7 @@
                 },
                 {
                     "version": "10.6.5",
+                    "platform": "Intel",
                     "build": "10H574",
                     "darwin": "10.5.0",
                     "kernel": "xnu-1504.9.17",
@@ -530,6 +875,7 @@
                 },
                 {
                     "version": "10.6.6",
+                    "platform": "Intel",
                     "build": "10J567",
                     "darwin": "10.6.0",
                     "kernel": "xnu-1504.9.26",
@@ -537,23 +883,52 @@
                 },
                 {
                     "version": "10.6.7",
+                    "platform": "Intel",
                     "build": "10J869",
                     "darwin": "10.7.0",
                     "kernel": "xnu-1504.9.37",
                     "released": "2011-03-21"
                 },
                 {
+                    "version": "10.6.7",
+                    "platform": "Intel",
+                    "build": "10J3250",
+                    "darwin": "10.7.0",
+                    "kernel": "xnu-1504.?",
+                    "released": "2011-03-21"
+                },
+                {
+                    "version": "10.6.7",
+                    "platform": "Intel",
+                    "build": "10J4138",
+                    "darwin": "10.7.0",
+                    "kernel": "xnu-1504.?",
+                    "released": "2011-05-04"
+                },
+                {
                     "version": "10.6.8",
+                    "platform": "Intel",
                     "build": "10K540",
                     "darwin": "10.8.0",
                     "kernel": "xnu-1504.15.3",
                     "released": "2011-06-23"
+                },
+                {
+                    "version": "10.6.8",
+                    "platform": "Intel",
+                    "build": "10K549",
+                    "darwin": "10.8.0",
+                    "kernel": "xnu-?",
+                    "released": "2011-07-25"
                 }
             ]
         },
         {
             "family": "Mac OS X",
             "version": "10.7",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "Lion",
             "announced":"2010-10-20",
             "released": "2011-07-20",
@@ -566,20 +941,55 @@
             "releases": [
                 {
                     "version": "10.7",
+                    "platform": "Intel",
                     "build": "11A511",
                     "darwin": "11.0.0",
                     "kernel": "xnu-1699.22.73",
                     "released": "2011-07-20"
                 },
                 {
+                    "version": "10.7",
+                    "platform": "Intel",
+                    "build": "11A511s",
+                    "darwin": "11.0.0",
+                    "kernel": "xnu-1699.22.?",
+                    "released": "2011-08-16"
+                },
+                {
+                    "version": "10.7",
+                    "platform": "Intel",
+                    "build": "11A2061",
+                    "darwin": "11.0.2",
+                    "kernel": "xnu-1699.22.?",
+                    "released": "2011-07-20"
+                },
+                {
+                    "version": "10.7",
+                    "platform": "Intel",
+                    "build": "11A2063",
+                    "darwin": "11.0.2",
+                    "kernel": "xnu-1699.22.?",
+                    "released": "2011-07-20"
+                },
+                {
                     "version": "10.7.1",
+                    "platform": "Intel",
                     "build": "11B26",
                     "darwin": "11.1.0",
                     "kernel": "xnu-1699.22.81",
                     "released": "2011-08-16"
                 },
                 {
+                    "version": "10.7.1",
+                    "platform": "Intel",
+                    "build": "11B2118",
+                    "darwin": "11.1.0",
+                    "kernel": "xnu-1699.?",
+                    "released": "2011-08-16"
+                },
+                {
                     "version": "10.7.2",
+                    "platform": "Intel",
                     "build": "11C74",
                     "darwin": "11.2.0",
                     "kernel": "xnu-1699.24.8",
@@ -587,6 +997,7 @@
                 },
                 {
                     "version": "10.7.3",
+                    "platform": "Intel",
                     "build": "11D50",
                     "darwin": "11.3.0",
                     "kernel": "xnu-1699.24.23",
@@ -594,6 +1005,7 @@
                 },
                 {
                     "version": "10.7.4",
+                    "platform": "Intel",
                     "build": "11E53",
                     "darwin": "11.4.0",
                     "kernel": "xnu-1699.26.8",
@@ -601,16 +1013,28 @@
                 },
                 {
                     "version": "10.7.5",
+                    "platform": "Intel",
                     "build": "11G56",
                     "darwin": "11.4.2",
                     "kernel": "xnu-1699.32.7",
                     "released": "2012-09-19"
+                },
+                {
+                    "version": "10.7.5",
+                    "platform": "Intel",
+                    "build": "11G63",
+                    "darwin": "11.4.2",
+                    "kernel": "xnu-1699.32.7~1",
+                    "released": "2012-10-04"
                 }
             ]
         },
         {
             "family": "Mac OS X",
             "version": "10.8",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "Mountain Lion",
             "announced":"2012-02-16",
             "released": "2012-07-25",
@@ -629,6 +1053,7 @@
             "releases": [
                 {
                     "version": "10.8",
+                    "platform": "Intel",
                     "build": "12A269",
                     "darwin": "12.0.0",
                     "kernel": "xnu-2050.7.9",
@@ -636,6 +1061,7 @@
                 },
                 {
                     "version": "10.8.1",
+                    "platform": "Intel",
                     "build": "12B19",
                     "darwin": "12.1.0",
                     "kernel": "xnu-2050.9.2",
@@ -643,13 +1069,39 @@
                 },
                 {
                     "version": "10.8.2",
+                    "platform": "Intel",
                     "build": "12C54",
                     "darwin": "12.2.0",
                     "kernel": "xnu-2050.18.24",
                     "released": "2012-09-19"
                 },
                 {
+                    "version": "10.8.2",
+                    "platform": "Intel",
+                    "build": "12C60",
+                    "darwin": "12.2.0",
+                    "kernel": "xnu-2050.?",
+                    "released": "2012-10-04"
+                },
+                {
+                    "version": "10.8.2",
+                    "platform": "Intel",
+                    "build": "12C2034",
+                    "darwin": "12.2.0",
+                    "kernel": "xnu-2050.?",
+                    "released": "2012-10-23"
+                },
+                {
+                    "version": "10.8.2",
+                    "platform": "Intel",
+                    "build": "12C3104",
+                    "darwin": "12.2.0",
+                    "kernel": "xnu-2050.?",
+                    "released": "2012-11-29"
+                },
+                {
                     "version": "10.8.3",
+                    "platform": "Intel",
                     "build": "12D78",
                     "darwin": "12.3.0",
                     "kernel": "xnu-2050.22.13",
@@ -657,23 +1109,92 @@
                 },
                 {
                     "version": "10.8.4",
+                    "platform": "Intel",
                     "build": "12E55",
                     "darwin": "12.4.0",
                     "kernel": "xnu-2050.24.15",
                     "released": "2013-06-04"
                 },
                 {
+                    "version": "10.8.4",
+                    "platform": "Intel",
+                    "build": "12E3067",
+                    "darwin": "12.4.0",
+                    "kernel": "xnu-2050.?",
+                    "released": "2013-06-10"
+                },
+                {
+                    "version": "10.8.4",
+                    "platform": "Intel",
+                    "build": "12E4022",
+                    "darwin": "12.4.0",
+                    "kernel": "xnu-2050.?",
+                    "released": "2013-09-25"
+                },
+                {
                     "version": "10.8.5",
+                    "platform": "Intel",
                     "build": "12F37",
                     "darwin": "12.5.0",
                     "kernel": "xnu-2050.48.11",
                     "released": "2013-09-12"
+                },
+                {
+                    "version": "10.8.5",
+                    "platform": "Intel",
+                    "build": "12F45",
+                    "darwin": "12.5.0",
+                    "kernel": "xnu-2050.48.12~1",
+                    "released": "2013-10-03"
+                },
+                {
+                    "version": "10.8.5",
+                    "platform": "Intel",
+                    "build": "12F45",
+                    "darwin": "12.6.0",
+                    "kernel": "xnu-2050.48.15~1",
+                    "released": "2015-01-27"
+                },
+                {
+                    "version": "10.8.5",
+                    "platform": "Intel",
+                    "build": "12F2501",
+                    "darwin": "12.6.0",
+                    "kernel": "xnu-2050.48.15~1",
+                    "released": "2015-03-09"
+                },
+                {
+                    "version": "10.8.5",
+                    "platform": "Intel",
+                    "build": "12F2518",
+                    "darwin": "12.6.0",
+                    "kernel": "xnu-2050.48.19~1",
+                    "released": "2015-04-08"
+                },
+                {
+                    "version": "10.8.5",
+                    "platform": "Intel",
+                    "build": "12F2542",
+                    "darwin": "12.6.0",
+                    "kernel": "xnu-2050.48.19~1",
+                    "released": "2015-06-30"
+                },
+                {
+                    "version": "10.8.5",
+                    "platform": "Intel",
+                    "build": "12F2560",
+                    "darwin": "12.6.0",
+                    "kernel": "xnu-2050.48.19~1",
+                    "released": "2015-08-13"
                 }
             ]
         },
         {
             "family": "Mac OS X",
             "version": "10.9",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "Mavericks",
             "announced":"2013-06-10",
             "released": "2013-10-22",
@@ -692,6 +1213,7 @@
             "releases": [
                 {
                     "version": "10.9",
+                    "platform": "Intel",
                     "build": "13A603",
                     "darwin": "13.0.0",
                     "kernel": "xnu-2422.1.72",
@@ -699,6 +1221,7 @@
                 },
                 {
                     "version": "10.9.1",
+                    "platform": "Intel",
                     "build": "13B42",
                     "darwin": "13.0.0",
                     "kernel": "xnu-2422.1.72",
@@ -706,13 +1229,23 @@
                 },
                 {
                     "version": "10.9.2",
+                    "platform": "Intel",
                     "build": "13C64",
                     "darwin": "13.1.0",
                     "kernel": "xnu-2422.90.20",
                     "released": "2014-02-25"
                 },
                 {
+                    "version": "10.9.2",
+                    "platform": "Intel",
+                    "build": "13C1021",
+                    "darwin": "13.1.0",
+                    "kernel": "xnu-2422.?",
+                    "released": "2014-04-22"
+                },
+                {
                     "version": "10.9.3",
+                    "platform": "Intel",
                     "build": "13D65",
                     "darwin": "13.2.0",
                     "kernel": "xnu-2422.100.13",
@@ -720,6 +1253,7 @@
                 },
                 {
                     "version": "10.9.4",
+                    "platform": "Intel",
                     "build": "13E28",
                     "darwin": "13.3.0",
                     "kernel": "xnu-2422.110.17",
@@ -727,16 +1261,116 @@
                 },
                 {
                     "version": "10.9.5",
+                    "platform": "Intel",
                     "build": "13F34",
                     "darwin": "13.4.0",
                     "kernel": "xnu-2422.115.4",
                     "released": "2014-09-17"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F34",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2014-10-16"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F34",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-01-27"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1066",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-03-09"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1077",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-04-08"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1096",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-06-30"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1112",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-08-13"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1134",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-10-21"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1507",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-12-08"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1603",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-01-19"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1712",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-03-21"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1808",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-05-16"
+                },
+                {
+                    "version": "10.9.5",
+                    "platform": "Intel",
+                    "build": "13F1911",
+                    "darwin": "13.4.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-07-18"
                 }
             ]
         },
         {
             "family": "Mac OS X",
             "version": "10.10",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "Yosemite",
             "announced":"2014-06-02",
             "released": "2014-10-16",
@@ -755,6 +1389,7 @@
             "releases": [
                 {
                     "version": "10.10",
+                    "platform": "Intel",
                     "build": "14A389",
                     "darwin": "14.0.0",
                     "kernel": "xnu-2782.1.97",
@@ -762,6 +1397,7 @@
                 },
                 {
                     "version": "10.10.1",
+                    "platform": "Intel",
                     "build": "14B25",
                     "darwin": "14.0.0",
                     "kernel": "xnu-2782.1.97",
@@ -769,20 +1405,63 @@
                 },
                 {
                     "version": "10.10.2",
+                    "platform": "Intel",
                     "build": "14C109",
                     "darwin": "14.1.0",
                     "kernel": "xnu-2782.10.72",
                     "released": "2015-01-27"
                 },
                 {
+                    "version": "10.10.2",
+                    "platform": "Intel",
+                    "build": "14C1510",
+                    "darwin": "14.1.0",
+                    "kernel": "xnu-2782.?",
+                    "released": "2015-03-09"
+                },
+                {
+                    "version": "10.10.2",
+                    "platform": "Intel",
+                    "build": "14C2043",
+                    "darwin": "14.1.0",
+                    "kernel": "xnu-2782.?",
+                    "released": "2015-03-09"
+                },
+                {
+                    "version": "10.10.2",
+                    "platform": "Intel",
+                    "build": "14C1514",
+                    "darwin": "14.1.0",
+                    "kernel": "xnu-2782.?",
+                    "released": "2015-03-19"
+                },
+                {
+                    "version": "10.10.2",
+                    "platform": "Intel",
+                    "build": "14C2513",
+                    "darwin": "14.1.0",
+                    "kernel": "xnu-2782.?",
+                    "released": "2015-03-19"
+                },
+                {
                     "version": "10.10.3",
+                    "platform": "Intel",
                     "build": "14D131",
                     "darwin": "14.3.0",
                     "kernel": "xnu-2782.20.48",
                     "released": "2015-04-08"
                 },
                 {
+                    "version": "10.10.3",
+                    "platform": "Intel",
+                    "build": "14D136",
+                    "darwin": "14.3.0",
+                    "kernel": "xnu-2782.?",
+                    "released": "2015-04-16"
+                },
+                {
                     "version": "10.10.4",
+                    "platform": "Intel",
                     "build": "14E46",
                     "darwin": "14.4.0",
                     "kernel": "xnu-2782.30.5",
@@ -790,16 +1469,124 @@
                 },
                 {
                     "version": "10.10.5",
+                    "platform": "Intel",
                     "build": "14F27",
                     "darwin": "14.5.0",
                     "kernel": "xnu-2782.40.9",
                     "released": "2015-08-13"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F1021",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-10-21"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F1505",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-11-12"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F1509",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2015-12-11"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F1605",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-01-19"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F1713",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-03-21"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F1808",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-05-18"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F1909",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-07-18"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F1912",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-09-01"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F2009",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-10-24"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F2109",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-12-13"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F2315",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-03-27"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F2411",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-05-15"
+                },
+                {
+                    "version": "10.10.5",
+                    "platform": "Intel",
+                    "build": "14F2511",
+                    "darwin": "14.5.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-07-19"
                 }
             ]
         },
         {
             "family": "Mac OS X",
             "version": "10.11",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "El Capitan",
             "announced":"2015-06-08",
             "released": "2015-09-30",
@@ -818,6 +1605,7 @@
             "releases": [
                 {
                     "version": "10.11",
+                    "platform": "Intel",
                     "build": "15A284",
                     "darwin": "15.0.0",
                     "kernel": "xnu-3247.1.106",
@@ -825,6 +1613,7 @@
                 },
                 {
                     "version": "10.11.1",
+                    "platform": "Intel",
                     "build": "15B42",
                     "darwin": "15.0.0",
                     "kernel": "xnu-3247.10.11",
@@ -832,6 +1621,7 @@
                 },
                 {
                     "version": "10.11.2",
+                    "platform": "Intel",
                     "build": "15C50",
                     "darwin": "15.2.0",
                     "kernel": "xnu-3248.20.55",
@@ -839,6 +1629,7 @@
                 },
                 {
                     "version": "10.11.3",
+                    "platform": "Intel",
                     "build": "15D21",
                     "darwin": "15.3.0",
                     "kernel": "xnu-3248.30.4",
@@ -846,6 +1637,7 @@
                 },
                 {
                     "version": "10.11.4",
+                    "platform": "Intel",
                     "build": "15E65",
                     "darwin": "15.4.0",
                     "kernel": "xnu-3248.40.184",
@@ -853,6 +1645,7 @@
                 },
                 {
                     "version": "10.11.5",
+                    "platform": "Intel",
                     "build": "15F34",
                     "darwin": "15.5.0",
                     "kernel": "xnu-3248.50.21",
@@ -860,16 +1653,132 @@
                 },
                 {
                     "version": "10.11.6",
+                    "platform": "Intel",
                     "build": "15G31",
                     "darwin": "15.6.0",
                     "kernel": "xnu-3248.60.10",
                     "released": "2016-07-18"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G1004",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-09-01"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G1011",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-09-01"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G1108",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-10-24"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G1212",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2016-12-13"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G1217",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-01-17"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G1421",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-03-27"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G1510",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-05-15"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G1611",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-07-19"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G17023",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-10-31"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G18013",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-12-06"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G19009",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-01-23"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G20015",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-03-29"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G21013",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-06-01"
+                },
+                {
+                    "version": "10.11.6",
+                    "platform": "Intel",
+                    "build": "15G22010",
+                    "darwin": "15.6.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-07-09"
                 }
             ]
         },
         {
             "family": "macOS",
             "version": "10.12",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "Sierra",
             "announced":"2016-06-13",
             "released": "2016-09-20",
@@ -887,6 +1796,7 @@
             "releases": [
                 {
                     "version": "10.12",
+                    "platform": "Intel",
                     "build": "16A323",
                     "darwin": "16.0.0",
                     "kernel": "xnu-3789.1.32",
@@ -894,20 +1804,39 @@
                 },
                 {
                     "version": "10.12.1",
+                    "platform": "Intel",
                     "build": "16B2555",
                     "darwin": "16.1.0",
                     "kernel": "xnu-3789.21.4",
                     "released": "2016-10-24"
                 },
                 {
+                    "version": "10.12.1",
+                    "platform": "Intel",
+                    "build": "16B2657",
+                    "darwin": "16.1.0",
+                    "kernel": "xnu-3789.?",
+                    "released": "2016-10-27"
+                },
+                {
                     "version": "10.12.2",
+                    "platform": "Intel",
                     "build": "16C67",
                     "darwin": "16.3.0",
                     "kernel": "xnu-3789.31.2",
                     "released": "2016-12-13"
                 },
                 {
+                    "version": "10.12.2",
+                    "platform": "Intel",
+                    "build": "16C68",
+                    "darwin": "16.3.0",
+                    "kernel": "xnu-3789.?",
+                    "released": "2016-12-14"
+                },
+                {
                     "version": "10.12.3",
+                    "platform": "Intel",
                     "build": "16D32",
                     "darwin": "16.4.0",
                     "kernel": "xnu-3789.41.3",
@@ -915,6 +1844,7 @@
                 },
                 {
                     "version": "10.12.4",
+                    "platform": "Intel",
                     "build": "16E195",
                     "darwin": "16.5.0",
                     "kernel": "xnu-3789.51.2",
@@ -922,23 +1852,156 @@
                 },
                 {
                     "version": "10.12.5",
+                    "platform": "Intel",
                     "build": "16F73",
                     "darwin": "16.6.0",
                     "kernel": "xnu-3789.60.24",
                     "released": "2017-05-15"
                 },
                 {
+                    "version": "10.12.5",
+                    "platform": "Intel",
+                    "build": "16F2073",
+                    "darwin": "16.6.0",
+                    "kernel": "xnu-3789.?",
+                    "released": "2017-06-05"
+                },
+                {
                     "version": "10.12.6",
+                    "platform": "Intel",
                     "build": "16G29",
                     "darwin": "16.7.0",
                     "kernel": "xnu-3789.70.16",
                     "released": "2017-07-19"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1036",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-10-31"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1114",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2017-12-06"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1212",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-01-23"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1314",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-03-29"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1408",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-06-01"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1510",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-07-09"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1618",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-10-30"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1710",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2018-12-05"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1815",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2019-01-22"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1917",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2019-03-25"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G1918",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2019-03-29"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G2016",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2019-05-14"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G2127",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2019-07-22"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G2128",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2019-07-29"
+                },
+                {
+                    "version": "10.12.6",
+                    "platform": "Intel",
+                    "build": "16G2136",
+                    "darwin": "16.7.0",
+                    "kernel": "xnu-?",
+                    "released": "2019-09-26"
                 }
             ]
         },
         {
             "family": "macOS",
             "version": "10.13",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "High Sierra",
             "announced":"2017-06-05",
             "released": "2017-09-25",
@@ -956,41 +2019,111 @@
             "releases": [
                 {
                     "version": "10.13",
+                    "platform": "Intel",
                     "build": "17A365",
                     "darwin": "17.0.0",
                     "kernel": "xnu-4570.1.46",
                     "released": "2017-09-25"
                 },
                 {
+                    "version": "10.13",
+                    "platform": "Intel",
+                    "build": "17A405",
+                    "darwin": "17.0.0",
+                    "kernel": "xnu-4570.?",
+                    "released": "2017-10-05"
+                },
+                {
                     "version": "10.13.1",
+                    "platform": "Intel",
                     "build": "17B48",
                     "darwin": "17.2.0",
                     "kernel": "xnu-4570.20.62",
                     "released": "2017-10-31"
                 },
                 {
+                    "version": "10.13.1",
+                    "platform": "Intel",
+                    "build": "17B1002",
+                    "darwin": "17.2.0",
+                    "kernel": "xnu-4570.?",
+                    "released": "2017-11-29"
+                },
+                {
+                    "version": "10.13.1",
+                    "platform": "Intel",
+                    "build": "17B1003",
+                    "darwin": "17.2.0",
+                    "kernel": "xnu-4570.?",
+                    "released": "2017-11-29"
+                },
+                {
                     "version": "10.13.2",
+                    "platform": "Intel",
                     "build": "17C88",
                     "darwin": "17.3.0",
                     "kernel": "xnu-4570.31.3",
                     "released": "2017-12-06"
                 },
                 {
+                    "version": "10.13.2",
+                    "platform": "Intel",
+                    "build": "17C205",
+                    "darwin": "17.3.0",
+                    "kernel": "xnu-4570.?",
+                    "released": "2018-01-08"
+                },
+                {
+                    "version": "10.13.2",
+                    "platform": "Intel",
+                    "build": "17C2205",
+                    "darwin": "17.3.0",
+                    "kernel": "xnu-4570.?",
+                    "released": "2018-01-08"
+                },
+                {
                     "version": "10.13.3",
+                    "platform": "Intel",
                     "build": "17D47",
                     "darwin": "17.4.0",
                     "kernel": "xnu-4570.41.2",
                     "released": "2018-01-23"
                 },
                 {
+                    "version": "10.13.3",
+                    "platform": "Intel",
+                    "build": "17D102",
+                    "darwin": "17.4.0",
+                    "kernel": "xnu-4570.?",
+                    "released": "2018-02-19"
+                },
+                {
+                    "version": "10.13.3",
+                    "platform": "Intel",
+                    "build": "17D2102",
+                    "darwin": "17.4.0",
+                    "kernel": "xnu-4570.?",
+                    "released": "2018-02-19"
+                },
+                {
                     "version": "10.13.4",
+                    "platform": "Intel",
                     "build": "17E199",
                     "darwin": "17.5.0",
                     "kernel": "xnu-4570.51.1",
                     "released": "2018-03-29"
                 },
                 {
+                    "version": "10.13.4",
+                    "platform": "Intel",
+                    "build": "17E202",
+                    "darwin": "17.5.0",
+                    "kernel": "xnu-4570.?",
+                    "released": "2018-04-24"
+                },
+                {
                     "version": "10.13.5",
+                    "platform": "Intel",
                     "build": "17F77",
                     "darwin": "17.6.0",
                     "kernel": "xnu-4570.61.1",
@@ -998,16 +2131,180 @@
                 },
                 {
                     "version": "10.13.6",
+                    "platform": "Intel",
                     "build": "17G65",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.2",
                     "released": "2018-07-09"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G2208",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.?",
+                    "released": "2018-07-24"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G2307",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.?",
+                    "released": "2018-08-28"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G3025",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.?",
+                    "released": "2018-10-30"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G4015",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.?",
+                    "released": "2018-12-05"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G5019",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.22~1",
+                    "released": "2019-01-22"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G6029",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.?",
+                    "released": "2019-03-25"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G6030",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.35~1",
+                    "released": "2019-03-29"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G7024",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.45~1",
+                    "released": "2019-05-13"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G8029",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.?",
+                    "released": "2019-07-22"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G8030",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.?",
+                    "released": "2019-07-29"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G8037",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.46~1",
+                    "released": "2019-09-26"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G9016",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.57~1",
+                    "released": "2019-10-29"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G10021",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.63~1",
+                    "released": "2019-12-10"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G11023",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.69~1",
+                    "released": "2020-01-28"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G12034",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.73~1",
+                    "released": "2020-03-24"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G13033",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.80~1",
+                    "released": "2020-05-26"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G13035",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.80.1~1",
+                    "released": "2020-06-01"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G14019",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.82.5~1",
+                    "released": "2020-07-15"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G14033",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.82.6~1",
+                    "released": "2020-09-24"
+                },
+                {
+                    "version": "10.13.6",
+                    "platform": "Intel",
+                    "build": "17G14042",
+                    "darwin": "17.7.0",
+                    "kernel": "xnu-4570.71.82.8~1",
+                    "released": "2020-11-12"
                 }
             ]
         },
         {
             "family": "macOS",
             "version": "10.14",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "Mojave",
             "announced":"2018-06-04",
             "released": "2018-09-24",
@@ -1026,58 +2323,252 @@
             "releases": [
                 {
                     "version": "10.14",
+                    "platform": "Intel",
                     "build": "18A391",
                     "darwin": "18.0.0",
-                    "kernel": "???",
+                    "kernel": "xnu-?",
                     "released": "2018-09-24"
                 },
                 {
                     "version": "10.14.1",
+                    "platform": "Intel",
                     "build": "18B75",
                     "darwin": "18.2.0",
-                    "kernel": "xnu-4903.221.2",
+                    "kernel": "xnu-4903.221.2~2",
+                    "released": "2018-10-30"
+                },
+                {
+                    "version": "10.14.1",
+                    "platform": "Intel",
+                    "build": "18B2107",
+                    "darwin": "18.2.0",
+                    "kernel": "xnu-4903.221.2~2",
+                    "released": "2018-10-30"
+                },
+                {
+                    "version": "10.14.1",
+                    "platform": "Intel",
+                    "build": "18B3094",
+                    "darwin": "18.2.0",
+                    "kernel": "xnu-4903.221.2~2",
                     "released": "2018-10-30"
                 },
                 {
                     "version": "10.14.2",
+                    "platform": "Intel",
                     "build": "18C54",
                     "darwin": "18.2.0",
-                    "kernel": "xnu-4903.231.4",
+                    "kernel": "xnu-4903.231.4~2",
                     "released": "2018-12-05"
                 },
                 {
                     "version": "10.14.3",
+                    "platform": "Intel",
                     "build": "18D42",
                     "darwin": "18.2.0",
-                    "kernel": "xnu-4903.241.1",
+                    "kernel": "xnu-4903.241.1~4",
                     "released": "2019-01-22"
                 },
                 {
+                    "version": "10.14.3",
+                    "platform": "Intel",
+                    "build": "18D43",
+                    "darwin": "18.2.0",
+                    "kernel": "xnu-4903.241.1~4",
+                    "released": "2019-01-25"
+                },
+                {
+                    "version": "10.14.3",
+                    "platform": "Intel",
+                    "build": "18D109",
+                    "darwin": "18.2.0",
+                    "kernel": "xnu-4903.241.1~4",
+                    "released": "2019-02-07"
+                },
+                {
                     "version": "10.14.4",
+                    "platform": "Intel",
                     "build": "18E226",
                     "darwin": "18.5.0",
-                    "kernel": "???",
+                    "kernel": "xnu-4903.251.3~3",
+                    "released": "2019-03-25"
+                },
+                {
+                    "version": "10.14.4",
+                    "platform": "Intel",
+                    "build": "18E227",
+                    "darwin": "18.5.0",
+                    "kernel": "xnu-4903.251.3~3",
                     "released": "2019-03-25"
                 },
                 {
                     "version": "10.14.5",
+                    "platform": "Intel",
                     "build": "18F132",
                     "darwin": "18.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-4903.261.4~2",
                     "released": "2019-05-13"
                 },
                 {
                     "version": "10.14.6",
+                    "platform": "Intel",
                     "build": "18G84",
                     "darwin": "18.7.0",
-                    "kernel": "xnu-4903.270.47",
+                    "kernel": "xnu-4903.270.47~4",
                     "released": "2019-07-22"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G87",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.270.47~4",
+                    "released": "2019-08-01"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G95",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.271.2~2",
+                    "released": "2019-08-26"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G103",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.271.2~2",
+                    "released": "2019-09-26"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G1012",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.12~4",
+                    "released": "2019-10-29"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G2022",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.19~1",
+                    "released": "2019-12-10"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G3020",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.25~1",
+                    "released": "2020-01-28"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G4032",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.28~1",
+                    "released": "2020-03-24"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G5033",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.35~1",
+                    "released": "2020-05-26"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G6020",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.43~1",
+                    "released": "2020-07-15"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G6032",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.44~1",
+                    "released": "2020-09-24"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G6032",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.44~1",
+                    "released": "2020-10-01"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G6042",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.44.0.2~1",
+                    "released": "2020-11-12"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G7016",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.51~1",
+                    "released": "2020-12-14"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G8012",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.56~1",
+                    "released": "2021-02-01"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G8022",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.56~1",
+                    "released": "2021-02-09"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G9028",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.65~1",
+                    "released": "2021-04-26"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G9216",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.68~1",
+                    "released": "2021-05-24"
+                },
+                {
+                    "version": "10.14.6",
+                    "platform": "Intel",
+                    "build": "18G9323",
+                    "darwin": "18.7.0",
+                    "kernel": "xnu-4903.278.70~1",
+                    "released": "2021-07-21"
                 }
             ]
         },
         {
             "family": "macOS",
             "version": "10.15",
+            "platforms": [
+                "x86-64"
+            ],
             "codename": "Catalina",
             "announced":"2019-06-03",
             "released": "2019-10-07",
@@ -1096,79 +2587,245 @@
             "releases": [
                 {
                     "version": "10.15",
+                    "platform": "Intel",
                     "build": "19A583",
                     "darwin": "19.0.0",
                     "kernel": "xnu-6153.11.26",
                     "released": "2019-10-07"
                 },
                 {
+                    "version": "10.15",
+                    "platform": "Intel",
+                    "build": "19A602",
+                    "darwin": "19.0.0",
+                    "kernel": "xnu-6153.?",
+                    "released": "2019-10-15"
+                },
+                {
+                    "version": "10.15",
+                    "platform": "Intel",
+                    "build": "19A603",
+                    "darwin": "19.0.0",
+                    "kernel": "xnu-6153.?",
+                    "released": "2019-10-21"
+                },
+                {
                     "version": "10.15.1",
+                    "platform": "Intel",
                     "build": "19B88",
                     "darwin": "19.0.0",
-                    "kernel": "xnu-6153.41.3",
+                    "kernel": "xnu-6153.41.3~29",
                     "released": "2019-10-29"
                 },
                 {
                     "version": "10.15.2",
+                    "platform": "Intel",
                     "build": "19C57",
                     "darwin": "19.2.0",
-                    "kernel": "xnu-6153.61.1",
+                    "kernel": "xnu-6153.61.1~20",
+                    "released": "2019-12-10"
+                },
+                {
+                    "version": "10.15.2",
+                    "platform": "Intel",
+                    "build": "19C58",
+                    "darwin": "19.2.0",
+                    "kernel": "xnu-6153.61.1~20",
                     "released": "2019-12-10"
                 },
                 {
                     "version": "10.15.3",
+                    "platform": "Intel",
                     "build": "19D76",
                     "darwin": "19.3.0",
-                    "kernel": "xnu-6153.81.5",
+                    "kernel": "xnu-6153.81.5~1",
                     "released": "2020-01-28"
                 },
                 {
                     "version": "10.15.4",
+                    "platform": "Intel",
                     "build": "19E266",
                     "darwin": "19.4.0",
-                    "kernel": "xnu-6153.101.6",
+                    "kernel": "xnu-6153.101.6~15",
                     "released": "2020-03-24"
                 },
                 {
+                    "version": "10.15.4",
+                    "platform": "Intel",
+                    "build": "19E287",
+                    "darwin": "19.4.0",
+                    "kernel": "xnu-6153.101.6~15",
+                    "released": "2020-04-08"
+                },
+                {
                     "version": "10.15.5",
+                    "platform": "Intel",
                     "build": "19F96",
                     "darwin": "19.5.0",
-                    "kernel": "xnu-6153.121.1",
+                    "kernel": "xnu-6153.121.1~7",
                     "released": "2020-05-26"
                 },
                 {
+                    "version": "10.15.5",
+                    "platform": "Intel",
+                    "build": "19F101",
+                    "darwin": "19.5.0",
+                    "kernel": "xnu-6153.121.2~2",
+                    "released": "2020-06-01"
+                },
+                {
                     "version": "10.15.6",
+                    "platform": "Intel",
                     "build": "19G73",
                     "darwin": "19.6.0",
-                    "kernel": "xnu-6153.141.1",
+                    "kernel": "xnu-6153.141.1~9",
                     "released": "2020-07-15"
                 },
                 {
                     "version": "10.15.6",
+                    "platform": "Intel",
                     "build": "19G2021",
                     "darwin": "19.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-6153.141.1~1",
                     "released": "2020-08-12"
                 },
                 {
                     "version": "10.15.7",
+                    "platform": "Intel",
                     "build": "19H2",
                     "darwin": "19.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-6153.141.2~1",
                     "released": "2020-09-24"
                 },
                 {
                     "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H4",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.2~1",
+                    "released": "2020-10-27"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
                     "build": "19H15",
                     "darwin": "19.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-6153.141.2.2~1",
                     "released": "2020-11-05"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H114",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.10~1",
+                    "released": "2020-12-14"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H512",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.16~1",
+                    "released": "2021-02-01"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H524",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.16~1",
+                    "released": "2021-02-09"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1030",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.28.1~1",
+                    "released": "2021-04-26"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1217",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.33~1",
+                    "released": "2021-05-24"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1323",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.35~1",
+                    "released": "2021-07-21"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1417",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.40~1",
+                    "released": "2021-09-13"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1419",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.40.1~1",
+                    "released": "2021-09-23"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1519",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.43~1",
+                    "released": "2021-10-25"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1615",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.50~1",
+                    "released": "2021-12-13"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1713",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.51~3",
+                    "released": "2022-01-26"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1715",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.51~3",
+                    "released": "2022-02-14"
+                },
+                {
+                    "version": "10.15.7",
+                    "platform": "Intel",
+                    "build": "19H1824",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.59~1",
+                    "released": "2022-03-14"
                 }
             ]
         },
         {
             "family": "macOS",
             "version": "11",
+            "platforms": [
+                "x86-64",
+                "ARM64"
+            ],
             "codename": "Big Sur",
             "announced":"2020-06-22",
             "released": "2020-11-12",
@@ -1185,126 +2842,168 @@
             ],
             "releases": [
                 {
+                    "version": "11.0",
+                    "platform": "Universal",
+                    "build": "20A2411",
+                    "darwin": "20.1.0",
+                    "kernel": "xnu-7195.41.8~9",
+                    "released": "2020-11-17"
+                },
+                {
                     "version": "11.0.1",
+                    "platform": "Universal",
                     "build": "20B29",
                     "darwin": "20.1.0",
-                    "kernel": "xnu-7195.50.7.100.1",
+                    "kernel": "xnu-7195.50.7~2",
                     "released": "2020-11-12"
                 },
                 {
+                    "version": "11.0.1",
+                    "platform": "Universal",
+                    "build": "20B50",
+                    "darwin": "20.1.0",
+                    "kernel": "xnu-7195.50.7~2",
+                    "released": "2020-11-19"
+                },
+                {
                     "version": "11.1",
+                    "platform": "Universal",
                     "build": "20C69",
                     "darwin": "20.2.0",
-                    "kernel": "xnu-7195.60.75",
+                    "kernel": "xnu-7195.60.75~1",
                     "released": "2020-12-14"
                 },
                 {
                     "version": "11.2",
+                    "platform": "Universal",
                     "build": "20D64",
                     "darwin": "20.3.0",
-                    "kernel": "xnu-7195.81.3",
+                    "kernel": "xnu-7195.81.3~1",
                     "released": "2021-02-01"
                 },
                 {
                     "version": "11.2.1",
+                    "platform": "Universal",
                     "build": "20D74",
                     "darwin": "20.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.81.3~1",
                     "released": "2021-02-09"
                 },
                 {
+                    "version": "11.2.1",
+                    "platform": "Universal",
+                    "build": "20D75",
+                    "darwin": "20.3.0",
+                    "kernel": "xnu-7195.81.3~1",
+                    "released": "2021-02-15"
+                },
+                {
                     "version": "11.2.2",
+                    "platform": "Universal",
                     "build": "20D80",
                     "darwin": "20.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.81.3~1",
                     "released": "2021-02-25"
                 },
                 {
                     "version": "11.2.3",
+                    "platform": "Universal",
                     "build": "20D91",
                     "darwin": "20.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.81.3~1",
                     "released": "2021-03-08"
                 },
                 {
                     "version": "11.3",
+                    "platform": "Universal",
                     "build": "20E232",
                     "darwin": "20.4.0",
-                    "kernel": "xnu-7195.101.1",
+                    "kernel": "xnu-7195.101.1~3",
                     "released": "2021-04-26"
                 },
                 {
                     "version": "11.3.1",
+                    "platform": "Universal",
                     "build": "20E241",
                     "darwin": "20.4.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.101.2~1",
                     "released": "2021-05-03"
                 },
                 {
                     "version": "11.4",
+                    "platform": "Universal",
                     "build": "20F71",
                     "darwin": "20.5.0",
-                    "kernel": "xnu-7195.121.3",
+                    "kernel": "xnu-7195.121.3~9",
                     "released": "2021-05-24"
                 },
                 {
                     "version": "11.5",
+                    "platform": "Universal",
                     "build": "20G71",
                     "darwin": "20.6.0",
-                    "kernel": "xnu-7195.141.2",
+                    "kernel": "xnu-7195.141.2~5",
                     "released": "2021-07-21"
                 },
                 {
                     "version": "11.5.1",
+                    "platform": "Universal",
                     "build": "20G80",
                     "darwin": "20.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.141.2~5",
                     "released": "2021-07-26"
                 },
                 {
                     "version": "11.5.2",
+                    "platform": "Universal",
                     "build": "20G95",
                     "darwin": "20.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.141.2~5",
                     "released": "2021-08-11"
                 },
                 {
                     "version": "11.6",
+                    "platform": "Universal",
                     "build": "20G165",
                     "darwin": "20.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.141.6~3",
                     "released": "2021-09-13"
                 },
                 {
                     "version": "11.6.1",
+                    "platform": "Universal",
                     "build": "20G224",
                     "darwin": "20.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.141.8~1",
                     "released": "2021-10-25"
                 },
                 {
                     "version": "11.6.2",
+                    "platform": "Universal",
                     "build": "20G314",
                     "darwin": "20.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.141.14~1",
                     "released": "2021-12-13"
                 },
                 {
                     "version": "11.6.3",
+                    "platform": "Universal",
                     "build": "20G415",
                     "darwin": "20.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.141.19~2",
                     "released": "2022-01-26"
                 },
                 {
                     "version": "11.6.4",
+                    "platform": "Universal",
                     "build": "20G417",
                     "darwin": "20.6.0",
-                    "kernel": "???",
+                    "kernel": "xnu-7195.141.19~2",
                     "released": "2022-02-14"
                 },
                 {
                     "version": "11.6.5",
+                    "platform": "Universal",
                     "build": "20G527",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.26~1",
@@ -1315,6 +3014,10 @@
         {
             "family": "macOS",
             "version": "12",
+            "platforms": [
+                "x86-64",
+                "ARM64"
+            ],
             "codename": "Monterey",
             "announced":"2021-06-07",
             "released": "2021-10-25",
@@ -1329,35 +3032,48 @@
             ],
             "releases": [
                 {
+                    "version": "12.0",
+                    "platform": "Universal",
+                    "build": "21A344",
+                    "darwin": "21.0.1",
+                    "kernel": "xnu-8019.30.61~4",
+                    "released": "2021-10-25"
+                },
+                {
                     "version": "12.0.1",
+                    "platform": "Universal",
                     "build": "21A559",
                     "darwin": "21.1.0",
-                    "kernel": "xnu-8019.41.5",
+                    "kernel": "xnu-8019.41.5~1",
                     "released": "2021-10-25"
                 },
                 {
                     "version": "12.1",
+                    "platform": "Universal",
                     "build": "21C52",
                     "darwin": "21.2.0",
-                    "kernel": "xnu-8019.61.5",
+                    "kernel": "xnu-8019.61.5~1",
                     "released": "2021-12-13"
                 },
                 {
                     "version": "12.2",
+                    "platform": "Universal",
                     "build": "21D49",
                     "darwin": "21.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-8019.80.24~20",
                     "released": "2022-01-26"
                 },
                 {
                     "version": "12.2.1",
+                    "platform": "Universal",
                     "build": "21D62",
                     "darwin": "21.3.0",
-                    "kernel": "???",
+                    "kernel": "xnu-8019.80.24~20",
                     "released": "2022-02-10"
                 },
                 {
                     "version": "12.3",
+                    "platform": "Universal",
                     "build": "21E230",
                     "darwin": "21.4.0",
                     "kernel": "xnu-8020.101.4~2",
