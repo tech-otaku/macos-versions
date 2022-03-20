@@ -1,46 +1,63 @@
 #!/usr/bin/env python3
 
+# NOTE: f-strings require Python 3.6 or later
+
 import json
 
+def printKey(indent):
+    print("Key:")
+    for _key in data["key"]:
+
+        print(f'{indent}{_key}')
+    print('')
+
 try:
+    indent='  '
+
     with open("json/macos.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    print("Key:")
-    for _key in data["key"]:
-        print("    " + _key)
-    print("")
+    printKey(indent)
 
-    print("File updated: " + data["updated"] + "\n")
+    print(f'File updated: {data["updated"]}\n')
     
     for _version in data["versions"]:
-        print(_version["family"] + " " + _version["version"] + " " + _version["codename"] + "\n")
+        print(f'{_version["family"]} {_version["version"]} {_version["codename"]}\n')
 
-        print("    Announced: " + _version["announced"])
-        print("    Initial Release: " + _version["released"] + "\n")
+        print(f'{indent}Announced: {_version["announced"]}')
+        print(f'{indent}Initial Release: {_version["released"]}\n')
 
-        print("    Platform(s):")
+        print(f'{indent}Platform(s):')
         for _platform in _version["platforms"]:
-            print("        " + _platform)
+            print(f'{indent}{indent}{_platform}')
 
-        print("")
+        print('')
 
-        print("    System Requirements:")
+        print(f'{indent}System Requirements:')
         for _requirement in _version["requirements"]:
-            print("        " + _requirement)
+            print(f'{indent}{indent}{_requirement}')
 
-        print("")
+        print('')
 
-        print("    Releases:")
-        print("        Version  Build      Darwin  Kernel                Released")
+        print(f'{indent}Releases:')
+        print(f'{indent}{indent}Version  Platform        Build      Darwin  Kernel                Released')
         for _release in _version["releases"]:
-            print("        " + _release["version"].ljust(9) + _release["build"].ljust(11) + _release["darwin"].ljust(8) + _release["kernel"].ljust(22)+ _release["released"])
+            platform = ''
+            for _platform in _release["platforms"]:
+                platform += f'{_platform}, '
+            print(f'\
+{indent}{indent}\
+{_release["version"].ljust(9)}\
+{platform[:len(platform)- 2].ljust(16)}\
+{_release["build"].ljust(11)}\
+{_release["darwin"].ljust(8)}\
+{_release["kernel"].ljust(22)}\
+{_release["released"]}\
+            ')
 
-        print("\n")
+        print('\n')
 
-    print("Key:")
-    for _key in data["key"]:
-        print("    " + _key)
+    printKey(indent)
 
 except FileNotFoundError as error_message:
 
