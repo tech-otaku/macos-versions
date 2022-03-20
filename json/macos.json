@@ -21,7 +21,9 @@
             "releases": [
                 {
                     "version": "US",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "1H39",
                     "darwin": "1.2.1",
                     "kernel": "xnu-?",
@@ -29,7 +31,9 @@
                 },
                 {
                     "version": "Int.",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "2E14",
                     "darwin": "1.2.1",
                     "kernel": "xnu-?",
@@ -54,7 +58,9 @@
             "releases": [
                 {
                     "version": "10.0",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "4K78",
                     "darwin": "1.3.1",
                     "kernel": "xnu-123.5",
@@ -62,7 +68,9 @@
                 },
                 {
                     "version": "10.0.1",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "4L13",
                     "darwin": "1.3.1",
                     "kernel": "xnu-124.1",
@@ -70,7 +78,9 @@
                 },
                 {
                     "version": "10.0.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "4P12",
                     "darwin": "1.3.1",
                     "kernel": "xnu-124.7",
@@ -78,7 +88,9 @@
                 },
                 {
                     "version": "10.0.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "4P13",
                     "darwin": "1.3.1",
                     "kernel": "xnu-124.?",
@@ -86,7 +98,9 @@
                 },
                 {
                     "version": "10.0.4",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "4Q12",
                     "darwin": "1.3.1",
                     "kernel": "xnu-124.13",
@@ -94,7 +108,9 @@
                 },
                 {
                     "version": "10.0.4",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "4S10",
                     "darwin": "1.3.1",
                     "kernel": "xnu-124.13",
@@ -119,7 +135,9 @@
             "releases": [
                 {
                     "version": "10.1",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "5G64",
                     "darwin": "1.4.1",
                     "kernel": "xnu-201",
@@ -127,7 +145,9 @@
                 },
                 {
                     "version": "10.1.1",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "5M28",
                     "darwin": "5.1.0",
                     "kernel": "xnu-201.5",
@@ -135,7 +155,9 @@
                 },
                 {
                     "version": "10.1.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "5P48",
                     "darwin": "5.2.0",
                     "kernel": "xnu-201.14",
@@ -143,7 +165,9 @@
                 },
                 {
                     "version": "10.1.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "5Q45",
                     "darwin": "5.3.0",
                     "kernel": "xnu-201.19",
@@ -151,7 +175,9 @@
                 },
                 {
                     "version": "10.1.4",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "5Q125",
                     "darwin": "5.4.0",
                     "kernel": "xnu-201.19.3",
@@ -159,7 +185,9 @@
                 },
                 {
                     "version": "10.1.5",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "5S60",
                     "darwin": "5.5.0",
                     "kernel": "xnu-201.42.3",
@@ -184,7 +212,9 @@
             "releases": [
                 {
                     "version": "10.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6C115",
                     "darwin": "6.0.0",
                     "kernel": "xnu-344",
@@ -192,7 +222,9 @@
                 },
                 {
                     "version": "10.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6C115a",
                     "darwin": "6.0.0",
                     "kernel": "xnu-344.?",
@@ -200,7 +232,9 @@
                 },
                 {
                     "version": "10.2.1",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6D52",
                     "darwin": "6.1.0",
                     "kernel": "xnu-344.2",
@@ -208,7 +242,9 @@
                 },
                 {
                     "version": "10.2.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6F21",
                     "darwin": "6.2.0",
                     "kernel": "xnu-344.12.2",
@@ -216,7 +252,9 @@
                 },
                 {
                     "version": "10.2.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6G30",
                     "darwin": "6.3.0",
                     "kernel": "xnu-344.23",
@@ -224,7 +262,9 @@
                 },
                 {
                     "version": "10.2.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6G37",
                     "darwin": "6.3.0",
                     "kernel": "xnu-344.?",
@@ -232,7 +272,9 @@
                 },
                 {
                     "version": "10.2.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6G50",
                     "darwin": "6.3.0",
                     "kernel": "xnu-344.?",
@@ -240,7 +282,9 @@
                 },
                 {
                     "version": "10.2.4",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6I32",
                     "darwin": "6.4.0",
                     "kernel": "xnu-344.26",
@@ -248,7 +292,9 @@
                 },
                 {
                     "version": "10.2.5",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6L29",
                     "darwin": "6.5.0",
                     "kernel": "xnu-344.32",
@@ -256,7 +302,9 @@
                 },
                 {
                     "version": "10.2.6",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6L60",
                     "darwin": "6.6.0",
                     "kernel": "xnu-344.34",
@@ -264,7 +312,9 @@
                 },
                 {
                     "version": "10.2.7",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6R65",
                     "darwin": "6.7.0",
                     "kernel": "xnu-344.21.73",
@@ -272,7 +322,9 @@
                 },
                 {
                     "version": "10.2.8",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6R73",
                     "darwin": "6.8.0",
                     "kernel": "xnu-344.49",
@@ -280,7 +332,9 @@
                 },
                 {
                     "version": "10.2.8",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "6S90",
                     "darwin": "6.8.0",
                     "kernel": "xnu-344.?",
@@ -306,7 +360,9 @@
             "releases": [
                 {
                     "version": "10.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7B85",
                     "darwin": "7.0.0",
                     "kernel": "xnu-517",
@@ -314,7 +370,9 @@
                 },
                 {
                     "version": "10.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7B86",
                     "darwin": "7.0.0",
                     "kernel": "xnu-517.?",
@@ -322,7 +380,9 @@
                 },
                 {
                     "version": "10.3.1",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7C107",
                     "darwin": "7.1.0",
                     "kernel": "xnu-517.?",
@@ -330,7 +390,9 @@
                 },
                 {
                     "version": "10.3.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7D24",
                     "darwin": "7.2.0",
                     "kernel": "xnu-517.3.7",
@@ -338,7 +400,9 @@
                 },
                 {
                     "version": "10.3.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7D28",
                     "darwin": "7.2.0",
                     "kernel": "xnu-517.3.?",
@@ -346,7 +410,9 @@
                 },
                 {
                     "version": "10.3.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7F44",
                     "darwin": "7.3.0",
                     "kernel": "xnu-517.3.15",
@@ -354,7 +420,9 @@
                 },
                 {
                     "version": "10.3.4",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7H63",
                     "darwin": "7.4.0",
                     "kernel": "xnu-517.7.7",
@@ -362,7 +430,9 @@
                 },
                 {
                     "version": "10.3.5",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7M34",
                     "darwin": "7.5.0",
                     "kernel": "xnu-517.7.21",
@@ -370,7 +440,9 @@
                 },
                 {
                     "version": "10.3.6",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7R28",
                     "darwin": "7.6.0",
                     "kernel": "xnu-517.9.4",
@@ -378,7 +450,9 @@
                 },
                 {
                     "version": "10.3.7",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7S215",
                     "darwin": "7.7.0",
                     "kernel": "xnu-517.9.5",
@@ -386,7 +460,9 @@
                 },
                 {
                     "version": "10.3.8",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7U16",
                     "darwin": "7.8.0",
                     "kernel": "xnu-517.11.1",
@@ -394,7 +470,9 @@
                 },
                 {
                     "version": "10.3.9",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "7W98",
                     "darwin": "7.9.0",
                     "kernel": "xnu-517.12.7",
@@ -407,8 +485,7 @@
             "version": "10.4",
             "platforms": [
                 "PowerPC",
-                "i386",
-                "x86-64"
+                "Intel (i386, x86-64)"
             ],
             "codename": "Tiger",
             "announced":"2004-05-04",
@@ -422,7 +499,9 @@
             "releases": [
                 {
                     "version": "10.4",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8A428",
                     "darwin": "8.0.0",
                     "kernel": "xnu-792",
@@ -430,7 +509,9 @@
                 },
                 {
                     "version": "10.4",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8A432",
                     "darwin": "8.0.0",
                     "kernel": "xnu-792.?",
@@ -438,7 +519,9 @@
                 },
                 {
                     "version": "10.4.1",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8B15",
                     "darwin": "8.1.0",
                     "kernel": "xnu-792.1.5",
@@ -446,7 +529,9 @@
                 },
                 {
                     "version": "10.4.1",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8B17",
                     "darwin": "8.1.0",
                     "kernel": "xnu-792.?",
@@ -454,7 +539,9 @@
                 },
                 {
                     "version": "10.4.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8C46",
                     "darwin": "8.2.0",
                     "kernel": "xnu-792.2.4",
@@ -462,7 +549,9 @@
                 },
                 {
                     "version": "10.4.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8C47",
                     "darwin": "8.2.0",
                     "kernel": "xnu-792.?",
@@ -470,7 +559,9 @@
                 },
                 {
                     "version": "10.4.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8E102",
                     "darwin": "8.2.0",
                     "kernel": "xnu-792.?",
@@ -478,7 +569,9 @@
                 },
                 {
                     "version": "10.4.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8E45",
                     "darwin": "8.2.0",
                     "kernel": "xnu-792.?",
@@ -486,7 +579,9 @@
                 },
                 {
                     "version": "10.4.2",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8E90",
                     "darwin": "8.2.0",
                     "kernel": "xnu-792.?",
@@ -494,7 +589,9 @@
                 },
                 {
                     "version": "10.4.3",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8F46",
                     "darwin": "8.3.0",
                     "kernel": "xnu-792.6.22",
@@ -502,7 +599,9 @@
                 },
                 {
                     "version": "10.4.4",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8G32",
                     "darwin": "8.4.0",
                     "kernel": "xnu-792.6.56",
@@ -510,7 +609,9 @@
                 },
                 {
                     "version": "10.4.4*",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8G1165",
                     "darwin": "8.4.0",
                     "kernel": "xnu-792.?",
@@ -518,7 +619,9 @@
                 },
                 {
                     "version": "10.4.5",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8H14",
                     "darwin": "8.5.0",
                     "kernel": "xnu-792.6.61",
@@ -526,7 +629,9 @@
                 },
                 {
                     "version": "10.4.5*",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8G1454",
                     "darwin": "8.5.0",
                     "kernel": "xnu-792.?",
@@ -534,7 +639,9 @@
                 },
                 {
                     "version": "10.4.6",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8I127",
                     "darwin": "8.6.0",
                     "kernel": "xnu-792.6.70",
@@ -542,7 +649,9 @@
                 },
                 {
                     "version": "10.4.6*",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8I1119",
                     "darwin": "8.6.0",
                     "kernel": "xnu-792.?",
@@ -550,7 +659,9 @@
                 },
                 {
                     "version": "10.4.7",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8J135",
                     "darwin": "8.7.0",
                     "kernel": "xnu-792.6.76",
@@ -558,7 +669,9 @@
                 },
                 {
                     "version": "10.4.7*",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8J2135a",
                     "darwin": "8.7.0",
                     "kernel": "xnu-792.?",
@@ -566,7 +679,9 @@
                 },
                 {
                     "version": "10.4.7",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8K1079",
                     "darwin": "8.7.0",
                     "kernel": "xnu-792.?",
@@ -574,7 +689,9 @@
                 },
                 {
                     "version": "10.4.7",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8N5107",
                     "darwin": "8.7.0",
                     "kernel": "xnu-792.?",
@@ -582,7 +699,9 @@
                 },
                 {
                     "version": "10.4.8",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8L127",
                     "darwin": "8.8.0",
                     "kernel": "xnu-792.12.6",
@@ -590,7 +709,9 @@
                 },
                 {
                     "version": "10.4.8*",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8L2127",
                     "darwin": "8.8.0",
                     "kernel": "xnu-792.13.8",
@@ -598,7 +719,9 @@
                 },
                 {
                     "version": "10.4.9",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8P135",
                     "darwin": "8.9.0",
                     "kernel": "xnu-792.17.14",
@@ -606,7 +729,9 @@
                 },
                 {
                     "version": "10.4.9*",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8P2137",
                     "darwin": "8.9.0",
                     "kernel": "xnu-792.18.15",
@@ -614,7 +739,9 @@
                 },
                 {
                     "version": "10.4.10",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8R218",
                     "darwin": "8.10.0",
                     "kernel": "xnu-792.21.3",
@@ -622,7 +749,9 @@
                 },
                 {
                     "version": "10.4.10*",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8R2218",
                     "darwin": "8.10.0",
                     "kernel": "xnu-792.22.5",
@@ -630,7 +759,9 @@
                 },
                 {
                     "version": "10.4.10*",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8R2232",
                     "darwin": "8.10.0",
                     "kernel": "xnu-792.?",
@@ -638,7 +769,9 @@
                 },
                 {
                     "version": "10.4.11",
-                    "platform": "PowerPC",
+                    "platforms":  [
+                        "PowerPC"
+                    ],
                     "build": "8S165",
                     "darwin": "8.11.0",
                     "kernel": "xnu-?",
@@ -646,7 +779,9 @@
                 },
                 {
                     "version": "10.4.11",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "8S2167",
                     "darwin": "8.11.0",
                     "kernel": "xnu-?",
@@ -659,8 +794,7 @@
             "version": "10.5",
             "platforms": [
                 "PowerPC",
-                "i386",
-                "x86-64"
+                "Intel (i386, x86-64)"
             ],
             "codename": "Leopard",
             "announced":"2006-06-26",
@@ -673,7 +807,10 @@
             "releases": [
                 {
                     "version": "10.5",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9A581",
                     "darwin": "9.0.0",
                     "kernel": "xnu-1228~1",
@@ -681,7 +818,10 @@
                 },
                 {
                     "version": "10.5.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9B18",
                     "darwin": "9.1.0",
                     "kernel": "xnu-1228.0.2~1",
@@ -689,7 +829,10 @@
                 },
                 {
                     "version": "10.5.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9B2117",
                     "darwin": "9.1.1",
                     "kernel": "xnu-1228.?",
@@ -697,7 +840,10 @@
                 },
                 {
                     "version": "10.5.2",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9C31",
                     "darwin": "9.2.0",
                     "kernel": "xnu-1228.3.13~1",
@@ -705,7 +851,10 @@
                 },
                 {
                     "version": "10.5.2",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9C7010",
                     "darwin": "9.2.0",
                     "kernel": "xnu-1228.?",
@@ -713,7 +862,10 @@
                 },
                 {
                     "version": "10.5.3",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9D34",
                     "darwin": "9.3.0",
                     "kernel": "xnu-1228.5.18~1",
@@ -721,7 +873,10 @@
                 },
                 {
                     "version": "10.5.4",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9E17",
                     "darwin": "9.4.0",
                     "kernel": "xnu-1228.5.20~1",
@@ -729,7 +884,10 @@
                 },
                 {
                     "version": "10.5.5",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9F33",
                     "darwin": "9.5.0",
                     "kernel": "xnu-1228.7.58~1",
@@ -737,7 +895,10 @@
                 },
                 {
                     "version": "10.5.6",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9G55",
                     "darwin": "9.6.0",
                     "kernel": "xnu-1228.9.59",
@@ -745,7 +906,10 @@
                 },
                 {
                     "version": "10.5.6",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9G66",
                     "darwin": "9.6.0",
                     "kernel": "xnu-1228.9.?",
@@ -753,7 +917,10 @@
                 },
                 {
                     "version": "10.5.6",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9G71",
                     "darwin": "9.6.0",
                     "kernel": "xnu-1228.9.59~1",
@@ -761,7 +928,10 @@
                 },
                 {
                     "version": "10.5.7",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9J61",
                     "darwin": "9.7.0",
                     "kernel": "xnu-1228.12.14~1",
@@ -769,7 +939,10 @@
                 },
                 {
                     "version": "10.5.8",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9L30",
                     "darwin": "9.8.0",
                     "kernel": "xnu-1228.15.4~1",
@@ -777,7 +950,10 @@
                 },
                 {
                     "version": "10.5.8",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "PowerPC",
+                        "Intel"
+                    ],
                     "build": "9L34",
                     "darwin": "9.8.0",
                     "kernel": "xnu-?",
@@ -789,8 +965,7 @@
             "family": "Mac OS X",
             "version": "10.6",
             "platforms": [
-                "i386",
-                "x86-64"
+                "Intel (i386, x86-64)"
             ],
             "codename": "Snow Leopard",
             "announced":"2008-06-09",
@@ -803,7 +978,9 @@
             "releases": [
                 {
                     "version": "10.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10A432",
                     "darwin": "10.0.0",
                     "kernel": "xnu-1456.1.26",
@@ -811,7 +988,9 @@
                 },
                 {
                     "version": "10.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10A433",
                     "darwin": "10.0.0",
                     "kernel": "xnu-1456.1.26.?",
@@ -819,7 +998,9 @@
                 },
                 {
                     "version": "10.6.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10B504",
                     "darwin": "10.1.0",
                     "kernel": "xnu-1456.1.26",
@@ -827,7 +1008,9 @@
                 },
                 {
                     "version": "10.6.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10C540",
                     "darwin": "10.2.0",
                     "kernel": "xnu-1486.2.11",
@@ -835,7 +1018,9 @@
                 },
                 {
                     "version": "10.6.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10D573",
                     "darwin": "10.3.0",
                     "kernel": "xnu-1504.3.12",
@@ -843,7 +1028,9 @@
                 },
                 {
                     "version": "10.6.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10D575",
                     "darwin": "10.3.0",
                     "kernel": "xnu-1504.?",
@@ -851,7 +1038,9 @@
                 },
                 {
                     "version": "10.6.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10D578",
                     "darwin": "10.3.0",
                     "kernel": "xnu-1504.?",
@@ -859,7 +1048,9 @@
                 },
                 {
                     "version": "10.6.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10F569",
                     "darwin": "10.4.0",
                     "kernel": "xnu-1504.7.4",
@@ -867,7 +1058,9 @@
                 },
                 {
                     "version": "10.6.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10H574",
                     "darwin": "10.5.0",
                     "kernel": "xnu-1504.9.17",
@@ -875,7 +1068,9 @@
                 },
                 {
                     "version": "10.6.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10J567",
                     "darwin": "10.6.0",
                     "kernel": "xnu-1504.9.26",
@@ -883,7 +1078,9 @@
                 },
                 {
                     "version": "10.6.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10J869",
                     "darwin": "10.7.0",
                     "kernel": "xnu-1504.9.37",
@@ -891,7 +1088,9 @@
                 },
                 {
                     "version": "10.6.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10J3250",
                     "darwin": "10.7.0",
                     "kernel": "xnu-1504.?",
@@ -899,7 +1098,9 @@
                 },
                 {
                     "version": "10.6.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10J4138",
                     "darwin": "10.7.0",
                     "kernel": "xnu-1504.?",
@@ -907,7 +1108,9 @@
                 },
                 {
                     "version": "10.6.8",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10K540",
                     "darwin": "10.8.0",
                     "kernel": "xnu-1504.15.3",
@@ -915,7 +1118,9 @@
                 },
                 {
                     "version": "10.6.8",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "10K549",
                     "darwin": "10.8.0",
                     "kernel": "xnu-?",
@@ -927,7 +1132,7 @@
             "family": "Mac OS X",
             "version": "10.7",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "Lion",
             "announced":"2010-10-20",
@@ -941,7 +1146,9 @@
             "releases": [
                 {
                     "version": "10.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11A511",
                     "darwin": "11.0.0",
                     "kernel": "xnu-1699.22.73",
@@ -949,7 +1156,9 @@
                 },
                 {
                     "version": "10.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11A511s",
                     "darwin": "11.0.0",
                     "kernel": "xnu-1699.22.?",
@@ -957,7 +1166,9 @@
                 },
                 {
                     "version": "10.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11A2061",
                     "darwin": "11.0.2",
                     "kernel": "xnu-1699.22.?",
@@ -965,7 +1176,9 @@
                 },
                 {
                     "version": "10.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11A2063",
                     "darwin": "11.0.2",
                     "kernel": "xnu-1699.22.?",
@@ -973,7 +1186,9 @@
                 },
                 {
                     "version": "10.7.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11B26",
                     "darwin": "11.1.0",
                     "kernel": "xnu-1699.22.81",
@@ -981,7 +1196,9 @@
                 },
                 {
                     "version": "10.7.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11B2118",
                     "darwin": "11.1.0",
                     "kernel": "xnu-1699.?",
@@ -989,7 +1206,9 @@
                 },
                 {
                     "version": "10.7.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11C74",
                     "darwin": "11.2.0",
                     "kernel": "xnu-1699.24.8",
@@ -997,7 +1216,9 @@
                 },
                 {
                     "version": "10.7.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11D50",
                     "darwin": "11.3.0",
                     "kernel": "xnu-1699.24.23",
@@ -1005,7 +1226,9 @@
                 },
                 {
                     "version": "10.7.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11E53",
                     "darwin": "11.4.0",
                     "kernel": "xnu-1699.26.8",
@@ -1013,7 +1236,9 @@
                 },
                 {
                     "version": "10.7.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11G56",
                     "darwin": "11.4.2",
                     "kernel": "xnu-1699.32.7",
@@ -1021,7 +1246,9 @@
                 },
                 {
                     "version": "10.7.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "11G63",
                     "darwin": "11.4.2",
                     "kernel": "xnu-1699.32.7~1",
@@ -1033,7 +1260,7 @@
             "family": "Mac OS X",
             "version": "10.8",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "Mountain Lion",
             "announced":"2012-02-16",
@@ -1053,7 +1280,9 @@
             "releases": [
                 {
                     "version": "10.8",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12A269",
                     "darwin": "12.0.0",
                     "kernel": "xnu-2050.7.9",
@@ -1061,7 +1290,9 @@
                 },
                 {
                     "version": "10.8.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12B19",
                     "darwin": "12.1.0",
                     "kernel": "xnu-2050.9.2",
@@ -1069,7 +1300,9 @@
                 },
                 {
                     "version": "10.8.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12C54",
                     "darwin": "12.2.0",
                     "kernel": "xnu-2050.18.24",
@@ -1077,7 +1310,9 @@
                 },
                 {
                     "version": "10.8.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12C60",
                     "darwin": "12.2.0",
                     "kernel": "xnu-2050.?",
@@ -1085,7 +1320,9 @@
                 },
                 {
                     "version": "10.8.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12C2034",
                     "darwin": "12.2.0",
                     "kernel": "xnu-2050.?",
@@ -1093,7 +1330,9 @@
                 },
                 {
                     "version": "10.8.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12C3104",
                     "darwin": "12.2.0",
                     "kernel": "xnu-2050.?",
@@ -1101,7 +1340,9 @@
                 },
                 {
                     "version": "10.8.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12D78",
                     "darwin": "12.3.0",
                     "kernel": "xnu-2050.22.13",
@@ -1109,7 +1350,9 @@
                 },
                 {
                     "version": "10.8.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12E55",
                     "darwin": "12.4.0",
                     "kernel": "xnu-2050.24.15",
@@ -1117,7 +1360,9 @@
                 },
                 {
                     "version": "10.8.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12E3067",
                     "darwin": "12.4.0",
                     "kernel": "xnu-2050.?",
@@ -1125,7 +1370,9 @@
                 },
                 {
                     "version": "10.8.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12E4022",
                     "darwin": "12.4.0",
                     "kernel": "xnu-2050.?",
@@ -1133,7 +1380,9 @@
                 },
                 {
                     "version": "10.8.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12F37",
                     "darwin": "12.5.0",
                     "kernel": "xnu-2050.48.11",
@@ -1141,7 +1390,9 @@
                 },
                 {
                     "version": "10.8.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12F45",
                     "darwin": "12.5.0",
                     "kernel": "xnu-2050.48.12~1",
@@ -1149,7 +1400,9 @@
                 },
                 {
                     "version": "10.8.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12F45",
                     "darwin": "12.6.0",
                     "kernel": "xnu-2050.48.15~1",
@@ -1157,7 +1410,9 @@
                 },
                 {
                     "version": "10.8.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12F2501",
                     "darwin": "12.6.0",
                     "kernel": "xnu-2050.48.15~1",
@@ -1165,7 +1420,9 @@
                 },
                 {
                     "version": "10.8.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12F2518",
                     "darwin": "12.6.0",
                     "kernel": "xnu-2050.48.19~1",
@@ -1173,7 +1430,9 @@
                 },
                 {
                     "version": "10.8.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12F2542",
                     "darwin": "12.6.0",
                     "kernel": "xnu-2050.48.19~1",
@@ -1181,7 +1440,9 @@
                 },
                 {
                     "version": "10.8.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "12F2560",
                     "darwin": "12.6.0",
                     "kernel": "xnu-2050.48.19~1",
@@ -1193,7 +1454,7 @@
             "family": "Mac OS X",
             "version": "10.9",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "Mavericks",
             "announced":"2013-06-10",
@@ -1213,7 +1474,9 @@
             "releases": [
                 {
                     "version": "10.9",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13A603",
                     "darwin": "13.0.0",
                     "kernel": "xnu-2422.1.72",
@@ -1221,7 +1484,9 @@
                 },
                 {
                     "version": "10.9.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13B42",
                     "darwin": "13.0.0",
                     "kernel": "xnu-2422.1.72",
@@ -1229,7 +1494,9 @@
                 },
                 {
                     "version": "10.9.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13C64",
                     "darwin": "13.1.0",
                     "kernel": "xnu-2422.90.20",
@@ -1237,7 +1504,9 @@
                 },
                 {
                     "version": "10.9.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13C1021",
                     "darwin": "13.1.0",
                     "kernel": "xnu-2422.?",
@@ -1245,7 +1514,9 @@
                 },
                 {
                     "version": "10.9.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13D65",
                     "darwin": "13.2.0",
                     "kernel": "xnu-2422.100.13",
@@ -1253,7 +1524,9 @@
                 },
                 {
                     "version": "10.9.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13E28",
                     "darwin": "13.3.0",
                     "kernel": "xnu-2422.110.17",
@@ -1261,7 +1534,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F34",
                     "darwin": "13.4.0",
                     "kernel": "xnu-2422.115.4",
@@ -1269,7 +1544,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F34",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1277,7 +1554,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F34",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1285,7 +1564,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1066",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1293,7 +1574,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1077",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1301,7 +1584,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1096",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1309,7 +1594,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1112",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1317,7 +1604,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1134",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1325,7 +1614,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1507",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1333,7 +1624,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1603",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1341,7 +1634,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1712",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1349,7 +1644,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1808",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1357,7 +1654,9 @@
                 },
                 {
                     "version": "10.9.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "13F1911",
                     "darwin": "13.4.0",
                     "kernel": "xnu-?",
@@ -1369,7 +1668,7 @@
             "family": "Mac OS X",
             "version": "10.10",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "Yosemite",
             "announced":"2014-06-02",
@@ -1389,7 +1688,9 @@
             "releases": [
                 {
                     "version": "10.10",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14A389",
                     "darwin": "14.0.0",
                     "kernel": "xnu-2782.1.97",
@@ -1397,7 +1698,9 @@
                 },
                 {
                     "version": "10.10.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14B25",
                     "darwin": "14.0.0",
                     "kernel": "xnu-2782.1.97",
@@ -1405,7 +1708,9 @@
                 },
                 {
                     "version": "10.10.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14C109",
                     "darwin": "14.1.0",
                     "kernel": "xnu-2782.10.72",
@@ -1413,7 +1718,9 @@
                 },
                 {
                     "version": "10.10.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14C1510",
                     "darwin": "14.1.0",
                     "kernel": "xnu-2782.?",
@@ -1421,7 +1728,9 @@
                 },
                 {
                     "version": "10.10.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14C2043",
                     "darwin": "14.1.0",
                     "kernel": "xnu-2782.?",
@@ -1429,7 +1738,9 @@
                 },
                 {
                     "version": "10.10.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14C1514",
                     "darwin": "14.1.0",
                     "kernel": "xnu-2782.?",
@@ -1437,7 +1748,9 @@
                 },
                 {
                     "version": "10.10.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14C2513",
                     "darwin": "14.1.0",
                     "kernel": "xnu-2782.?",
@@ -1445,7 +1758,9 @@
                 },
                 {
                     "version": "10.10.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14D131",
                     "darwin": "14.3.0",
                     "kernel": "xnu-2782.20.48",
@@ -1453,7 +1768,9 @@
                 },
                 {
                     "version": "10.10.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14D136",
                     "darwin": "14.3.0",
                     "kernel": "xnu-2782.?",
@@ -1461,7 +1778,9 @@
                 },
                 {
                     "version": "10.10.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14E46",
                     "darwin": "14.4.0",
                     "kernel": "xnu-2782.30.5",
@@ -1469,7 +1788,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F27",
                     "darwin": "14.5.0",
                     "kernel": "xnu-2782.40.9",
@@ -1477,7 +1798,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F1021",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1485,7 +1808,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F1505",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1493,7 +1818,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F1509",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1501,7 +1828,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F1605",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1509,7 +1838,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F1713",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1517,7 +1848,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F1808",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1525,7 +1858,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F1909",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1533,7 +1868,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F1912",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1541,7 +1878,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F2009",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1549,7 +1888,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F2109",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1557,7 +1898,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F2315",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1565,7 +1908,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F2411",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1573,7 +1918,9 @@
                 },
                 {
                     "version": "10.10.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "14F2511",
                     "darwin": "14.5.0",
                     "kernel": "xnu-?",
@@ -1585,7 +1932,7 @@
             "family": "Mac OS X",
             "version": "10.11",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "El Capitan",
             "announced":"2015-06-08",
@@ -1605,7 +1952,9 @@
             "releases": [
                 {
                     "version": "10.11",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15A284",
                     "darwin": "15.0.0",
                     "kernel": "xnu-3247.1.106",
@@ -1613,7 +1962,9 @@
                 },
                 {
                     "version": "10.11.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15B42",
                     "darwin": "15.0.0",
                     "kernel": "xnu-3247.10.11",
@@ -1621,7 +1972,9 @@
                 },
                 {
                     "version": "10.11.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15C50",
                     "darwin": "15.2.0",
                     "kernel": "xnu-3248.20.55",
@@ -1629,7 +1982,9 @@
                 },
                 {
                     "version": "10.11.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15D21",
                     "darwin": "15.3.0",
                     "kernel": "xnu-3248.30.4",
@@ -1637,7 +1992,9 @@
                 },
                 {
                     "version": "10.11.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15E65",
                     "darwin": "15.4.0",
                     "kernel": "xnu-3248.40.184",
@@ -1645,7 +2002,9 @@
                 },
                 {
                     "version": "10.11.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15F34",
                     "darwin": "15.5.0",
                     "kernel": "xnu-3248.50.21",
@@ -1653,7 +2012,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G31",
                     "darwin": "15.6.0",
                     "kernel": "xnu-3248.60.10",
@@ -1661,7 +2022,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G1004",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1669,7 +2032,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G1011",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1677,7 +2042,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G1108",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1685,7 +2052,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G1212",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1693,7 +2062,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G1217",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1701,7 +2072,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G1421",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1709,7 +2082,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G1510",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1717,7 +2092,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G1611",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1725,7 +2102,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G17023",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1733,7 +2112,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G18013",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1741,7 +2122,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G19009",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1749,7 +2132,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G20015",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1757,7 +2142,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G21013",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1765,7 +2152,9 @@
                 },
                 {
                     "version": "10.11.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "15G22010",
                     "darwin": "15.6.0",
                     "kernel": "xnu-?",
@@ -1777,7 +2166,7 @@
             "family": "macOS",
             "version": "10.12",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "Sierra",
             "announced":"2016-06-13",
@@ -1796,7 +2185,9 @@
             "releases": [
                 {
                     "version": "10.12",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16A323",
                     "darwin": "16.0.0",
                     "kernel": "xnu-3789.1.32",
@@ -1804,7 +2195,9 @@
                 },
                 {
                     "version": "10.12.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16B2555",
                     "darwin": "16.1.0",
                     "kernel": "xnu-3789.21.4",
@@ -1812,7 +2205,9 @@
                 },
                 {
                     "version": "10.12.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16B2657",
                     "darwin": "16.1.0",
                     "kernel": "xnu-3789.?",
@@ -1820,7 +2215,9 @@
                 },
                 {
                     "version": "10.12.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16C67",
                     "darwin": "16.3.0",
                     "kernel": "xnu-3789.31.2",
@@ -1828,7 +2225,9 @@
                 },
                 {
                     "version": "10.12.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16C68",
                     "darwin": "16.3.0",
                     "kernel": "xnu-3789.?",
@@ -1836,7 +2235,9 @@
                 },
                 {
                     "version": "10.12.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16D32",
                     "darwin": "16.4.0",
                     "kernel": "xnu-3789.41.3",
@@ -1844,7 +2245,9 @@
                 },
                 {
                     "version": "10.12.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16E195",
                     "darwin": "16.5.0",
                     "kernel": "xnu-3789.51.2",
@@ -1852,7 +2255,9 @@
                 },
                 {
                     "version": "10.12.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16F73",
                     "darwin": "16.6.0",
                     "kernel": "xnu-3789.60.24",
@@ -1860,7 +2265,9 @@
                 },
                 {
                     "version": "10.12.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16F2073",
                     "darwin": "16.6.0",
                     "kernel": "xnu-3789.?",
@@ -1868,7 +2275,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G29",
                     "darwin": "16.7.0",
                     "kernel": "xnu-3789.70.16",
@@ -1876,7 +2285,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1036",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1884,7 +2295,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1114",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1892,7 +2305,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1212",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1900,7 +2315,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1314",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1908,7 +2325,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1408",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1916,7 +2335,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1510",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1924,7 +2345,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1618",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1932,7 +2355,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1710",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1940,7 +2365,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1815",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1948,7 +2375,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1917",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1956,7 +2385,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G1918",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1964,7 +2395,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G2016",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1972,7 +2405,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G2127",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1980,7 +2415,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G2128",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -1988,7 +2425,9 @@
                 },
                 {
                     "version": "10.12.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "16G2136",
                     "darwin": "16.7.0",
                     "kernel": "xnu-?",
@@ -2000,7 +2439,7 @@
             "family": "macOS",
             "version": "10.13",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "High Sierra",
             "announced":"2017-06-05",
@@ -2019,7 +2458,9 @@
             "releases": [
                 {
                     "version": "10.13",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17A365",
                     "darwin": "17.0.0",
                     "kernel": "xnu-4570.1.46",
@@ -2027,7 +2468,9 @@
                 },
                 {
                     "version": "10.13",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17A405",
                     "darwin": "17.0.0",
                     "kernel": "xnu-4570.?",
@@ -2035,7 +2478,9 @@
                 },
                 {
                     "version": "10.13.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17B48",
                     "darwin": "17.2.0",
                     "kernel": "xnu-4570.20.62",
@@ -2043,7 +2488,9 @@
                 },
                 {
                     "version": "10.13.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17B1002",
                     "darwin": "17.2.0",
                     "kernel": "xnu-4570.?",
@@ -2051,7 +2498,9 @@
                 },
                 {
                     "version": "10.13.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17B1003",
                     "darwin": "17.2.0",
                     "kernel": "xnu-4570.?",
@@ -2059,7 +2508,9 @@
                 },
                 {
                     "version": "10.13.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17C88",
                     "darwin": "17.3.0",
                     "kernel": "xnu-4570.31.3",
@@ -2067,7 +2518,9 @@
                 },
                 {
                     "version": "10.13.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17C205",
                     "darwin": "17.3.0",
                     "kernel": "xnu-4570.?",
@@ -2075,7 +2528,9 @@
                 },
                 {
                     "version": "10.13.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17C2205",
                     "darwin": "17.3.0",
                     "kernel": "xnu-4570.?",
@@ -2083,7 +2538,9 @@
                 },
                 {
                     "version": "10.13.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17D47",
                     "darwin": "17.4.0",
                     "kernel": "xnu-4570.41.2",
@@ -2091,7 +2548,9 @@
                 },
                 {
                     "version": "10.13.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17D102",
                     "darwin": "17.4.0",
                     "kernel": "xnu-4570.?",
@@ -2099,7 +2558,9 @@
                 },
                 {
                     "version": "10.13.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17D2102",
                     "darwin": "17.4.0",
                     "kernel": "xnu-4570.?",
@@ -2107,7 +2568,9 @@
                 },
                 {
                     "version": "10.13.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17E199",
                     "darwin": "17.5.0",
                     "kernel": "xnu-4570.51.1",
@@ -2115,7 +2578,9 @@
                 },
                 {
                     "version": "10.13.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17E202",
                     "darwin": "17.5.0",
                     "kernel": "xnu-4570.?",
@@ -2123,7 +2588,9 @@
                 },
                 {
                     "version": "10.13.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17F77",
                     "darwin": "17.6.0",
                     "kernel": "xnu-4570.61.1",
@@ -2131,7 +2598,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G65",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.2",
@@ -2139,7 +2608,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G2208",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.?",
@@ -2147,7 +2618,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G2307",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.?",
@@ -2155,7 +2628,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G3025",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.?",
@@ -2163,7 +2638,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G4015",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.?",
@@ -2171,7 +2648,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G5019",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.22~1",
@@ -2179,7 +2658,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G6029",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.?",
@@ -2187,7 +2668,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G6030",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.35~1",
@@ -2195,7 +2678,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G7024",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.45~1",
@@ -2203,7 +2688,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G8029",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.?",
@@ -2211,7 +2698,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G8030",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.?",
@@ -2219,7 +2708,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G8037",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.46~1",
@@ -2227,7 +2718,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G9016",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.57~1",
@@ -2235,7 +2728,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G10021",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.63~1",
@@ -2243,7 +2738,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G11023",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.69~1",
@@ -2251,7 +2748,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G12034",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.73~1",
@@ -2259,7 +2758,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G13033",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.80~1",
@@ -2267,7 +2768,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G13035",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.80.1~1",
@@ -2275,7 +2778,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G14019",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.82.5~1",
@@ -2283,7 +2788,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G14033",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.82.6~1",
@@ -2291,7 +2798,9 @@
                 },
                 {
                     "version": "10.13.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "17G14042",
                     "darwin": "17.7.0",
                     "kernel": "xnu-4570.71.82.8~1",
@@ -2303,7 +2812,7 @@
             "family": "macOS",
             "version": "10.14",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "Mojave",
             "announced":"2018-06-04",
@@ -2323,7 +2832,9 @@
             "releases": [
                 {
                     "version": "10.14",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18A391",
                     "darwin": "18.0.0",
                     "kernel": "xnu-?",
@@ -2331,7 +2842,9 @@
                 },
                 {
                     "version": "10.14.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18B75",
                     "darwin": "18.2.0",
                     "kernel": "xnu-4903.221.2~2",
@@ -2339,7 +2852,9 @@
                 },
                 {
                     "version": "10.14.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18B2107",
                     "darwin": "18.2.0",
                     "kernel": "xnu-4903.221.2~2",
@@ -2347,7 +2862,9 @@
                 },
                 {
                     "version": "10.14.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18B3094",
                     "darwin": "18.2.0",
                     "kernel": "xnu-4903.221.2~2",
@@ -2355,7 +2872,9 @@
                 },
                 {
                     "version": "10.14.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18C54",
                     "darwin": "18.2.0",
                     "kernel": "xnu-4903.231.4~2",
@@ -2363,7 +2882,9 @@
                 },
                 {
                     "version": "10.14.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18D42",
                     "darwin": "18.2.0",
                     "kernel": "xnu-4903.241.1~4",
@@ -2371,7 +2892,9 @@
                 },
                 {
                     "version": "10.14.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18D43",
                     "darwin": "18.2.0",
                     "kernel": "xnu-4903.241.1~4",
@@ -2379,7 +2902,9 @@
                 },
                 {
                     "version": "10.14.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18D109",
                     "darwin": "18.2.0",
                     "kernel": "xnu-4903.241.1~4",
@@ -2387,7 +2912,9 @@
                 },
                 {
                     "version": "10.14.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18E226",
                     "darwin": "18.5.0",
                     "kernel": "xnu-4903.251.3~3",
@@ -2395,7 +2922,9 @@
                 },
                 {
                     "version": "10.14.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18E227",
                     "darwin": "18.5.0",
                     "kernel": "xnu-4903.251.3~3",
@@ -2403,7 +2932,9 @@
                 },
                 {
                     "version": "10.14.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18F132",
                     "darwin": "18.6.0",
                     "kernel": "xnu-4903.261.4~2",
@@ -2411,7 +2942,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G84",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.270.47~4",
@@ -2419,7 +2952,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G87",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.270.47~4",
@@ -2427,7 +2962,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G95",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.271.2~2",
@@ -2435,7 +2972,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G103",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.271.2~2",
@@ -2443,7 +2982,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G1012",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.12~4",
@@ -2451,7 +2992,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G2022",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.19~1",
@@ -2459,7 +3002,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G3020",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.25~1",
@@ -2467,7 +3012,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G4032",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.28~1",
@@ -2475,7 +3022,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G5033",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.35~1",
@@ -2483,7 +3032,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G6020",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.43~1",
@@ -2491,7 +3042,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G6032",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.44~1",
@@ -2499,7 +3052,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G6032",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.44~1",
@@ -2507,7 +3062,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G6042",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.44.0.2~1",
@@ -2515,7 +3072,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G7016",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.51~1",
@@ -2523,7 +3082,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G8012",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.56~1",
@@ -2531,7 +3092,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G8022",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.56~1",
@@ -2539,7 +3102,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G9028",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.65~1",
@@ -2547,7 +3112,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G9216",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.68~1",
@@ -2555,7 +3122,9 @@
                 },
                 {
                     "version": "10.14.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "18G9323",
                     "darwin": "18.7.0",
                     "kernel": "xnu-4903.278.70~1",
@@ -2567,7 +3136,7 @@
             "family": "macOS",
             "version": "10.15",
             "platforms": [
-                "x86-64"
+                "Intel (x86-64)"
             ],
             "codename": "Catalina",
             "announced":"2019-06-03",
@@ -2587,7 +3156,9 @@
             "releases": [
                 {
                     "version": "10.15",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19A583",
                     "darwin": "19.0.0",
                     "kernel": "xnu-6153.11.26",
@@ -2595,7 +3166,9 @@
                 },
                 {
                     "version": "10.15",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19A602",
                     "darwin": "19.0.0",
                     "kernel": "xnu-6153.?",
@@ -2603,7 +3176,9 @@
                 },
                 {
                     "version": "10.15",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19A603",
                     "darwin": "19.0.0",
                     "kernel": "xnu-6153.?",
@@ -2611,7 +3186,9 @@
                 },
                 {
                     "version": "10.15.1",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19B88",
                     "darwin": "19.0.0",
                     "kernel": "xnu-6153.41.3~29",
@@ -2619,7 +3196,9 @@
                 },
                 {
                     "version": "10.15.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19C57",
                     "darwin": "19.2.0",
                     "kernel": "xnu-6153.61.1~20",
@@ -2627,7 +3206,9 @@
                 },
                 {
                     "version": "10.15.2",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19C58",
                     "darwin": "19.2.0",
                     "kernel": "xnu-6153.61.1~20",
@@ -2635,7 +3216,9 @@
                 },
                 {
                     "version": "10.15.3",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19D76",
                     "darwin": "19.3.0",
                     "kernel": "xnu-6153.81.5~1",
@@ -2643,7 +3226,9 @@
                 },
                 {
                     "version": "10.15.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19E266",
                     "darwin": "19.4.0",
                     "kernel": "xnu-6153.101.6~15",
@@ -2651,7 +3236,9 @@
                 },
                 {
                     "version": "10.15.4",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19E287",
                     "darwin": "19.4.0",
                     "kernel": "xnu-6153.101.6~15",
@@ -2659,7 +3246,9 @@
                 },
                 {
                     "version": "10.15.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19F96",
                     "darwin": "19.5.0",
                     "kernel": "xnu-6153.121.1~7",
@@ -2667,7 +3256,9 @@
                 },
                 {
                     "version": "10.15.5",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19F101",
                     "darwin": "19.5.0",
                     "kernel": "xnu-6153.121.2~2",
@@ -2675,7 +3266,9 @@
                 },
                 {
                     "version": "10.15.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19G73",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.1~9",
@@ -2683,7 +3276,9 @@
                 },
                 {
                     "version": "10.15.6",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19G2021",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.1~1",
@@ -2691,7 +3286,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H2",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.2~1",
@@ -2699,7 +3296,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H4",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.2~1",
@@ -2707,7 +3306,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H15",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.2.2~1",
@@ -2715,7 +3316,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H114",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.10~1",
@@ -2723,7 +3326,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H512",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.16~1",
@@ -2731,7 +3336,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H524",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.16~1",
@@ -2739,7 +3346,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1030",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.28.1~1",
@@ -2747,7 +3356,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1217",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.33~1",
@@ -2755,7 +3366,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1323",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.35~1",
@@ -2763,7 +3376,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1417",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.40~1",
@@ -2771,7 +3386,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1419",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.40.1~1",
@@ -2779,7 +3396,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1519",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.43~1",
@@ -2787,7 +3406,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1615",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.50~1",
@@ -2795,7 +3416,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1713",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.51~3",
@@ -2803,7 +3426,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1715",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.51~3",
@@ -2811,7 +3436,9 @@
                 },
                 {
                     "version": "10.15.7",
-                    "platform": "Intel",
+                    "platforms":  [
+                        "Intel"
+                    ],
                     "build": "19H1824",
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.59~1",
@@ -2823,7 +3450,7 @@
             "family": "macOS",
             "version": "11",
             "platforms": [
-                "x86-64",
+                "Intel (x86-64)",
                 "ARM64"
             ],
             "codename": "Big Sur",
@@ -2843,7 +3470,10 @@
             "releases": [
                 {
                     "version": "11.0",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20A2411",
                     "darwin": "20.1.0",
                     "kernel": "xnu-7195.41.8~9",
@@ -2851,7 +3481,10 @@
                 },
                 {
                     "version": "11.0.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20B29",
                     "darwin": "20.1.0",
                     "kernel": "xnu-7195.50.7~2",
@@ -2859,7 +3492,10 @@
                 },
                 {
                     "version": "11.0.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20B50",
                     "darwin": "20.1.0",
                     "kernel": "xnu-7195.50.7~2",
@@ -2867,7 +3503,10 @@
                 },
                 {
                     "version": "11.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20C69",
                     "darwin": "20.2.0",
                     "kernel": "xnu-7195.60.75~1",
@@ -2875,7 +3514,10 @@
                 },
                 {
                     "version": "11.2",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20D64",
                     "darwin": "20.3.0",
                     "kernel": "xnu-7195.81.3~1",
@@ -2883,7 +3525,10 @@
                 },
                 {
                     "version": "11.2.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20D74",
                     "darwin": "20.3.0",
                     "kernel": "xnu-7195.81.3~1",
@@ -2891,7 +3536,10 @@
                 },
                 {
                     "version": "11.2.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20D75",
                     "darwin": "20.3.0",
                     "kernel": "xnu-7195.81.3~1",
@@ -2899,7 +3547,10 @@
                 },
                 {
                     "version": "11.2.2",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20D80",
                     "darwin": "20.3.0",
                     "kernel": "xnu-7195.81.3~1",
@@ -2907,7 +3558,10 @@
                 },
                 {
                     "version": "11.2.3",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20D91",
                     "darwin": "20.3.0",
                     "kernel": "xnu-7195.81.3~1",
@@ -2915,7 +3569,10 @@
                 },
                 {
                     "version": "11.3",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20E232",
                     "darwin": "20.4.0",
                     "kernel": "xnu-7195.101.1~3",
@@ -2923,7 +3580,10 @@
                 },
                 {
                     "version": "11.3.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20E241",
                     "darwin": "20.4.0",
                     "kernel": "xnu-7195.101.2~1",
@@ -2931,7 +3591,10 @@
                 },
                 {
                     "version": "11.4",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20F71",
                     "darwin": "20.5.0",
                     "kernel": "xnu-7195.121.3~9",
@@ -2939,7 +3602,10 @@
                 },
                 {
                     "version": "11.5",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G71",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.2~5",
@@ -2947,7 +3613,10 @@
                 },
                 {
                     "version": "11.5.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G80",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.2~5",
@@ -2955,7 +3624,10 @@
                 },
                 {
                     "version": "11.5.2",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G95",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.2~5",
@@ -2963,7 +3635,10 @@
                 },
                 {
                     "version": "11.6",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G165",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.6~3",
@@ -2971,7 +3646,10 @@
                 },
                 {
                     "version": "11.6.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G224",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.8~1",
@@ -2979,7 +3657,10 @@
                 },
                 {
                     "version": "11.6.2",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G314",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.14~1",
@@ -2987,7 +3668,10 @@
                 },
                 {
                     "version": "11.6.3",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G415",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.19~2",
@@ -2995,7 +3679,10 @@
                 },
                 {
                     "version": "11.6.4",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G417",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.19~2",
@@ -3003,7 +3690,10 @@
                 },
                 {
                     "version": "11.6.5",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
                     "build": "20G527",
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.26~1",
@@ -3015,7 +3705,7 @@
             "family": "macOS",
             "version": "12",
             "platforms": [
-                "x86-64",
+                "Intel (x86-64)",
                 "ARM64"
             ],
             "codename": "Monterey",
@@ -3033,7 +3723,10 @@
             "releases": [
                 {
                     "version": "12.0",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
                     "build": "21A344",
                     "darwin": "21.0.1",
                     "kernel": "xnu-8019.30.61~4",
@@ -3041,7 +3734,10 @@
                 },
                 {
                     "version": "12.0.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
                     "build": "21A559",
                     "darwin": "21.1.0",
                     "kernel": "xnu-8019.41.5~1",
@@ -3049,7 +3745,10 @@
                 },
                 {
                     "version": "12.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
                     "build": "21C52",
                     "darwin": "21.2.0",
                     "kernel": "xnu-8019.61.5~1",
@@ -3057,7 +3756,10 @@
                 },
                 {
                     "version": "12.2",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
                     "build": "21D49",
                     "darwin": "21.3.0",
                     "kernel": "xnu-8019.80.24~20",
@@ -3065,7 +3767,10 @@
                 },
                 {
                     "version": "12.2.1",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
                     "build": "21D62",
                     "darwin": "21.3.0",
                     "kernel": "xnu-8019.80.24~20",
@@ -3073,7 +3778,10 @@
                 },
                 {
                     "version": "12.3",
-                    "platform": "Universal",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
                     "build": "21E230",
                     "darwin": "21.4.0",
                     "kernel": "xnu-8020.101.4~2",
