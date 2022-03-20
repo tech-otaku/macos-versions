@@ -21,7 +21,8 @@ a:link {
   
 /* visited link */
 a:visited {
-    color: #BF616A;
+    /* color: #BF616A; */
+    color: #58A6FF
 }
 
 /* mouse over link */
