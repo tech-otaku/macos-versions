@@ -60,13 +60,23 @@ ul a {
     display: flex;
 }
   
-.column {
-    flex: 33%;
+.column-left {
+    flex: 40%;
     margin: 5px;
     padding: 10px;
     overflow-x: auto;
     overflow-y: hidden;
 }
+
+.column-right {
+    flex: 60%;
+    margin: 5px;
+    padding: 10px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+
 
 .text, .description {
     margin: 5px;

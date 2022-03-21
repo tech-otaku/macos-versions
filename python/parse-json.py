@@ -12,7 +12,7 @@ def printKey(indent):
     print('')
 
 try:
-    indent='  '
+    indent='   '
 
     with open("json/macos.json", "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -48,7 +48,7 @@ try:
             print(f'\
 {indent}{indent}\
 {_release["version"].ljust(9)}\
-{platform[:len(platform)- 2].ljust(16)}\
+{platform[:len(platform) - 2].ljust(16)}\
 {_release["build"].ljust(11)}\
 {_release["darwin"].ljust(8)}\
 {_release["kernel"].ljust(22)}\
