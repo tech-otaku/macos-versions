@@ -701,3 +701,5 @@ MigrationBackup/
 .idea/
 
 package-lock.json
+
+get-release-info.sh
