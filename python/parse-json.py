@@ -22,8 +22,9 @@ try:
     print(f'File updated: {data["updated"]}\n')
     
     for _version in data["versions"]:
-        print(f'{_version["family"]} {_version["version"]} {_version["codename"]}\n')
+        print(f'{_version["family"]} {_version["version"]} {_version["external"]}\n')
 
+        print(f'{indent}Internal Codename: {_version["internal"]}')
         print(f'{indent}Announced: {_version["announced"]}')
         print(f'{indent}Initial Release: {_version["released"]}\n')
 
