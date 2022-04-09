@@ -1,5 +1,5 @@
 {
-    "updated": "2022-03-14",
+    "updated": "2022-04-09",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -3805,6 +3805,17 @@
                     "darwin": "21.4.0",
                     "kernel": "xnu-8020.101.4~2",
                     "released": "2022-03-14"
+                },
+                {
+                    "version": "12.3.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21E258",
+                    "darwin": "21.4.0",
+                    "kernel": "xnu-8020.101.4~15",
+                    "released": "2022-03-31"
                 }
             ]
         }
