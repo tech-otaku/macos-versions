@@ -8,9 +8,10 @@
             "family": "Mac OS X",
             "version": "Public Beta",
             "platforms": [
-                "PowerPC"
+                "PowerPC (32-bit)"
             ],
-            "codename": "Kodiak",
+            "internal": "Kodiak",
+            "external": "Kodiak",
             "announced":"2000-05-15",
             "released": "2000-09-13",
             "requirements": [
@@ -45,9 +46,10 @@
             "family": "Mac OS X",
             "version": "10.0",
             "platforms": [
-                "PowerPC"
+                "PowerPC (32-bit)"
             ],
-            "codename": "Cheetah",
+            "internal": "Cheetah",
+            "external": "Cheetah",
             "announced":"2001-01-09",
             "released": "2001-03-24",
             "requirements": [
@@ -122,9 +124,10 @@
             "family": "Mac OS X",
             "version": "10.1",
             "platforms": [
-                "PowerPC"
+                "PowerPC (32-bit)"
             ],
-            "codename": "Puma",
+            "internal": "Puma",
+            "external": "Puma",
             "announced":"2001-07-18",
             "released": "2001-09-25",
             "requirements": [
@@ -199,9 +202,10 @@
             "family": "Mac OS X",
             "version": "10.2",
             "platforms": [
-                "PowerPC"
+                "PowerPC (32/64-bit)"
             ],
-            "codename": "Jaguar",
+            "internal": "Jaguar",
+            "external": "Jaguar",
             "announced":"2002-05-06",
             "released": "2002-08-24",
             "requirements": [
@@ -337,7 +341,7 @@
                     ],
                     "build": "6S90",
                     "darwin": "6.8.0",
-                    "kernel": "xnu-344.?",
+                    "kernel": "xnu-?",
                     "released": "2003-10-03"
                 }
             ]
@@ -346,9 +350,10 @@
             "family": "Mac OS X",
             "version": "10.3",
             "platforms": [
-                "PowerPC"
+                "PowerPC (32/64-bit)"
             ],
-            "codename": "Panther",
+            "internal": "Pinot",
+            "external": "Panther",
             "announced":"2003-06-23",
             "released": "2003-10-24",
             "requirements": [
@@ -484,10 +489,11 @@
             "family": "Mac OS X",
             "version": "10.4",
             "platforms": [
-                "PowerPC",
+                "PowerPC (32/64-bit)",
                 "Intel (i386, x86-64)"
             ],
-            "codename": "Tiger",
+            "internal": "Merlot (PowerPC) / Chardonnay (Intel)",
+            "external": "Tiger",
             "announced":"2004-05-04",
             "released": "2005-04-29",
             "requirements": [
@@ -608,7 +614,7 @@
                     "released": "2006-01-10"
                 },
                 {
-                    "version": "10.4.4*",
+                    "version": "10.4.4",
                     "platforms":  [
                         "Intel"
                     ],
@@ -628,7 +634,7 @@
                     "released": "2006-02-14"
                 },
                 {
-                    "version": "10.4.5*",
+                    "version": "10.4.5",
                     "platforms":  [
                         "Intel"
                     ],
@@ -648,7 +654,7 @@
                     "released": "2006-04-03"
                 },
                 {
-                    "version": "10.4.6*",
+                    "version": "10.4.6",
                     "platforms":  [
                         "Intel"
                     ],
@@ -668,7 +674,7 @@
                     "released": "2006-06-27"
                 },
                 {
-                    "version": "10.4.7*",
+                    "version": "10.4.7",
                     "platforms":  [
                         "Intel"
                     ],
@@ -708,7 +714,7 @@
                     "released": "2006-09-29"
                 },
                 {
-                    "version": "10.4.8*",
+                    "version": "10.4.8",
                     "platforms":  [
                         "Intel"
                     ],
@@ -728,7 +734,7 @@
                     "released": "2007-03-13"
                 },
                 {
-                    "version": "10.4.9*",
+                    "version": "10.4.9",
                     "platforms":  [
                         "Intel"
                     ],
@@ -748,7 +754,7 @@
                     "released": "2007-06-20"
                 },
                 {
-                    "version": "10.4.10*",
+                    "version": "10.4.10",
                     "platforms":  [
                         "Intel"
                     ],
@@ -758,7 +764,7 @@
                     "released": "2007-06-20"
                 },
                 {
-                    "version": "10.4.10*",
+                    "version": "10.4.10",
                     "platforms":  [
                         "Intel"
                     ],
@@ -793,10 +799,11 @@
             "family": "Mac OS X",
             "version": "10.5",
             "platforms": [
-                "PowerPC",
+                "PowerPC (32/64-bit)",
                 "Intel (i386, x86-64)"
             ],
-            "codename": "Leopard",
+            "internal": "Chablis",
+            "external": "Leopard",
             "announced":"2006-06-26",
             "released": "2007-10-26",
             "requirements": [
@@ -912,7 +919,7 @@
                     ],
                     "build": "9G66",
                     "darwin": "9.6.0",
-                    "kernel": "xnu-1228.9.?",
+                    "kernel": "xnu-1228.9.59.?",
                     "released": "2009-01-06"
                 },
                 {
@@ -967,7 +974,8 @@
             "platforms": [
                 "Intel (i386, x86-64)"
             ],
-            "codename": "Snow Leopard",
+            "internal": "",
+            "external": "Snow Leopard",
             "announced":"2008-06-09",
             "released": "2009-08-28",
             "requirements": [
@@ -1134,7 +1142,8 @@
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "Lion",
+            "internal": "Barolo",
+            "external": "Lion",
             "announced":"2010-10-20",
             "released": "2011-07-20",
             "requirements": [
@@ -1257,12 +1266,13 @@
             ]
         },
         {
-            "family": "Mac OS X",
+            "family": "OS X",
             "version": "10.8",
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "Mountain Lion",
+            "internal": "Zinfandel",
+            "external": "Mountain Lion",
             "announced":"2012-02-16",
             "released": "2012-07-25",
             "requirements": [
@@ -1451,12 +1461,13 @@
             ]
         },
         {
-            "family": "Mac OS X",
+            "family": "OS X",
             "version": "10.9",
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "Mavericks",
+            "internal": "Cabernet",
+            "external": "Mavericks",
             "announced":"2013-06-10",
             "released": "2013-10-22",
             "requirements": [
@@ -1665,12 +1676,13 @@
             ]
         },
         {
-            "family": "Mac OS X",
+            "family": "OS X",
             "version": "10.10",
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "Yosemite",
+            "internal": "Syrah",
+            "external": "Yosemite",
             "announced":"2014-06-02",
             "released": "2014-10-16",
             "requirements": [
@@ -1929,12 +1941,13 @@
             ]
         },
         {
-            "family": "Mac OS X",
+            "family": "OS X",
             "version": "10.11",
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "El Capitan",
+            "internal": "Gala",
+            "external": "El Capitan",
             "announced":"2015-06-08",
             "released": "2015-09-30",
             "requirements": [
@@ -2168,7 +2181,8 @@
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "Sierra",
+            "internal": "Fuji",
+            "external": "Sierra",
             "announced":"2016-06-13",
             "released": "2016-09-20",
             "requirements": [
@@ -2441,7 +2455,8 @@
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "High Sierra",
+            "internal": "Lobo",
+            "external": "High Sierra",
             "announced":"2017-06-05",
             "released": "2017-09-25",
             "requirements": [
@@ -2814,7 +2829,8 @@
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "Mojave",
+            "internal": "Liberty",
+            "external": "Mojave",
             "announced":"2018-06-04",
             "released": "2018-09-24",
             "requirements": [
@@ -3138,7 +3154,8 @@
             "platforms": [
                 "Intel (x86-64)"
             ],
-            "codename": "Catalina",
+            "internal": "Jazz",
+            "external": "Catalina",
             "announced":"2019-06-03",
             "released": "2019-10-07",
             "requirements": [
@@ -3453,7 +3470,8 @@
                 "Intel (x86-64)",
                 "ARM64"
             ],
-            "codename": "Big Sur",
+            "internal": "Golden Gate",
+            "external": "Big Sur",
             "announced":"2020-06-22",
             "released": "2020-11-12",
             "requirements": [
@@ -3708,7 +3726,8 @@
                 "Intel (x86-64)",
                 "ARM64"
             ],
-            "codename": "Monterey",
+            "internal": "Sky Bravo",
+            "external": "Monterey",
             "announced":"2021-06-07",
             "released": "2021-10-25",
             "requirements": [
