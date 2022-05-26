@@ -1,5 +1,5 @@
 {
-    "updated": "2022-04-09",
+    "updated": "2022-05-26",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -3716,6 +3716,17 @@
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.26~1",
                     "released": "2022-03-14"
+                },
+                {
+                    "version": "11.6.6",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
+                    "build": "20G624",
+                    "darwin": "20.6.0",
+                    "kernel": "xnu-7195.141.29~1",
+                    "released": "2022-05-16"
                 }
             ]
         },
