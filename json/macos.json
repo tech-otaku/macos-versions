@@ -3816,6 +3816,17 @@
                     "darwin": "21.4.0",
                     "kernel": "xnu-8020.101.4~15",
                     "released": "2022-03-31"
+                },
+                {
+                    "version": "12.4",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21F79",
+                    "darwin": "21.5.0",
+                    "kernel": "xnu-8020.121.3~4",
+                    "released": "2022-05-16"
                 }
             ]
         }
