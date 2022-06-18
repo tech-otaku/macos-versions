@@ -1,5 +1,5 @@
 {
-    "updated": "2022-05-26",
+    "updated": "2022-06-18",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -3727,6 +3727,17 @@
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.29~1",
                     "released": "2022-05-16"
+                },
+                {
+                    "version": "11.6.7",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
+                    "build": "20G630",
+                    "darwin": "20.6.0",
+                    "kernel": "xnu-7195.141.29~1",
+                    "released": "2022-06-09"
                 }
             ]
         },
@@ -3838,6 +3849,17 @@
                     "darwin": "21.5.0",
                     "kernel": "xnu-8020.121.3~4",
                     "released": "2022-05-16"
+                },
+                {
+                    "version": "12.4",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21F2092",
+                    "darwin": "21.5.0",
+                    "kernel": "xnu-8020.121.3~4",
+                    "released": "2022-06-16"
                 }
             ]
         }
