@@ -1,5 +1,5 @@
 {
-    "updated": "2022-06-18",
+    "updated": "2022-06-25",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -3748,7 +3748,7 @@
                 "Intel (x86-64)",
                 "ARM64"
             ],
-            "internal": "Sky Bravo",
+            "internal": "Star",
             "external": "Monterey",
             "announced":"2021-06-07",
             "released": "2021-10-25",
@@ -3860,6 +3860,41 @@
                     "darwin": "21.5.0",
                     "kernel": "xnu-8020.121.3~4",
                     "released": "2022-06-16"
+                }
+            ]
+        },
+        {
+            "family": "macOS",
+            "version": "13",
+            "platforms": [
+                "Intel (x86-64)",
+                "ARM64"
+            ],
+            "internal": "Rome",
+            "external": "Ventura",
+            "announced":"2022-06-06",
+            "released": "TBA",
+            "requirements": [
+                "iMac (2017) and later",
+                "iMac Pro (2017)",
+                "MacBook (2017)",
+                "MacBook Air (2018) and later",
+                "MacBook Pro (2017) and later",
+                "Mac Mini (2018) and later",
+                "Mac Pro (2019)",
+                "Mac Studio"
+            ],
+            "releases": [
+                {
+                    "version": "13.0",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "TBA",
+                    "darwin": "TBA",
+                    "kernel": "TBA",
+                    "released": "TBA"
                 }
             ]
         }
