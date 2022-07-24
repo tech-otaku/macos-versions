@@ -1,5 +1,5 @@
 {
-    "updated": "2022-06-25",
+    "updated": "2022-07-24",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -3460,6 +3460,26 @@
                     "darwin": "19.6.0",
                     "kernel": "xnu-6153.141.59~1",
                     "released": "2022-03-14"
+                },
+                {
+                    "version": "10.15.7",
+                    "platforms":  [
+                        "Intel"
+                    ],
+                    "build": "19H1922",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.62~1",
+                    "released": "2022-05-16"
+                },
+                {
+                    "version": "10.15.7",
+                    "platforms":  [
+                        "Intel"
+                    ],
+                    "build": "19H2026",
+                    "darwin": "19.6.0",
+                    "kernel": "xnu-6153.141.66~1",
+                    "released": "2022-07-20"
                 }
             ]
         },
@@ -3738,6 +3758,17 @@
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.29~1",
                     "released": "2022-06-09"
+                },
+                {
+                    "version": "11.6.7",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
+                    "build": "20G730",
+                    "darwin": "20.6.0",
+                    "kernel": "xnu-7195.141.32~1",
+                    "released": "2022-07-20"
                 }
             ]
         },
@@ -3860,6 +3891,17 @@
                     "darwin": "21.5.0",
                     "kernel": "xnu-8020.121.3~4",
                     "released": "2022-06-16"
+                },
+                {
+                    "version": "12.5",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21G72",
+                    "darwin": "21.6.0",
+                    "kernel": "xnu-8020.140.41~1",
+                    "released": "2022-07-20"
                 }
             ]
         },
