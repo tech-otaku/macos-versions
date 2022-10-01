@@ -1,5 +1,5 @@
 {
-    "updated": "2022-07-24",
+    "updated": "2022-10-01",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -3760,7 +3760,7 @@
                     "released": "2022-06-09"
                 },
                 {
-                    "version": "11.6.7",
+                    "version": "11.6.8",
                     "platforms":  [
                         "x86-64",
                         "ARM64"
@@ -3769,6 +3769,17 @@
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.32~1",
                     "released": "2022-07-20"
+                },
+                {
+                    "version": "11.7",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
+                    "build": "20G817",
+                    "darwin": "20.6.0",
+                    "kernel": "xnu-7195.141.39~2",
+                    "released": "2022-09-12"
                 }
             ]
         },
@@ -3902,6 +3913,17 @@
                     "darwin": "21.6.0",
                     "kernel": "xnu-8020.140.41~1",
                     "released": "2022-07-20"
+                },
+                {
+                    "version": "12.6",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21G115",
+                    "darwin": "21.6.0",
+                    "kernel": "xnu-8020.140.49~2",
+                    "released": "2022-09-12"
                 }
             ]
         },
