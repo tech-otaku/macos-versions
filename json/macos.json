@@ -1,5 +1,5 @@
 {
-    "updated": "2022-10-01",
+    "updated": "2022-11-11",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -3924,6 +3924,17 @@
                     "darwin": "21.6.0",
                     "kernel": "xnu-8020.140.49~2",
                     "released": "2022-09-12"
+                },
+                {
+                    "version": "12.6.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21G217",
+                    "darwin": "21.6.0",
+                    "kernel": "xnu-8020.240.7~1",
+                    "released": "2022-10-24"
                 }
             ]
         },
@@ -3937,7 +3948,7 @@
             "internal": "Rome",
             "external": "Ventura",
             "announced":"2022-06-06",
-            "released": "TBA",
+            "released": "2022-10-24",
             "requirements": [
                 "iMac (2017) and later",
                 "iMac Pro (2017)",
@@ -3955,10 +3966,10 @@
                         "Intel",
                         "ARM64"
                     ],
-                    "build": "TBA",
-                    "darwin": "TBA",
-                    "kernel": "TBA",
-                    "released": "TBA"
+                    "build": "22A380",
+                    "darwin": "22.1.0",
+                    "kernel": "xnu-8792.41.9~2",
+                    "released": "2022-10-24"
                 }
             ]
         }
