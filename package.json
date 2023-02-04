@@ -4,8 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "nodemon ./index.js",
-        "ui": "browser-sync start --proxy=localhost:5000 --files='**/*.css, **/*.pug, **/*.js, **/*.json, **/*.py' --ignore=node_modules --reload-delay 10 --no-notify"
+        "dev": "nodemon ./index.js"
     },
     "repository": {
         "type": "git",
@@ -19,11 +18,10 @@
     },
     "homepage": "https://github.com/tech-otaku/macos-releases#readme",
     "devDependencies": {
-        "browser-sync": "^2.26.7",
-        "nodemon": "^2.0.4"
+        "nodemon": "^2.0.20"
     },
     "dependencies": {
-        "express": "^4.17.1",
-        "pug": "^3.0.0"
+        "express": "^4.18.2",
+        "pug": "^3.0.2"
     }
 }
