@@ -18,10 +18,10 @@
     },
     "homepage": "https://github.com/tech-otaku/macos-releases#readme",
     "devDependencies": {
-        "nodemon": "^2.0.20"
+        "nodemon": "latest"
     },
     "dependencies": {
-        "express": "^4.18.2",
-        "pug": "^3.0.2"
+        "express": "latest",
+        "pug": "latest"
     }
 }
