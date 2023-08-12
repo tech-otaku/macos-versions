@@ -1,5 +1,5 @@
 {
-    "updated": "2023-06-03",
+    "updated": "2023-08-12",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -3857,6 +3857,28 @@
                     "darwin": "20.6.0",
                     "kernel": "xnu-7195.141.49.701.3~1",
                     "released": "2023-05-18"
+                },
+                {
+                    "version": "11.7.8",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
+                    "build": "20G1351",
+                    "darwin": "20.6.0",
+                    "kernel": "xnu-7195.141.49.701.4~1",
+                    "released": "2023-06-21"
+                },
+                {
+                    "version": "11.7.9",
+                    "platforms":  [
+                        "x86-64",
+                        "ARM64"
+                    ],
+                    "build": "20G1426",
+                    "darwin": "20.6.0",
+                    "kernel": "xnu-7195.141.49.702.12~1",
+                    "released": "2023-07-24"
                 }
             ]
         },
@@ -4067,6 +4089,28 @@
                     "darwin": "21.6.0",
                     "kernel": "xnu-8020.240.18.701.5~1",
                     "released": "2023-05-18"
+                },
+                {
+                    "version": "12.6.7",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21G651",
+                    "darwin": "21.6.0",
+                    "kernel": "xnu-8020.240.18.701.6~1",
+                    "released": "2023-06-21"
+                },
+                {
+                    "version": "12.6.8",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21G725",
+                    "darwin": "21.6.0",
+                    "kernel": "xnu-8020.240.18.702.13~1",
+                    "released": "2023-07-24"
                 }
             ]
         },
@@ -4190,7 +4234,84 @@
                     "darwin": "22.5.0",
                     "kernel": "xnu-8796.121.2~5",
                     "released": "2023-05-18"
-                }       
+                },
+                {
+                    "version": "13.4.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22F82",
+                    "darwin": "22.5.0",
+                    "kernel": "xnu-8796.121.3~7",
+                    "released": "2023-06-21"
+                },
+                {
+                    "version": "13.4.1a",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22F770820b",
+                    "darwin": "22.5.0",
+                    "kernel": "xnu-8796.121.3~7",
+                    "released": "2023-07-10"
+                },
+                {
+                    "version": "13.4.1c",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22F770820d",
+                    "darwin": "22.5.0",
+                    "kernel": "xnu-8796.121.3~7",
+                    "released": "2023-07-12"
+                },
+                {
+                    "version": "13.5",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22G74",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3~6",
+                    "released": "2023-07-24"
+                }         
+            ]
+        },
+        {
+            "family": "macOS",
+            "version": "14",
+            "platforms": [
+                "Intel (x86-64)",
+                "ARM64"
+            ],
+            "internal": "Sunburst",
+            "external": "Sonoma",
+            "announced":"2023-06-05",
+            "released": "TBD",
+            "requirements": [
+                "iMac (2019) and later",
+                "iMac Pro (2017)",
+                "MacBook Air (2018) and later",
+                "MacBook Pro (2018) and later",
+                "Mac Mini (2018) and later",
+                "Mac Studio (2022) and later",
+                "Mac Pro (2019) and later"
+            ],
+            "releases": [
+                {
+                    "version": "",
+                    "platforms":  [
+                        ""
+                    ],
+                    "build": "",
+                    "darwin": "",
+                    "kernel": "",
+                    "released": ""
+                }
             ]
         }
     ]

@@ -41,7 +41,7 @@ try:
         print('')
 
         print(f'{indent}Releases:')
-        print(f'{indent}{indent}Version  Platform        Build      Darwin  Kernel                  Released')
+        print(f'{indent}{indent}Version  Platform        Build      Darwin  Kernel                   Released')
         for _release in _version["releases"]:
             platform = ''
             for _platform in _release["platforms"]:
@@ -52,7 +52,7 @@ try:
 {platform[:len(platform) - 2].ljust(16)}\
 {_release["build"].ljust(11)}\
 {_release["darwin"].ljust(8)}\
-{_release["kernel"].ljust(24)}\
+{_release["kernel"].ljust(25)}\
 {_release["released"]}\
             ')
 
