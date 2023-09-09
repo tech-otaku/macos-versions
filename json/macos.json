@@ -1,5 +1,5 @@
 {
-    "updated": "2023-08-12",
+    "updated": "2023-09-09",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -4278,6 +4278,28 @@
                     "darwin": "22.6.0",
                     "kernel": "xnu-8796.141.3~6",
                     "released": "2023-07-24"
+                },
+                {
+                    "version": "13.5.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22G90",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3~6",
+                    "released": "2023-08-17"
+                },
+                {
+                    "version": "13.5.2",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22G91",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3~6",
+                    "released": "2023-09-07"
                 }         
             ]
         },
