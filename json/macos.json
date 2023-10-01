@@ -1,5 +1,5 @@
 {
-    "updated": "2023-09-25",
+    "updated": "2023-10-01",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -4357,7 +4357,7 @@
             "internal": "Sunburst",
             "external": "Sonoma",
             "announced":"2023-06-05",
-            "released": "TBD",
+            "released": "2023-09-26",
             "requirements": [
                 "iMac (2019) and later",
                 "iMac Pro (2017)",
@@ -4369,14 +4369,15 @@
             ],
             "releases": [
                 {
-                    "version": "",
+                    "version": "14.0",
                     "platforms":  [
-                        ""
+                        "Intel",
+                        "ARM64"
                     ],
-                    "build": "",
-                    "darwin": "",
-                    "kernel": "",
-                    "released": ""
+                    "build": "23A344",
+                    "darwin": "23.0.0",
+                    "kernel": "xnu-10002.1.13~1",
+                    "released": "2023-09-26"
                 }
             ]
         }
