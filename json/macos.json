@@ -1,5 +1,5 @@
 {
-    "updated": "2023-12-13",
+    "updated": "2023-12-24",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -4499,6 +4499,17 @@
                     "darwin": "23.2.0",
                     "kernel": "xnu-10002.61.3~2",
                     "released": "2023-12-11"
+                },
+                {
+                    "version": "14.2.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23C71",
+                    "darwin": "23.2.0",
+                    "kernel": "xnu-10002.61.3~2",
+                    "released": "2023-12-19"
                 }
             ]
         }
