@@ -1,5 +1,5 @@
 {
-    "updated": "2024-03-10",
+    "updated": "2024-04-10",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -4587,6 +4587,17 @@
                     "darwin": "23.4.0",
                     "kernel": "xnu-10063.101.15~2",
                     "released": "2024-03-07"
+                },
+                {
+                    "version": "14.4.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23E224",
+                    "darwin": "23.4.0",
+                    "kernel": "xnu-10063.101.17~1",
+                    "released": "2024-04-02"
                 }
             ]
         }
