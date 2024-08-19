@@ -1,5 +1,5 @@
 {
-    "updated": "2024-06-11",
+    "updated": "2024-08-19",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -4199,6 +4199,17 @@
                     "darwin": "21.6.0",
                     "kernel": "xnu-8020.240.18.707.4~1",
                     "released": "2024-05-13"
+                },
+                {
+                    "version": "12.7.6",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "21H1320",
+                    "darwin": "21.6.0",
+                    "kernel": "xnu-8020.240.18.709.2~1",
+                    "released": "2024-07-29"
                 }
             ]
         },
@@ -4476,6 +4487,28 @@
                     "darwin": "22.6.0",
                     "kernel": "xnu-8796.141.3.705.2~1",
                     "released": "2024-05-13"
+                },
+                {
+                    "version": "13.6.8",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22G820",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.706.2~1",
+                    "released": "2024-07-29"
+                },
+                {
+                    "version": "13.6.9",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22G830",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.706.2~1",
+                    "released": "2024-08-07"
                 }
             ]
         },
@@ -4642,6 +4675,28 @@
                     "darwin": "23.5.0",
                     "kernel": "xnu-10063.121.3~5",
                     "released": "2024-05-13"
+                },
+                {
+                    "version": "14.6",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23G80",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.1~2",
+                    "released": "2024-07-29"
+                },
+                {
+                    "version": "14.6.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23G93",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.2~1",
+                    "released": "2024-08-07"
                 }
             ]
         },
