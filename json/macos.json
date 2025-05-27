@@ -1,5 +1,5 @@
 {
-    "updated": "2024-08-19",
+    "updated": "2025-05-27",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -4509,6 +4509,83 @@
                     "darwin": "22.6.0",
                     "kernel": "xnu-8796.141.3.706.2~1",
                     "released": "2024-08-07"
+                },
+                {
+                    "version": "13.7",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22H123",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.707.4~1",
+                    "released": "2024-09-16"
+                },
+                {
+                    "version": "13.7.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22H221",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.708.1~1",
+                    "released": "2024-10-28"
+                },
+                {
+                    "version": "13.7.2",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22H313",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.709.7~2",
+                    "released": "2024-12-11"
+                },
+                {
+                    "version": "13.7.3",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22H417",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.709.7~4",
+                    "released": "2025-01-27"
+                },
+                {
+                    "version": "13.7.4",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22H420",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.709.7~4",
+                    "released": "2025-02-10"
+                },
+                {
+                    "version": "13.7.5",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22H527",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.711.5~1",
+                    "released": "2025-03-31"
+                },
+                {
+                    "version": "13.7.6",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "22H625",
+                    "darwin": "22.6.0",
+                    "kernel": "xnu-8796.141.3.712.2~1",
+                    "released": "2025-05-12"
                 }
             ]
         },
@@ -4697,6 +4774,83 @@
                     "darwin": "23.6.0",
                     "kernel": "xnu-10063.141.2~1",
                     "released": "2024-08-07"
+                },
+                {
+                    "version": "14.7",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23H124",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.1.700.5~1",
+                    "released": "2024-09-16"
+                },
+                {
+                    "version": "14.7.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23H222",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.1.701.1~1",
+                    "released": "2024-10-28"
+                },
+                {
+                    "version": "14.7.2",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23H311",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.1.702.7~1",
+                    "released": "2024-12-11"
+                },
+                {
+                    "version": "14.7.3",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23H417",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.1.703.2~1",
+                    "released": "2025-01-27"
+                },
+                {
+                    "version": "14.7.4",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23H420",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.1.703.2~1",
+                    "released": "2025-02-10"
+                },
+                {
+                    "version": "14.7.5",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23H527",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.1.704.6~1",
+                    "released": "2025-03-31"
+                },
+                {
+                    "version": "14.7.6",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "23H626",
+                    "darwin": "23.6.0",
+                    "kernel": "xnu-10063.141.1.705.2~1",
+                    "released": "2025-12-05"
                 }
             ]
         },
@@ -4722,14 +4876,158 @@
             ],
             "releases": [
                 {
-                    "version": "",
+                    "version": "15.0",
                     "platforms":  [
-                        ""
+                        "Intel",
+                        "ARM64"
                     ],
-                    "build": "",
-                    "darwin": "",
-                    "kernel": "",
-                    "released": ""
+                    "build": "24A335",
+                    "darwin": "24.0.0",
+                    "kernel": "xnu-11215.1.10~2",
+                    "released": "2024-09-16"
+                },
+                {
+                    "version": "15.0.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24A348",
+                    "darwin": "24.0.0",
+                    "kernel": "xnu-11215.1.12~1",
+                    "released": "2024-10-03"
+                },
+                {
+                    "version": "15.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24B83",
+                    "darwin": "24.1.0",
+                    "kernel": "xnu-11215.41.3~2",
+                    "released": "2024-10-28"
+                },
+                {
+                    "version": "15.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24B2083",
+                    "darwin": "24.1.0",
+                    "kernel": "xnu-11215.41.3~3",
+                    "released": "2024-10-28"
+                },
+                {
+                    "version": "15.1.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24B91",
+                    "darwin": "24.1.0",
+                    "kernel": "xnu-11215.41.3~13",
+                    "released": "2024-11-19"
+                },
+                {
+                    "version": "15.1.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24B2091",
+                    "darwin": "24.1.0",
+                    "kernel": "xnu-11215.41.3~13",
+                    "released": "2024-11-19"
+                },
+                {
+                    "version": "15.2",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24C101",
+                    "darwin": "24.2.0",
+                    "kernel": "xnu-11215.61.5~2",
+                    "released": "2024-12-11"
+                },
+                {
+                    "version": "15.3",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24D60",
+                    "darwin": "24.3.0",
+                    "kernel": "xnu-11215.81.4~3",
+                    "released": "2025-01-27"
+                },
+                {
+                    "version": "15.3.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24D70",
+                    "darwin": "24.3.0",
+                    "kernel": "xnu-11215.81.4~3",
+                    "released": "2025-02-10"
+                },
+                {
+                    "version": "15.3.2",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24D81",
+                    "darwin": "24.3.0",
+                    "kernel": "xnu-11215.81.4~4",
+                    "released": "2025-03-11"
+                },
+                {
+                    "version": "15.3.2",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24D2082",
+                    "darwin": "24.3.0",
+                    "kernel": "xnu-11215.81.4~4",
+                    "released": "2025-03-11"
+                },
+                {
+                    "version": "15.4",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24E248",
+                    "darwin": "24.4.0",
+                    "kernel": "xnu-11417.101.15~1",
+                    "released": "2025-03-31"
+                },
+                {
+                    "version": "15.4.1",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24E263",
+                    "darwin": "24.4.0",
+                    "kernel": "xnu-11417.101.15~1",
+                    "released": "2025-04-16"
+                },
+                {
+                    "version": "15.5",
+                    "platforms":  [
+                        "Intel",
+                        "ARM64"
+                    ],
+                    "build": "24F74",
+                    "darwin": "24.5.0",
+                    "kernel": "xnu-11417.121.6~2",
+                    "released": "2025-05-12"
                 }
             ]
         }
