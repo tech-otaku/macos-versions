@@ -1,5 +1,5 @@
 {
-    "updated": "2025-05-27",
+    "updated": "2025-06-09",
     "key": [
         "? = No data available / unable to confirm"
     ],
@@ -4225,12 +4225,12 @@
             "announced":"2022-06-06",
             "released": "2022-10-24",
             "requirements": [
-                "iMac (2017) and later",
+                "iMac (2017 and later)",
                 "iMac Pro (2017)",
                 "MacBook (2017)",
-                "MacBook Air (2018) and later",
-                "MacBook Pro (2017) and later",
-                "Mac Mini (2018) and later",
+                "MacBook Air (2018 and later)",
+                "MacBook Pro (2017 and later)",
+                "Mac Mini (2018 and later)",
                 "Mac Pro (2019)",
                 "Mac Studio"
             ],
@@ -4601,13 +4601,13 @@
             "announced":"2023-06-05",
             "released": "2023-09-26",
             "requirements": [
-                "iMac (2019) and later",
+                "iMac (2019 and later)",
                 "iMac Pro (2017)",
-                "MacBook Air (2018) and later",
-                "MacBook Pro (2018) and later",
-                "Mac Mini (2018) and later",
-                "Mac Studio (2022) and later",
-                "Mac Pro (2019) and later"
+                "MacBook Air (2018 and later)",
+                "MacBook Pro (2018 and later)",
+                "Mac Mini (2018 and later)",
+                "Mac Studio (2022 and later)",
+                "Mac Pro (2019 and later)"
             ],
             "releases": [
                 {
@@ -4866,13 +4866,13 @@
             "announced":"2024-06-10",
             "released": "TBD",
             "requirements": [
-                "iMac (2019) and later",
-                "Mac Studio (2022) and later",
-                "Mac Mini (2018) and later",
-                "Mac Pro (2019) and later",
+                "iMac (2019 and later)",
+                "Mac Studio (2022 and later)",
+                "Mac Mini (2018 and later)",
+                "Mac Pro (2019 and later)",
                 "iMac Pro (2017)",
-                "MacBook Air (2020) and later",
-                "MacBook Pro (2018) and later"
+                "MacBook Air (2020 and later)",
+                "MacBook Pro (2018 and later)"
             ],
             "releases": [
                 {
@@ -5029,6 +5029,29 @@
                     "kernel": "xnu-11417.121.6~2",
                     "released": "2025-05-12"
                 }
+            ]
+        },
+        {
+            "family": "macOS",
+            "version": "26",
+            "platforms": [
+                "Intel (x86-64)",
+                "ARM64"
+            ],
+            "internal": "Cheer",
+            "external": "Tahoe",
+            "announced":"2025-06-09",
+            "released": "TBD",
+            "requirements": [
+                "iMac (2020 and later)",
+                "iMac Pro (2017)",
+                "MacBook Air (M1 and later)",
+                "MacBook Pro (2019 and later)",
+                "Mac Mini (M1 and later)",
+                "Mac Pro (2019 and later)",
+                "Mac Studio (all models)"        
+            ],
+            "releases": [
             ]
         }
     ]
